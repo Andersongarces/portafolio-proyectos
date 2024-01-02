@@ -1,2 +1,2 @@
-# Proyectos_ipynb
-Diferentes proyectos en Jupyter Notebook
+# Portafolio con proyectos de empressas
+
