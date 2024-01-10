@@ -1,0 +1,4325 @@
+Organisation,Price,Mission_Status,Country,Year,Cantidad de Viajes
+SpaceX,50,Success,USA,2020,14
+SpaceX,0,Success,USA,2020,14
+SpaceX,50,Success,USA,2020,14
+SpaceX,50,Success,USA,2020,14
+SpaceX,50,Success,USA,2020,14
+SpaceX,50,Success,USA,2020,14
+SpaceX,50,Success,USA,2020,14
+SpaceX,50,Success,USA,2020,14
+SpaceX,50,Success,USA,2020,14
+SpaceX,50,Success,USA,2020,14
+SpaceX,50,Success,USA,2020,14
+SpaceX,50,Success,USA,2020,14
+SpaceX,50,Success,USA,2020,14
+SpaceX,50,Success,USA,2020,14
+CASC,29,Success,China,2020,19
+CASC,64,Success,China,2020,19
+CASC,0,Success,China,2020,19
+CASC,29,Success,China,2020,19
+CASC,29,Success,China,2020,19
+CASC,64,Success,China,2020,19
+CASC,29,Success,China,2020,19
+CASC,29,Success,China,2020,19
+CASC,30,Success,China,2020,19
+CASC,29,Success,China,2020,19
+CASC,5,Success,China,2020,19
+CASC,0,Success,China,2020,19
+CASC,29,Failure,China,2020,19
+CASC,30,Success,China,2020,19
+CASC,0,Failure,China,2020,19
+CASC,29,Success,China,2020,19
+CASC,29,Success,China,2020,19
+CASC,29,Success,China,2020,19
+CASC,29,Success,China,2020,19
+Roscosmos,65,Success,Kazakhstan,2020,4
+Roscosmos,48,Success,Kazakhstan,2020,4
+Roscosmos,48,Success,Kazakhstan,2020,4
+Roscosmos,48,Success,Kazakhstan,2020,4
+ULA,145,Success,USA,2020,4
+ULA,120,Success,USA,2020,4
+ULA,153,Success,USA,2020,4
+ULA,115,Success,USA,2020,4
+JAXA,90,Success,Japan,2020,1
+Northrop,46,Success,USA,2020,2
+Northrop,85,Success,USA,2020,2
+ExPace,28,Failure,China,2020,3
+ExPace,0,Success,China,2020,3
+ExPace,0,Success,China,2020,3
+IAI,0,Success,Israel,2020,1
+Rocket Lab,7,Failure,New Zealand,2020,3
+Rocket Lab,7,Success,New Zealand,2020,3
+Rocket Lab,7,Success,New Zealand,2020,3
+Virgin Orbit,12,Failure,USA,2020,1
+VKS RF,0,Success,Russia,2020,3
+VKS RF,0,Success,Russia,2020,3
+VKS RF,48,Success,Russia,2020,3
+MHI,112,Success,Japan,2020,2
+MHI,90,Success,Japan,2020,2
+IRGC,0,Success,Shahrud Missile Test Site,2020,1
+Arianespace,48,Success,Kazakhstan,2020,4
+Arianespace,200,Success,France,2020,4
+Arianespace,48,Success,Kazakhstan,2020,4
+Arianespace,200,Success,France,2020,4
+ISA,0,Failure,Iran,2020,1
+CASC,0,Success,China,2019,27
+CASC,64,Success,China,2019,27
+CASC,0,Success,China,2019,27
+CASC,64,Success,China,2019,27
+CASC,0,Success,China,2019,27
+CASC,0,Success,China,2019,27
+CASC,29,Success,China,2019,27
+CASC,64,Success,China,2019,27
+CASC,29,Success,China,2019,27
+CASC,64,Success,China,2019,27
+CASC,29,Success,China,2019,27
+CASC,0,Success,China,2019,27
+CASC,5,Success,China,2019,27
+CASC,64,Success,China,2019,27
+CASC,29,Success,China,2019,27
+CASC,7,Success,China,2019,27
+CASC,30,Success,China,2019,27
+CASC,29,Success,China,2019,27
+CASC,5,Success,Yellow Sea,2019,27
+CASC,64,Failure,China,2019,27
+CASC,0,Success,China,2019,27
+CASC,64,Success,China,2019,27
+CASC,29,Success,China,2019,27
+CASC,29,Success,China,2019,27
+CASC,29,Success,China,2019,27
+CASC,5,Success,China,2019,27
+CASC,29,Success,China,2019,27
+VKS RF,41,Success,Russia,2019,8
+VKS RF,48,Success,Russia,2019,8
+VKS RF,0,Success,Russia,2019,8
+VKS RF,48,Success,Russia,2019,8
+VKS RF,41,Success,Russia,2019,8
+VKS RF,48,Success,Russia,2019,8
+VKS RF,0,Success,Russia,2019,8
+VKS RF,0,Success,Kazakhstan,2019,8
+Roscosmos,65,Success,Kazakhstan,2019,13
+Roscosmos,48,Success,Kazakhstan,2019,13
+Roscosmos,0,Success,Kazakhstan,2019,13
+Roscosmos,48,Success,Kazakhstan,2019,13
+Roscosmos,65,Success,Kazakhstan,2019,13
+Roscosmos,48,Success,Kazakhstan,2019,13
+Roscosmos,0,Success,Kazakhstan,2019,13
+Roscosmos,65,Success,Kazakhstan,2019,13
+Roscosmos,0,Success,Russia,2019,13
+Roscosmos,65,Success,Kazakhstan,2019,13
+Roscosmos,0,Success,Russia,2019,13
+Roscosmos,48,Success,Kazakhstan,2019,13
+Roscosmos,0,Success,Kazakhstan,2019,13
+ULA,0,Success,USA,2019,5
+ULA,164,Success,USA,2019,5
+ULA,153,Success,USA,2019,5
+ULA,0,Success,USA,2019,5
+ULA,350,Success,USA,2019,5
+Arianespace,0,Success,France,2019,9
+Arianespace,200,Success,France,2019,9
+Arianespace,200,Success,France,2019,9
+Arianespace,37,Failure,France,2019,9
+Arianespace,200,Success,France,2019,9
+Arianespace,0,Success,France,2019,9
+Arianespace,37,Success,France,2019,9
+Arianespace,0,Success,France,2019,9
+Arianespace,200,Success,France,2019,9
+SpaceX,50,Success,USA,2019,13
+SpaceX,50,Success,USA,2019,13
+SpaceX,50,Success,USA,2019,13
+SpaceX,50,Success,USA,2019,13
+SpaceX,50,Success,USA,2019,13
+SpaceX,90,Success,USA,2019,13
+SpaceX,50,Success,USA,2019,13
+SpaceX,50,Success,USA,2019,13
+SpaceX,50,Success,USA,2019,13
+SpaceX,90,Success,USA,2019,13
+SpaceX,50,Success,USA,2019,13
+SpaceX,50,Success,USA,2019,13
+SpaceX,50,Success,USA,2019,13
+Blue Origin,0,Success,USA,2019,3
+Blue Origin,0,Success,USA,2019,3
+Blue Origin,0,Success,USA,2019,3
+ISRO,21,Success,India,2019,6
+ISRO,31,Success,India,2019,6
+ISRO,62,Success,India,2019,6
+ISRO,21,Success,India,2019,6
+ISRO,21,Success,India,2019,6
+ISRO,0,Success,India,2019,6
+ExPace,0,Success,China,2019,5
+ExPace,0,Success,China,2019,5
+ExPace,0,Success,China,2019,5
+ExPace,0,Success,China,2019,5
+ExPace,0,Success,China,2019,5
+Rocket Lab,7,Success,New Zealand,2019,6
+Rocket Lab,7,Success,New Zealand,2019,6
+Rocket Lab,7,Success,New Zealand,2019,6
+Rocket Lab,7,Success,New Zealand,2019,6
+Rocket Lab,7,Success,New Zealand,2019,6
+Rocket Lab,7,Success,New Zealand,2019,6
+Northrop,85,Success,USA,2019,3
+Northrop,40,Success,USA,2019,3
+Northrop,85,Success,USA,2019,3
+Exos,0,Failure,New Mexico,2019,3
+Exos,0,Partial Failure,New Mexico,2019,3
+Exos,0,Partial Failure,New Mexico,2019,3
+ILS,65,Success,Kazakhstan,2019,1
+MHI,112,Success,Japan,2019,1
+ISA,0,Prelaunch Failure,Iran,2019,3
+ISA,0,Failure,Iran,2019,3
+ISA,0,Failure,Iran,2019,3
+i-Space,0,Success,China,2019,1
+OneSpace,0,Failure,China,2019,1
+JAXA,39,Success,Japan,2019,1
+CASC,0,Success,China,2018,37
+CASC,0,Success,China,2018,37
+CASC,5,Success,China,2018,37
+CASC,29,Success,China,2018,37
+CASC,29,Success,China,2018,37
+CASC,29,Success,China,2018,37
+CASC,0,Success,China,2018,37
+CASC,29,Success,China,2018,37
+CASC,30,Success,China,2018,37
+CASC,64,Success,China,2018,37
+CASC,0,Success,China,2018,37
+CASC,30,Success,China,2018,37
+CASC,0,Success,China,2018,37
+CASC,30,Success,China,2018,37
+CASC,0,Success,China,2018,37
+CASC,64,Success,China,2018,37
+CASC,0,Success,China,2018,37
+CASC,69,Success,China,2018,37
+CASC,30,Success,China,2018,37
+CASC,30,Success,China,2018,37
+CASC,69,Success,China,2018,37
+CASC,29,Success,China,2018,37
+CASC,64,Success,China,2018,37
+CASC,64,Success,China,2018,37
+CASC,29,Success,China,2018,37
+CASC,5,Success,China,2018,37
+CASC,64,Success,China,2018,37
+CASC,64,Success,China,2018,37
+CASC,0,Success,China,2018,37
+CASC,29,Success,China,2018,37
+CASC,0,Success,China,2018,37
+CASC,29,Success,China,2018,37
+CASC,30,Success,China,2018,37
+CASC,5,Success,China,2018,37
+CASC,29,Success,China,2018,37
+CASC,0,Success,China,2018,37
+CASC,29,Success,China,2018,37
+Roscosmos,48,Success,Russia,2018,11
+Roscosmos,0,Success,Kazakhstan,2018,11
+Roscosmos,0,Success,Kazakhstan,2018,11
+Roscosmos,35,Success,Russia,2018,11
+Roscosmos,0,Failure,Kazakhstan,2018,11
+Roscosmos,48,Success,Kazakhstan,2018,11
+Roscosmos,0,Success,Kazakhstan,2018,11
+Roscosmos,0,Success,Russia,2018,11
+Roscosmos,0,Success,Kazakhstan,2018,11
+Roscosmos,48,Success,Kazakhstan,2018,11
+Roscosmos,48,Success,Russia,2018,11
+SpaceX,50,Success,USA,2018,21
+SpaceX,50,Success,USA,2018,21
+SpaceX,50,Success,USA,2018,21
+SpaceX,50,Success,USA,2018,21
+SpaceX,50,Success,USA,2018,21
+SpaceX,50,Success,USA,2018,21
+SpaceX,50,Success,USA,2018,21
+SpaceX,50,Success,USA,2018,21
+SpaceX,50,Success,USA,2018,21
+SpaceX,62,Success,USA,2018,21
+SpaceX,62,Success,USA,2018,21
+SpaceX,62,Success,USA,2018,21
+SpaceX,50,Success,USA,2018,21
+SpaceX,62,Success,USA,2018,21
+SpaceX,62,Success,USA,2018,21
+SpaceX,62,Success,USA,2018,21
+SpaceX,62,Success,USA,2018,21
+SpaceX,62,Success,USA,2018,21
+SpaceX,90,Success,USA,2018,21
+SpaceX,62,Success,USA,2018,21
+SpaceX,62,Success,USA,2018,21
+VKS RF,65,Success,Kazakhstan,2018,5
+VKS RF,41,Success,Russia,2018,5
+VKS RF,48,Success,Russia,2018,5
+VKS RF,0,Success,Russia,2018,5
+VKS RF,65,Success,Kazakhstan,2018,5
+Arianespace,0,Success,France,2018,11
+Arianespace,200,Success,France,2018,11
+Arianespace,37,Success,France,2018,11
+Arianespace,0,Success,France,2018,11
+Arianespace,200,Success,France,2018,11
+Arianespace,200,Success,France,2018,11
+Arianespace,37,Success,France,2018,11
+Arianespace,0,Success,France,2018,11
+Arianespace,200,Success,France,2018,11
+Arianespace,0,Success,France,2018,11
+Arianespace,200,Partial Failure,France,2018,11
+ISRO,47,Success,India,2018,7
+ISRO,21,Success,India,2018,7
+ISRO,62,Success,India,2018,7
+ISRO,21,Success,India,2018,7
+ISRO,31,Success,India,2018,7
+ISRO,47,Success,India,2018,7
+ISRO,31,Success,India,2018,7
+Rocket Lab,7,Success,New Zealand,2018,3
+Rocket Lab,7,Success,New Zealand,2018,3
+Rocket Lab,7,Success,New Zealand,2018,3
+Northrop,85,Success,USA,2018,2
+Northrop,85,Success,USA,2018,2
+MHI,90,Success,Japan,2018,4
+MHI,112,Success,Japan,2018,4
+MHI,90,Success,Japan,2018,4
+MHI,90,Success,Japan,2018,4
+Landspace,0,Failure,China,2018,1
+ULA,153,Success,USA,2018,8
+ULA,0,Success,USA,2018,8
+ULA,350,Success,USA,2018,8
+ULA,109,Success,USA,2018,8
+ULA,153,Success,USA,2018,8
+ULA,145,Success,USA,2018,8
+ULA,115,Success,USA,2018,8
+ULA,0,Success,USA,2018,8
+ExPace,0,Success,China,2018,1
+Exos,0,Partial Failure,New Mexico,2018,1
+Blue Origin,0,Success,USA,2018,2
+Blue Origin,0,Success,USA,2018,2
+Eurockot,41,Success,Russia,2018,1
+JAXA,0,Success,Japan,2018,2
+JAXA,39,Success,Japan,2018,2
+Land Launch,0,Success,Kazakhstan,2017,1
+CASC,30,Success,China,2017,16
+CASC,29,Success,China,2017,16
+CASC,29,Success,China,2017,16
+CASC,29,Success,China,2017,16
+CASC,30,Success,China,2017,16
+CASC,0,Success,China,2017,16
+CASC,64,Success,China,2017,16
+CASC,0,Success,China,2017,16
+CASC,29,Success,China,2017,16
+CASC,30,Success,China,2017,16
+CASC,0,Failure,China,2017,16
+CASC,29,Partial Failure,China,2017,16
+CASC,64,Success,China,2017,16
+CASC,0,Success,China,2017,16
+CASC,29,Success,China,2017,16
+CASC,29,Success,China,2017,16
+SpaceX,62,Success,USA,2017,18
+SpaceX,62,Success,USA,2017,18
+SpaceX,62,Success,USA,2017,18
+SpaceX,62,Success,USA,2017,18
+SpaceX,62,Success,USA,2017,18
+SpaceX,62,Success,USA,2017,18
+SpaceX,62,Success,USA,2017,18
+SpaceX,62,Success,USA,2017,18
+SpaceX,62,Success,USA,2017,18
+SpaceX,62,Success,USA,2017,18
+SpaceX,62,Success,USA,2017,18
+SpaceX,62,Success,USA,2017,18
+SpaceX,62,Success,USA,2017,18
+SpaceX,62,Success,USA,2017,18
+SpaceX,62,Success,USA,2017,18
+SpaceX,62,Success,USA,2017,18
+SpaceX,62,Success,USA,2017,18
+SpaceX,62,Success,USA,2017,18
+MHI,90,Success,Japan,2017,6
+MHI,90,Success,Japan,2017,6
+MHI,0,Success,Japan,2017,6
+MHI,90,Success,Japan,2017,6
+MHI,90,Success,Japan,2017,6
+MHI,0,Success,Japan,2017,6
+Roscosmos,0,Success,Kazakhstan,2017,9
+Roscosmos,0,Failure,Russia,2017,9
+Roscosmos,48,Success,Kazakhstan,2017,9
+Roscosmos,0,Success,Kazakhstan,2017,9
+Roscosmos,0,Success,Kazakhstan,2017,9
+Roscosmos,48,Partial Failure,Kazakhstan,2017,9
+Roscosmos,48,Success,Kazakhstan,2017,9
+Roscosmos,0,Success,Kazakhstan,2017,9
+Roscosmos,0,Success,Kazakhstan,2017,9
+Blue Origin,0,Success,USA,2017,1
+Arianespace,0,Success,France,2017,11
+Arianespace,37,Success,France,2017,11
+Arianespace,200,Success,France,2017,11
+Arianespace,37,Success,France,2017,11
+Arianespace,200,Success,France,2017,11
+Arianespace,200,Success,France,2017,11
+Arianespace,0,Success,France,2017,11
+Arianespace,200,Success,France,2017,11
+Arianespace,37,Success,France,2017,11
+Arianespace,200,Success,France,2017,11
+Arianespace,0,Success,France,2017,11
+VKS RF,35,Success,Russia,2017,6
+VKS RF,65,Success,Kazakhstan,2017,6
+VKS RF,0,Success,Russia,2017,6
+VKS RF,65,Success,Kazakhstan,2017,6
+VKS RF,0,Success,Russia,2017,6
+VKS RF,0,Success,Russia,2017,6
+ULA,0,Success,USA,2017,8
+ULA,123,Success,USA,2017,8
+ULA,145,Success,USA,2017,8
+ULA,109,Success,USA,2017,8
+ULA,109,Success,USA,2017,8
+ULA,0,Success,USA,2017,8
+ULA,109,Success,USA,2017,8
+ULA,109,Success,USA,2017,8
+Northrop,85,Success,USA,2017,3
+Northrop,45,Success,USA,2017,3
+Northrop,46,Success,USA,2017,3
+Eurockot,41,Success,Russia,2017,1
+ILS,65,Success,Kazakhstan,2017,2
+ILS,65,Success,Kazakhstan,2017,2
+ISRO,31,Failure,India,2017,5
+ISRO,31,Success,India,2017,5
+ISRO,62,Success,India,2017,5
+ISRO,47,Success,India,2017,5
+ISRO,31,Success,India,2017,5
+ISA,0,Failure,Iran,2017,1
+Rocket Lab,7,Failure,New Zealand,2017,1
+CASIC,0,Success,China,2017,1
+JAXA,0,Failure,Japan,2017,1
+ExPace,0,Success,China,2017,1
+CASC,29,Partial Failure,China,2016,22
+CASC,29,Success,China,2016,22
+CASC,29,Success,China,2016,22
+CASC,0,Success,China,2016,22
+CASC,29,Success,China,2016,22
+CASC,5,Success,China,2016,22
+CASC,0,Success,China,2016,22
+CASC,0,Success,China,2016,22
+CASC,0,Success,China,2016,22
+CASC,64,Failure,China,2016,22
+CASC,29,Success,China,2016,22
+CASC,64,Success,China,2016,22
+CASC,29,Success,China,2016,22
+CASC,64,Success,China,2016,22
+CASC,0,Success,China,2016,22
+CASC,0,Success,China,2016,22
+CASC,64,Success,China,2016,22
+CASC,29,Success,China,2016,22
+CASC,29,Success,China,2016,22
+CASC,69,Success,China,2016,22
+CASC,0,Success,China,2016,22
+CASC,29,Success,China,2016,22
+Arianespace,200,Success,France,2016,11
+Arianespace,37,Success,France,2016,11
+Arianespace,0,Success,France,2016,11
+Arianespace,200,Success,France,2016,11
+Arianespace,37,Success,France,2016,11
+Arianespace,200,Success,France,2016,11
+Arianespace,200,Success,France,2016,11
+Arianespace,0,Success,France,2016,11
+Arianespace,0,Success,France,2016,11
+Arianespace,200,Success,France,2016,11
+Arianespace,200,Success,France,2016,11
+JAXA,0,Success,Japan,2016,1
+ULA,130,Success,USA,2016,12
+ULA,0,Success,USA,2016,12
+ULA,145,Success,USA,2016,12
+ULA,109,Success,USA,2016,12
+ULA,115,Success,USA,2016,12
+ULA,164,Success,USA,2016,12
+ULA,123,Success,USA,2016,12
+ULA,153,Success,USA,2016,12
+ULA,350,Success,USA,2016,12
+ULA,109,Success,USA,2016,12
+ULA,0,Success,USA,2016,12
+ULA,109,Success,USA,2016,12
+Northrop,40,Success,USA,2016,2
+Northrop,85,Success,USA,2016,2
+MHI,112,Success,Japan,2016,3
+MHI,90,Success,Japan,2016,3
+MHI,90,Success,Japan,2016,3
+ISRO,31,Success,India,2016,7
+ISRO,25,Success,India,2016,7
+ISRO,47,Success,India,2016,7
+ISRO,31,Success,India,2016,7
+ISRO,31,Success,India,2016,7
+ISRO,31,Success,India,2016,7
+ISRO,31,Success,India,2016,7
+Roscosmos,0,Failure,Kazakhstan,2016,10
+Roscosmos,0,Success,Kazakhstan,2016,10
+Roscosmos,0,Success,Kazakhstan,2016,10
+Roscosmos,0,Success,Kazakhstan,2016,10
+Roscosmos,0,Success,Kazakhstan,2016,10
+Roscosmos,0,Success,Russia,2016,10
+Roscosmos,48,Success,Kazakhstan,2016,10
+Roscosmos,0,Success,Kazakhstan,2016,10
+Roscosmos,65,Success,Kazakhstan,2016,10
+Roscosmos,35,Success,Kazakhstan,2016,10
+Blue Origin,0,Success,USA,2016,4
+Blue Origin,0,Success,USA,2016,4
+Blue Origin,0,Success,USA,2016,4
+Blue Origin,0,Success,USA,2016,4
+IAI,0,Success,Israel,2016,1
+SpaceX,62,Prelaunch Failure,USA,2016,9
+SpaceX,62,Success,USA,2016,9
+SpaceX,62,Success,USA,2016,9
+SpaceX,62,Success,USA,2016,9
+SpaceX,62,Success,USA,2016,9
+SpaceX,62,Success,USA,2016,9
+SpaceX,62,Success,USA,2016,9
+SpaceX,62,Success,USA,2016,9
+SpaceX,56,Success,USA,2016,9
+ILS,65,Success,Kazakhstan,2016,2
+ILS,65,Success,Kazakhstan,2016,2
+VKS RF,41,Success,Russia,2016,4
+VKS RF,48,Success,Russia,2016,4
+VKS RF,48,Success,Russia,2016,4
+VKS RF,48,Success,Russia,2016,4
+Eurockot,41,Success,Russia,2016,1
+KCST,0,Success,North Korea,2016,1
+SpaceX,62,Success,USA,2015,7
+SpaceX,56,Failure,USA,2015,7
+SpaceX,56,Success,USA,2015,7
+SpaceX,56,Success,USA,2015,7
+SpaceX,56,Success,USA,2015,7
+SpaceX,56,Success,USA,2015,7
+SpaceX,56,Success,USA,2015,7
+Arianespace,0,Success,France,2015,12
+Arianespace,37,Success,France,2015,12
+Arianespace,200,Success,France,2015,12
+Arianespace,200,Success,France,2015,12
+Arianespace,0,Success,France,2015,12
+Arianespace,200,Success,France,2015,12
+Arianespace,200,Success,France,2015,12
+Arianespace,37,Success,France,2015,12
+Arianespace,200,Success,France,2015,12
+Arianespace,200,Success,France,2015,12
+Arianespace,0,Success,France,2015,12
+Arianespace,37,Success,France,2015,12
+ISRO,21,Success,India,2015,5
+ISRO,31,Success,India,2015,5
+ISRO,47,Success,India,2015,5
+ISRO,31,Success,India,2015,5
+ISRO,31,Success,India,2015,5
+Roscosmos,0,Success,Kazakhstan,2015,1
+ULA,109,Success,USA,2015,12
+ULA,109,Success,USA,2015,12
+ULA,109,Success,USA,2015,12
+ULA,123,Success,USA,2015,12
+ULA,153,Success,USA,2015,12
+ULA,0,Success,USA,2015,12
+ULA,109,Success,USA,2015,12
+ULA,120,Success,USA,2015,12
+ULA,164,Success,USA,2015,12
+ULA,123,Success,USA,2015,12
+ULA,0,Success,USA,2015,12
+ULA,153,Success,USA,2015,12
+VKS RF,0,Partial Failure,Russia,2015,3
+VKS RF,41,Success,Russia,2015,3
+VKS RF,41,Success,Russia,2015,3
+MHI,0,Success,Japan,2015,4
+MHI,112,Success,Japan,2015,4
+MHI,90,Success,Japan,2015,4
+MHI,90,Success,Japan,2015,4
+Blue Origin,0,Success,USA,2015,2
+Blue Origin,0,Success,USA,2015,2
+Sandia,15,Failure,Pacific Missile Range Facility,2015,1
+CASC,5,Success,China,2015,2
+CASC,0,Success,China,2015,2
+Kosmotras,29,Success,Russia,2015,1
+ISA,0,Failure,Iran,2015,2
+ISA,0,Success,Iran,2015,2
+Khrunichev,0,Success,Russia,2014,1
+VKS RF,0,Success,Kazakhstan,2014,4
+VKS RF,0,Success,Russia,2014,4
+VKS RF,41,Success,Russia,2014,4
+VKS RF,41,Success,Russia,2014,4
+Arianespace,0,Success,France,2014,11
+Arianespace,200,Success,France,2014,11
+Arianespace,200,Success,France,2014,11
+Arianespace,200,Success,France,2014,11
+Arianespace,0,Partial Failure,France,2014,11
+Arianespace,0,Success,France,2014,11
+Arianespace,0,Success,France,2014,11
+Arianespace,37,Success,France,2014,11
+Arianespace,0,Success,France,2014,11
+Arianespace,200,Success,France,2014,11
+Arianespace,200,Success,France,2014,11
+ISRO,62,Success,India,2014,5
+ISRO,31,Success,India,2014,5
+ISRO,21,Success,India,2014,5
+ISRO,31,Success,India,2014,5
+ISRO,47,Success,India,2014,5
+ULA,145,Success,USA,2014,14
+ULA,350,Success,USA,2014,14
+ULA,109,Success,USA,2014,14
+ULA,109,Success,USA,2014,14
+ULA,109,Success,USA,2014,14
+ULA,109,Success,USA,2014,14
+ULA,164,Success,USA,2014,14
+ULA,0,Success,USA,2014,14
+ULA,109,Success,USA,2014,14
+ULA,164,Success,USA,2014,14
+ULA,145,Success,USA,2014,14
+ULA,109,Success,USA,2014,14
+ULA,164,Success,USA,2014,14
+ULA,109,Success,USA,2014,14
+MHI,90,Success,Japan,2014,4
+MHI,90,Success,Japan,2014,4
+MHI,90,Success,Japan,2014,4
+MHI,90,Success,Japan,2014,4
+CASIC,0,Success,China,2014,1
+Kosmotras,29,Success,Russia,2014,2
+Kosmotras,29,Success,Russia,2014,2
+Northrop,80,Failure,USA,2014,3
+Northrop,80,Success,USA,2014,3
+Northrop,80,Success,USA,2014,3
+SpaceX,56,Success,USA,2014,6
+SpaceX,56,Success,USA,2014,6
+SpaceX,56,Success,USA,2014,6
+SpaceX,56,Success,USA,2014,6
+SpaceX,56,Success,USA,2014,6
+SpaceX,56,Success,USA,2014,6
+Sea Launch,0,Success,Pacific Ocean,2014,1
+IAI,0,Success,Israel,2014,1
+VKS RF,0,Success,Russia,2013,7
+VKS RF,41,Success,Russia,2013,7
+VKS RF,41,Success,Russia,2013,7
+VKS RF,41,Success,Russia,2013,7
+VKS RF,65,Failure,Kazakhstan,2013,7
+VKS RF,0,Success,Kazakhstan,2013,7
+VKS RF,41,Partial Failure,Russia,2013,7
+Arianespace,0,Success,France,2013,7
+Arianespace,200,Success,France,2013,7
+Arianespace,200,Success,France,2013,7
+Arianespace,0,Success,France,2013,7
+Arianespace,0,Success,France,2013,7
+Arianespace,37,Success,France,2013,7
+Arianespace,200,Success,France,2013,7
+ULA,120,Success,USA,2013,11
+ULA,109,Success,USA,2013,11
+ULA,140,Success,USA,2013,11
+ULA,350,Success,USA,2013,11
+ULA,0,Success,USA,2013,11
+ULA,153,Success,USA,2013,11
+ULA,0,Success,USA,2013,11
+ULA,109,Success,USA,2013,11
+ULA,109,Success,USA,2013,11
+ULA,109,Success,USA,2013,11
+ULA,109,Success,USA,2013,11
+SpaceX,56,Success,USA,2013,3
+SpaceX,56,Success,USA,2013,3
+SpaceX,59,Success,USA,2013,3
+Kosmotras,29,Success,Russia,2013,2
+Kosmotras,29,Success,Russia,2013,2
+Northrop,40,Success,USA,2013,5
+Northrop,80,Success,USA,2013,5
+Northrop,55,Success,USA,2013,5
+Northrop,40,Success,USA,2013,5
+Northrop,80,Success,USA,2013,5
+ISRO,31,Success,India,2013,3
+ISRO,31,Success,India,2013,3
+ISRO,21,Success,India,2013,3
+CASIC,0,Success,China,2013,1
+JAXA,0,Success,Japan,2013,1
+Land Launch,0,Success,Kazakhstan,2013,1
+MHI,112,Success,Japan,2013,2
+MHI,90,Success,Japan,2013,2
+CASC,0,Success,China,2013,1
+Sea Launch,0,Failure,Pacific Ocean,2013,1
+KARI,0,Success,South Korea,2013,1
+Arianespace,200,Success,France,2012,9
+Arianespace,80,Success,France,2012,9
+Arianespace,200,Success,France,2012,9
+Arianespace,0,Success,France,2012,9
+Arianespace,200,Success,France,2012,9
+Arianespace,200,Success,France,2012,9
+Arianespace,200,Success,France,2012,9
+Arianespace,200,Success,France,2012,9
+Arianespace,0,Success,France,2012,9
+KCST,0,Success,North Korea,2012,2
+KCST,0,Failure,North Korea,2012,2
+ULA,120,Success,USA,2012,10
+ULA,164,Success,USA,2012,10
+ULA,109,Success,USA,2012,10
+ULA,109,Success,USA,2012,10
+ULA,350,Success,USA,2012,10
+ULA,109,Success,USA,2012,10
+ULA,140,Success,USA,2012,10
+ULA,0,Success,USA,2012,10
+ULA,153,Success,USA,2012,10
+ULA,0,Success,USA,2012,10
+Sea Launch,0,Success,Pacific Ocean,2012,3
+Sea Launch,0,Success,Pacific Ocean,2012,3
+Sea Launch,0,Success,Pacific Ocean,2012,3
+SpaceX,59,Partial Failure,USA,2012,2
+SpaceX,59,Success,USA,2012,2
+ISA,0,Failure,Iran,2012,3
+ISA,0,Failure,Iran,2012,3
+ISA,0,Success,Iran,2012,3
+ISRO,21,Success,India,2012,3
+ISRO,31,Success,India,2012,3
+ISRO,31,Success,India,2012,3
+VKS RF,41,Success,Russia,2012,1
+MHI,112,Success,Japan,2012,2
+MHI,90,Success,Japan,2012,2
+CASC,0,Success,China,2012,1
+Northrop,40,Success,USA,2012,1
+ESA,37,Success,France,2012,1
+Arianespace,80,Success,France,2011,7
+Arianespace,0,Success,France,2011,7
+Arianespace,200,Success,France,2011,7
+Arianespace,200,Success,France,2011,7
+Arianespace,200,Success,France,2011,7
+Arianespace,200,Success,France,2011,7
+Arianespace,0,Success,France,2011,7
+MHI,90,Success,Japan,2011,4
+MHI,90,Success,Japan,2011,4
+MHI,90,Success,Japan,2011,4
+MHI,112,Success,Japan,2011,4
+ULA,145,Success,USA,2011,11
+ULA,0,Success,USA,2011,11
+ULA,0,Success,USA,2011,11
+ULA,153,Success,USA,2011,11
+ULA,164,Success,USA,2011,11
+ULA,0,Success,USA,2011,11
+ULA,109,Success,USA,2011,11
+ULA,115,Success,USA,2011,11
+ULA,164,Success,USA,2011,11
+ULA,120,Success,USA,2011,11
+ULA,350,Success,USA,2011,11
+Roscosmos,0,Success,Kazakhstan,2011,3
+Roscosmos,0,Success,Kazakhstan,2011,3
+Roscosmos,0,Success,Kazakhstan,2011,3
+CASC,0,Success,China,2011,2
+CASC,0,Success,China,2011,2
+ISRO,21,Success,India,2011,3
+ISRO,31,Success,India,2011,3
+ISRO,25,Success,India,2011,3
+Land Launch,0,Success,Kazakhstan,2011,1
+Northrop,46,Success,USA,2011,4
+Northrop,40,Success,USA,2011,4
+Northrop,45,Failure,USA,2011,4
+Northrop,40,Success,USA,2011,4
+Sea Launch,0,Success,Pacific Ocean,2011,1
+Kosmotras,29,Success,Russia,2011,1
+NASA,450,Success,USA,2011,3
+NASA,450,Success,USA,2011,3
+NASA,450,Success,USA,2011,3
+ISA,0,Success,Iran,2011,1
+VKS RF,41,Partial Failure,Russia,2011,1
+Arianespace,200,Success,France,2010,6
+Arianespace,200,Success,France,2010,6
+Arianespace,200,Success,France,2010,6
+Arianespace,200,Success,France,2010,6
+Arianespace,200,Success,France,2010,6
+Arianespace,200,Success,France,2010,6
+ISRO,47,Failure,India,2010,3
+ISRO,21,Success,India,2010,3
+ISRO,47,Failure,India,2010,3
+SpaceX,59,Success,USA,2010,2
+SpaceX,59,Success,USA,2010,2
+ULA,350,Success,USA,2010,8
+ULA,0,Success,USA,2010,8
+ULA,120,Success,USA,2010,8
+ULA,140,Success,USA,2010,8
+ULA,164,Success,USA,2010,8
+ULA,120,Success,USA,2010,8
+ULA,164,Success,USA,2010,8
+ULA,109,Success,USA,2010,8
+Northrop,46,Success,USA,2010,2
+Northrop,46,Success,USA,2010,2
+VKS RF,0,Success,Russia,2010,3
+VKS RF,41,Success,Russia,2010,3
+VKS RF,0,Success,Russia,2010,3
+IAI,0,Success,Israel,2010,1
+Kosmotras,29,Success,Kazakhstan,2010,3
+Kosmotras,29,Success,Russia,2010,3
+Kosmotras,29,Success,Kazakhstan,2010,3
+KARI,0,Failure,South Korea,2010,1
+Eurockot,41,Success,Russia,2010,1
+NASA,450,Success,USA,2010,3
+NASA,450,Success,USA,2010,3
+NASA,450,Success,USA,2010,3
+MHI,90,Success,Japan,2010,1
+Roscosmos,0,Success,Kazakhstan,2010,3
+Roscosmos,0,Success,Kazakhstan,2010,3
+Roscosmos,0,Success,Kazakhstan,2010,3
+Arianespace,0,Success,France,2009,7
+Arianespace,200,Success,France,2009,7
+Arianespace,200,Success,France,2009,7
+Arianespace,200,Success,France,2009,7
+Arianespace,200,Success,France,2009,7
+Arianespace,200,Success,France,2009,7
+Arianespace,200,Success,France,2009,7
+ULA,0,Success,USA,2009,16
+ULA,0,Success,USA,2009,16
+ULA,130,Success,USA,2009,16
+ULA,109,Success,USA,2009,16
+ULA,0,Success,USA,2009,16
+ULA,0,Success,USA,2009,16
+ULA,109,Success,USA,2009,16
+ULA,0,Success,USA,2009,16
+ULA,164,Success,USA,2009,16
+ULA,123,Success,USA,2009,16
+ULA,0,Success,USA,2009,16
+ULA,123,Success,USA,2009,16
+ULA,0,Success,USA,2009,16
+ULA,0,Success,USA,2009,16
+ULA,0,Success,USA,2009,16
+ULA,350,Success,USA,2009,16
+Land Launch,0,Success,Kazakhstan,2009,3
+Land Launch,0,Success,Kazakhstan,2009,3
+Land Launch,0,Success,Kazakhstan,2009,3
+MHI,90,Success,Japan,2009,3
+MHI,112,Success,Japan,2009,3
+MHI,90,Success,Japan,2009,3
+NASA,450,Success,USA,2009,6
+NASA,450,Success,USA,2009,6
+NASA,450,Success,USA,2009,6
+NASA,450,Success,USA,2009,6
+NASA,450,Success,USA,2009,6
+NASA,450,Success,USA,2009,6
+Eurockot,41,Success,Russia,2009,2
+Eurockot,41,Success,Russia,2009,2
+ISRO,21,Success,India,2009,2
+ISRO,21,Success,India,2009,2
+KARI,0,Failure,South Korea,2009,1
+Kosmotras,29,Success,Kazakhstan,2009,1
+VKS RF,0,Success,Russia,2009,3
+VKS RF,41,Success,Russia,2009,3
+VKS RF,0,Success,Russia,2009,3
+SpaceX,7,Success,USA,2009,1
+Northrop,40,Success,USA,2009,2
+Northrop,45,Failure,USA,2009,2
+Sea Launch,0,Success,Pacific Ocean,2009,1
+KCST,0,Failure,North Korea,2009,1
+ISA,0,Success,Iran,2009,1
+Arianespace,200,Success,France,2008,6
+Arianespace,200,Success,France,2008,6
+Arianespace,200,Success,France,2008,6
+Arianespace,200,Success,France,2008,6
+Arianespace,200,Success,France,2008,6
+Arianespace,0,Success,France,2008,6
+VKS RF,0,Success,Russia,2008,5
+VKS RF,0,Success,Russia,2008,5
+VKS RF,0,Success,Russia,2008,5
+VKS RF,41,Success,Russia,2008,5
+VKS RF,0,Success,Russia,2008,5
+NASA,450,Success,USA,2008,4
+NASA,450,Success,USA,2008,4
+NASA,450,Success,USA,2008,4
+NASA,450,Success,USA,2008,4
+CASC,29,Success,China,2008,9
+CASC,29,Success,China,2008,9
+CASC,29,Success,China,2008,9
+CASC,64,Success,China,2008,9
+CASC,0,Success,China,2008,9
+CASC,0,Success,China,2008,9
+CASC,0,Success,China,2008,9
+CASC,64,Success,China,2008,9
+CASC,20,Success,China,2008,9
+ULA,0,Success,USA,2008,7
+ULA,0,Success,USA,2008,7
+ULA,0,Success,USA,2008,7
+ULA,0,Success,USA,2008,7
+ULA,123,Success,USA,2008,7
+ULA,0,Success,USA,2008,7
+ULA,115,Success,USA,2008,7
+ISRO,31,Success,India,2008,3
+ISRO,21,Success,India,2008,3
+ISRO,21,Success,India,2008,3
+Northrop,40,Success,USA,2008,2
+Northrop,40,Success,USA,2008,2
+Kosmotras,29,Success,Russia,2008,2
+Kosmotras,29,Success,Kazakhstan,2008,2
+SpaceX,7,Success,USA,2008,2
+SpaceX,7,Failure,USA,2008,2
+Sea Launch,0,Success,Pacific Ocean,2008,5
+Sea Launch,0,Success,Pacific Ocean,2008,5
+Sea Launch,0,Success,Pacific Ocean,2008,5
+Sea Launch,0,Success,Pacific Ocean,2008,5
+Sea Launch,0,Success,Pacific Ocean,2008,5
+ISA,0,Failure,Iran,2008,1
+Land Launch,0,Partial Failure,Kazakhstan,2008,1
+MHI,90,Success,Japan,2008,1
+Arianespace,0,Success,France,2007,6
+Arianespace,200,Success,France,2007,6
+Arianespace,0,Success,France,2007,6
+Arianespace,200,Success,France,2007,6
+Arianespace,200,Success,France,2007,6
+Arianespace,200,Success,France,2007,6
+ULA,0,Success,USA,2007,13
+ULA,109,Success,USA,2007,13
+ULA,0,Success,USA,2007,13
+ULA,350,Success,USA,2007,13
+ULA,0,Success,USA,2007,13
+ULA,123,Success,USA,2007,13
+ULA,0,Success,USA,2007,13
+ULA,0,Success,USA,2007,13
+ULA,0,Success,USA,2007,13
+ULA,109,Partial Failure,USA,2007,13
+ULA,0,Success,USA,2007,13
+ULA,109,Success,USA,2007,13
+ULA,0,Success,USA,2007,13
+CASC,64,Success,China,2007,10
+CASC,0,Success,China,2007,10
+CASC,64,Success,China,2007,10
+CASC,0,Success,China,2007,10
+CASC,69,Success,China,2007,10
+CASC,29,Success,China,2007,10
+CASC,29,Success,China,2007,10
+CASC,69,Success,China,2007,10
+CASC,30,Success,China,2007,10
+CASC,69,Success,China,2007,10
+VKS RF,0,Success,Russia,2007,5
+VKS RF,0,Success,Russia,2007,5
+VKS RF,0,Success,Russia,2007,5
+VKS RF,0,Success,Russia,2007,5
+VKS RF,0,Success,Kazakhstan,2007,5
+NASA,450,Success,USA,2007,3
+NASA,450,Success,USA,2007,3
+NASA,450,Success,USA,2007,3
+MHI,0,Success,Japan,2007,2
+MHI,0,Success,Japan,2007,2
+ISRO,47,Partial Failure,India,2007,3
+ISRO,21,Success,India,2007,3
+ISRO,25,Success,India,2007,3
+Kosmotras,29,Success,Russia,2007,3
+Kosmotras,29,Success,Kazakhstan,2007,3
+Kosmotras,29,Success,Kazakhstan,2007,3
+IAI,0,Success,Israel,2007,1
+Northrop,40,Success,USA,2007,2
+Northrop,40,Success,USA,2007,2
+SpaceX,7,Failure,USA,2007,1
+Sea Launch,0,Failure,Pacific Ocean,2007,1
+VKS RF,0,Success,Russia,2006,3
+VKS RF,0,Success,Russia,2006,3
+VKS RF,0,Success,Kazakhstan,2006,3
+MHI,0,Success,Japan,2006,4
+MHI,90,Success,Japan,2006,4
+MHI,0,Success,Japan,2006,4
+MHI,0,Success,Japan,2006,4
+Northrop,40,Success,USA,2006,3
+Northrop,40,Success,USA,2006,3
+Northrop,40,Success,USA,2006,3
+ULA,0,Success,USA,2006,1
+NASA,450,Success,USA,2006,3
+NASA,450,Success,USA,2006,3
+NASA,450,Success,USA,2006,3
+Arianespace,200,Success,France,2006,5
+Arianespace,200,Success,France,2006,5
+Arianespace,200,Success,France,2006,5
+Arianespace,200,Success,France,2006,5
+Arianespace,200,Success,France,2006,5
+CASC,69,Success,China,2006,6
+CASC,0,Success,China,2006,6
+CASC,64,Success,China,2006,6
+CASC,69,Success,China,2006,6
+CASC,30,Success,China,2006,6
+CASC,64,Success,China,2006,6
+Boeing,0,Success,USA,2006,8
+Boeing,133,Success,USA,2006,8
+Boeing,0,Success,USA,2006,8
+Boeing,0,Success,USA,2006,8
+Boeing,164,Success,USA,2006,8
+Boeing,0,Success,USA,2006,8
+Boeing,164,Success,USA,2006,8
+Boeing,0,Success,USA,2006,8
+Sea Launch,0,Success,Pacific Ocean,2006,5
+Sea Launch,0,Success,Pacific Ocean,2006,5
+Sea Launch,0,Success,Pacific Ocean,2006,5
+Sea Launch,0,Success,Pacific Ocean,2006,5
+Sea Launch,0,Success,Pacific Ocean,2006,5
+ISAS,0,Success,Japan,2006,2
+ISAS,0,Success,Japan,2006,2
+Eurockot,41,Success,Russia,2006,1
+Kosmotras,29,Failure,Kazakhstan,2006,2
+Kosmotras,29,Success,Russia,2006,2
+ISRO,47,Failure,India,2006,1
+SRC,0,Success,Barents Sea,2006,1
+MITT,0,Success,Russia,2006,1
+ILS,115,Success,USA,2006,2
+ILS,153,Success,USA,2006,2
+SpaceX,7,Failure,USA,2006,1
+Arianespace,0,Success,France,2005,5
+Arianespace,200,Success,France,2005,5
+Arianespace,0,Success,France,2005,5
+Arianespace,0,Success,France,2005,5
+Arianespace,200,Success,France,2005,5
+VKS RF,0,Success,Russia,2005,5
+VKS RF,0,Success,Russia,2005,5
+VKS RF,41,Success,Russia,2005,5
+VKS RF,0,Failure,Russia,2005,5
+VKS RF,0,Success,Russia,2005,5
+Sea Launch,0,Success,Pacific Ocean,2005,4
+Sea Launch,0,Success,Pacific Ocean,2005,4
+Sea Launch,0,Success,Pacific Ocean,2005,4
+Sea Launch,0,Success,Pacific Ocean,2005,4
+Lockheed,0,Success,USA,2005,3
+Lockheed,0,Success,USA,2005,3
+Lockheed,0,Success,USA,2005,3
+CASC,0,Success,China,2005,5
+CASC,29,Success,China,2005,5
+CASC,30,Success,China,2005,5
+CASC,29,Success,China,2005,5
+CASC,0,Success,China,2005,5
+Eurockot,41,Failure,Russia,2005,1
+Boeing,0,Success,USA,2005,3
+Boeing,0,Success,USA,2005,3
+Boeing,0,Success,USA,2005,3
+Northrop,40,Success,USA,2005,3
+Northrop,40,Success,USA,2005,3
+Northrop,40,Success,USA,2005,3
+Kosmotras,29,Success,Kazakhstan,2005,1
+ILS,109,Success,USA,2005,2
+ILS,130,Success,USA,2005,2
+NASA,450,Success,USA,2005,1
+ISAS,0,Success,Japan,2005,1
+SRC,0,Failure,Barents Sea,2005,1
+ISRO,25,Success,India,2005,1
+MHI,0,Success,Japan,2005,1
+VKS RF,0,Partial Failure,Russia,2004,7
+VKS RF,48,Success,Russia,2004,7
+VKS RF,0,Success,Russia,2004,7
+VKS RF,0,Success,Russia,2004,7
+VKS RF,0,Success,Kazakhstan,2004,7
+VKS RF,0,Success,Kazakhstan,2004,7
+VKS RF,0,Success,Russia,2004,7
+Boeing,350,Partial Failure,USA,2004,8
+Boeing,0,Success,USA,2004,8
+Boeing,0,Success,USA,2004,8
+Boeing,0,Success,USA,2004,8
+Boeing,0,Success,USA,2004,8
+Boeing,0,Success,USA,2004,8
+Boeing,0,Success,USA,2004,8
+Boeing,0,Success,USA,2004,8
+Arianespace,190,Success,France,2004,3
+Arianespace,190,Success,France,2004,3
+Arianespace,190,Success,France,2004,3
+ILS,135,Success,USA,2004,5
+ILS,0,Success,USA,2004,5
+ILS,0,Success,USA,2004,5
+ILS,0,Success,USA,2004,5
+ILS,0,Success,USA,2004,5
+CASC,30,Success,China,2004,8
+CASC,64,Success,China,2004,8
+CASC,69,Success,China,2004,8
+CASC,29,Success,China,2004,8
+CASC,64,Success,China,2004,8
+CASC,30,Success,China,2004,8
+CASC,30,Success,China,2004,8
+CASC,30,Success,China,2004,8
+ISRO,47,Success,India,2004,1
+IAI,0,Failure,Israel,2004,1
+Lockheed,0,Success,USA,2004,2
+Lockheed,0,Success,USA,2004,2
+Kosmotras,29,Success,Kazakhstan,2004,1
+Sea Launch,0,Success,Pacific Ocean,2004,3
+Sea Launch,0,Success,Pacific Ocean,2004,3
+Sea Launch,0,Success,Pacific Ocean,2004,3
+Northrop,45,Success,USA,2004,1
+CASC,30,Success,China,2003,6
+CASC,69,Success,China,2003,6
+CASC,29,Success,China,2003,6
+CASC,64,Success,China,2003,6
+CASC,0,Success,China,2003,6
+CASC,69,Success,China,2003,6
+Boeing,0,Success,USA,2003,9
+Boeing,133,Success,USA,2003,9
+Boeing,0,Success,USA,2003,9
+Boeing,0,Success,USA,2003,9
+Boeing,0,Success,USA,2003,9
+Boeing,0,Success,USA,2003,9
+Boeing,133,Success,USA,2003,9
+Boeing,0,Success,USA,2003,9
+Boeing,0,Success,USA,2003,9
+Lockheed,0,Success,USA,2003,6
+Lockheed,0,Success,USA,2003,6
+Lockheed,35,Success,USA,2003,6
+Lockheed,0,Success,USA,2003,6
+Lockheed,0,Success,USA,2003,6
+Lockheed,35,Success,USA,2003,6
+VKS RF,0,Success,Kazakhstan,2003,6
+VKS RF,0,Success,Russia,2003,6
+VKS RF,0,Success,Russia,2003,6
+VKS RF,0,Success,Russia,2003,6
+VKS RF,0,Success,Russia,2003,6
+VKS RF,0,Success,Russia,2003,6
+MHI,0,Failure,Japan,2003,2
+MHI,0,Success,Japan,2003,2
+Eurockot,41,Success,Russia,2003,2
+Eurockot,41,Success,Russia,2003,2
+ISRO,25,Success,India,2003,2
+ISRO,47,Success,India,2003,2
+Sea Launch,0,Success,Pacific Ocean,2003,3
+Sea Launch,0,Success,Pacific Ocean,2003,3
+Sea Launch,0,Success,Pacific Ocean,2003,3
+Arianespace,0,Success,France,2003,4
+Arianespace,0,Success,France,2003,4
+Arianespace,0,Success,France,2003,4
+Arianespace,0,Success,France,2003,4
+CASIC,0,Failure,China,2003,1
+AEB,0,Prelaunch Failure,Brazil,2003,1
+Northrop,40,Success,USA,2003,4
+Northrop,40,Success,USA,2003,4
+Northrop,40,Success,USA,2003,4
+Northrop,40,Success,USA,2003,4
+ILS,135,Success,USA,2003,3
+ILS,109,Success,USA,2003,3
+ILS,0,Success,USA,2003,3
+Starsem,0,Success,Kazakhstan,2003,1
+ISAS,0,Success,Japan,2003,1
+NASA,450,Failure,USA,2003,1
+CASC,0,Success,China,2002,4
+CASC,64,Success,China,2002,4
+CASC,64,Success,China,2002,4
+CASC,0,Success,China,2002,4
+VKS RF,0,Success,Russia,2002,6
+VKS RF,0,Success,Russia,2002,6
+VKS RF,0,Success,Russia,2002,6
+VKS RF,0,Success,Russia,2002,6
+VKS RF,0,Success,Russia,2002,6
+VKS RF,0,Success,Russia,2002,6
+Kosmotras,29,Success,Kazakhstan,2002,1
+Arianespace,0,Success,France,2002,12
+Arianespace,200,Failure,France,2002,12
+Arianespace,0,Success,France,2002,12
+Arianespace,0,Success,France,2002,12
+Arianespace,0,Success,France,2002,12
+Arianespace,0,Success,France,2002,12
+Arianespace,0,Success,France,2002,12
+Arianespace,0,Success,France,2002,12
+Arianespace,0,Success,France,2002,12
+Arianespace,0,Success,France,2002,12
+Arianespace,0,Success,France,2002,12
+Arianespace,0,Success,France,2002,12
+MHI,90,Success,Japan,2002,3
+MHI,0,Success,Japan,2002,3
+MHI,0,Success,Japan,2002,3
+Lockheed,0,Success,USA,2002,4
+Lockheed,35,Success,USA,2002,4
+Lockheed,0,Success,USA,2002,4
+Lockheed,0,Success,USA,2002,4
+NASA,450,Success,USA,2002,5
+NASA,450,Success,USA,2002,5
+NASA,450,Success,USA,2002,5
+NASA,450,Success,USA,2002,5
+NASA,450,Success,USA,2002,5
+Boeing,164,Success,USA,2002,4
+Boeing,0,Success,USA,2002,4
+Boeing,0,Success,USA,2002,4
+Boeing,0,Success,USA,2002,4
+ILS,0,Success,USA,2002,3
+ILS,109,Success,USA,2002,3
+ILS,0,Success,USA,2002,3
+CASIC,0,Failure,China,2002,1
+ISRO,25,Success,India,2002,1
+Eurockot,41,Success,Russia,2002,2
+Eurockot,41,Success,Russia,2002,2
+Sea Launch,0,Success,Pacific Ocean,2002,1
+IAI,0,Success,Israel,2002,1
+Northrop,40,Success,USA,2002,1
+VKS RF,0,Success,Russia,2001,6
+VKS RF,0,Success,Kazakhstan,2001,6
+VKS RF,0,Success,Kazakhstan,2001,6
+VKS RF,0,Success,Russia,2001,6
+VKS RF,0,Success,Russia,2001,6
+VKS RF,0,Success,Russia,2001,6
+Boeing,0,Success,USA,2001,7
+Boeing,0,Success,USA,2001,7
+Boeing,0,Success,USA,2001,7
+Boeing,0,Success,USA,2001,7
+Boeing,0,Success,USA,2001,7
+Boeing,0,Success,USA,2001,7
+Boeing,0,Success,USA,2001,7
+NASA,450,Success,USA,2001,6
+NASA,450,Success,USA,2001,6
+NASA,450,Success,USA,2001,6
+NASA,450,Success,USA,2001,6
+NASA,450,Success,USA,2001,6
+NASA,450,Success,USA,2001,6
+Arianespace,0,Success,France,2001,8
+Arianespace,0,Success,France,2001,8
+Arianespace,0,Success,France,2001,8
+Arianespace,0,Partial Failure,France,2001,8
+Arianespace,0,Success,France,2001,8
+Arianespace,0,Success,France,2001,8
+Arianespace,0,Success,France,2001,8
+Arianespace,0,Success,France,2001,8
+ISRO,25,Success,India,2001,2
+ISRO,47,Partial Failure,India,2001,2
+Lockheed,0,Success,USA,2001,7
+Lockheed,0,Success,USA,2001,7
+Lockheed,0,Success,USA,2001,7
+Lockheed,0,Success,USA,2001,7
+Lockheed,0,Success,USA,2001,7
+Lockheed,0,Success,USA,2001,7
+Lockheed,0,Success,USA,2001,7
+Northrop,45,Failure,USA,2001,1
+MHI,90,Success,Japan,2001,1
+ILS,0,Success,USA,2001,1
+Sea Launch,0,Success,Pacific Ocean,2001,2
+Sea Launch,0,Success,Pacific Ocean,2001,2
+MITT,0,Success,Russia,2001,1
+CASC,0,Success,China,2001,1
+VKS RF,0,Failure,Russia,2000,6
+VKS RF,0,Failure,Russia,2000,6
+VKS RF,0,Success,Kazakhstan,2000,6
+VKS RF,0,Success,Russia,2000,6
+VKS RF,0,Success,Russia,2000,6
+VKS RF,0,Success,Kazakhstan,2000,6
+CASC,69,Success,China,2000,4
+CASC,69,Success,China,2000,4
+CASC,0,Success,China,2000,4
+CASC,69,Success,China,2000,4
+Arianespace,0,Success,France,2000,12
+Arianespace,0,Success,France,2000,12
+Arianespace,0,Success,France,2000,12
+Arianespace,0,Success,France,2000,12
+Arianespace,0,Success,France,2000,12
+Arianespace,0,Success,France,2000,12
+Arianespace,0,Success,France,2000,12
+Arianespace,0,Success,France,2000,12
+Arianespace,0,Success,France,2000,12
+Arianespace,0,Success,France,2000,12
+Arianespace,0,Success,France,2000,12
+Arianespace,0,Success,France,2000,12
+Lockheed,0,Success,USA,2000,8
+Lockheed,0,Success,USA,2000,8
+Lockheed,35,Success,USA,2000,8
+Lockheed,0,Success,USA,2000,8
+Lockheed,0,Success,USA,2000,8
+Lockheed,0,Success,USA,2000,8
+Lockheed,0,Success,USA,2000,8
+Lockheed,0,Success,USA,2000,8
+MITT,0,Success,Russia,2000,1
+NASA,450,Success,USA,2000,5
+NASA,450,Success,USA,2000,5
+NASA,450,Success,USA,2000,5
+NASA,450,Success,USA,2000,5
+NASA,450,Success,USA,2000,5
+Boeing,0,Success,USA,2000,7
+Boeing,0,Success,USA,2000,7
+Boeing,0,Success,USA,2000,7
+Boeing,0,Success,USA,2000,7
+Boeing,0,Success,USA,2000,7
+Boeing,0,Success,USA,2000,7
+Boeing,0,Success,USA,2000,7
+Sea Launch,0,Success,Pacific Ocean,2000,3
+Sea Launch,0,Success,Pacific Ocean,2000,3
+Sea Launch,0,Failure,Pacific Ocean,2000,3
+Northrop,40,Success,USA,2000,5
+Northrop,40,Success,USA,2000,5
+Northrop,40,Success,USA,2000,5
+Northrop,45,Success,USA,2000,5
+Northrop,40,Success,USA,2000,5
+Kosmotras,29,Success,Kazakhstan,2000,1
+ILS,0,Success,USA,2000,3
+ILS,0,Success,USA,2000,3
+ILS,0,Success,USA,2000,3
+Eurockot,41,Success,Russia,2000,1
+ISAS,0,Failure,Japan,2000,1
+Northrop,45,Success,USA,1999,4
+Northrop,40,Success,USA,1999,4
+Northrop,40,Success,USA,1999,4
+Northrop,40,Success,USA,1999,4
+VKS RF,0,Success,Russia,1999,6
+VKS RF,0,Success,Kazakhstan,1999,6
+VKS RF,0,Success,Russia,1999,6
+VKS RF,0,Success,Kazakhstan,1999,6
+VKS RF,0,Success,Russia,1999,6
+VKS RF,0,Success,Russia,1999,6
+Arianespace,0,Success,France,1999,10
+Arianespace,0,Success,France,1999,10
+Arianespace,0,Success,France,1999,10
+Arianespace,0,Success,France,1999,10
+Arianespace,0,Success,France,1999,10
+Arianespace,0,Success,France,1999,10
+Arianespace,0,Success,France,1999,10
+Arianespace,0,Success,France,1999,10
+Arianespace,0,Success,France,1999,10
+Arianespace,0,Success,France,1999,10
+NASA,450,Success,USA,1999,3
+NASA,450,Success,USA,1999,3
+NASA,450,Success,USA,1999,3
+Lockheed,0,Success,USA,1999,10
+Lockheed,35,Success,USA,1999,10
+Lockheed,0,Success,USA,1999,10
+Lockheed,0,Success,USA,1999,10
+Lockheed,35,Success,USA,1999,10
+Lockheed,0,Success,USA,1999,10
+Lockheed,0,Failure,USA,1999,10
+Lockheed,0,Failure,USA,1999,10
+Lockheed,0,Failure,USA,1999,10
+Lockheed,0,Success,USA,1999,10
+AEB,0,Failure,Brazil,1999,1
+CASC,0,Success,China,1999,4
+CASC,64,Success,China,1999,4
+CASC,30,Success,China,1999,4
+CASC,64,Success,China,1999,4
+MHI,0,Failure,Japan,1999,1
+Sea Launch,0,Success,Pacific Ocean,1999,2
+Sea Launch,0,Success,Pacific Ocean,1999,2
+ILS,0,Success,USA,1999,3
+ILS,0,Success,USA,1999,3
+ILS,0,Success,USA,1999,3
+Boeing,0,Success,USA,1999,11
+Boeing,0,Success,USA,1999,11
+Boeing,0,Success,USA,1999,11
+Boeing,0,Success,USA,1999,11
+Boeing,0,Success,USA,1999,11
+Boeing,0,Success,USA,1999,11
+Boeing,0,Failure,USA,1999,11
+Boeing,0,Success,USA,1999,11
+Boeing,0,Success,USA,1999,11
+Boeing,0,Success,USA,1999,11
+Boeing,0,Success,USA,1999,11
+ISRO,25,Success,India,1999,1
+Kosmotras,29,Success,Kazakhstan,1999,1
+VKS RF,0,Success,Russia,1998,9
+VKS RF,0,Success,Russia,1998,9
+VKS RF,0,Success,Russia,1998,9
+VKS RF,0,Failure,Kazakhstan,1998,9
+VKS RF,0,Success,Kazakhstan,1998,9
+VKS RF,0,Success,Kazakhstan,1998,9
+VKS RF,0,Success,Russia,1998,9
+VKS RF,0,Partial Failure,Russia,1998,9
+VKS RF,0,Success,Russia,1998,9
+Arianespace,0,Success,France,1998,10
+Arianespace,0,Success,France,1998,10
+Arianespace,0,Success,France,1998,10
+Arianespace,0,Success,France,1998,10
+Arianespace,0,Success,France,1998,10
+Arianespace,0,Success,France,1998,10
+Arianespace,0,Success,France,1998,10
+Arianespace,0,Success,France,1998,10
+Arianespace,0,Success,France,1998,10
+Arianespace,0,Success,France,1998,10
+CASC,30,Success,China,1998,6
+CASC,30,Success,China,1998,6
+CASC,0,Success,China,1998,6
+CASC,0,Success,China,1998,6
+CASC,30,Success,China,1998,6
+CASC,30,Success,China,1998,6
+Boeing,0,Success,USA,1998,13
+Boeing,0,Success,USA,1998,13
+Boeing,0,Success,USA,1998,13
+Boeing,0,Success,USA,1998,13
+Boeing,0,Failure,USA,1998,13
+Boeing,0,Success,USA,1998,13
+Boeing,0,Success,USA,1998,13
+Boeing,0,Success,USA,1998,13
+Boeing,0,Success,USA,1998,13
+Boeing,0,Success,USA,1998,13
+Boeing,0,Success,USA,1998,13
+Boeing,0,Success,USA,1998,13
+Boeing,0,Success,USA,1998,13
+Northrop,40,Success,USA,1998,8
+Northrop,40,Success,USA,1998,8
+Northrop,45,Success,USA,1998,8
+Northrop,40,Success,USA,1998,8
+Northrop,40,Success,USA,1998,8
+Northrop,40,Success,USA,1998,8
+Northrop,40,Success,USA,1998,8
+Northrop,45,Success,USA,1998,8
+NASA,450,Success,USA,1998,5
+NASA,450,Success,USA,1998,5
+NASA,450,Success,USA,1998,5
+NASA,450,Success,USA,1998,5
+NASA,450,Success,USA,1998,5
+ESA,0,Success,France,1998,1
+Lockheed,0,Success,USA,1998,7
+Lockheed,0,Failure,USA,1998,7
+Lockheed,35,Success,USA,1998,7
+Lockheed,0,Success,USA,1998,7
+Lockheed,0,Success,USA,1998,7
+Lockheed,0,Success,USA,1998,7
+Lockheed,0,Success,USA,1998,7
+ILS,0,Success,USA,1998,3
+ILS,0,Success,USA,1998,3
+ILS,0,Success,USA,1998,3
+KCST,0,Failure,North Korea,1998,1
+RVSN USSR,0,Success,Russia,1998,1
+SRC,0,Success,Barents Sea,1998,1
+ISAS,0,Success,Japan,1998,1
+MHI,0,Partial Failure,Japan,1998,1
+IAI,0,Failure,Israel,1998,1
+ILS,0,Partial Failure,Kazakhstan,1997,7
+ILS,0,Success,USA,1997,7
+ILS,0,Success,USA,1997,7
+ILS,0,Success,USA,1997,7
+ILS,0,Success,USA,1997,7
+ILS,0,Success,USA,1997,7
+ILS,0,Success,USA,1997,7
+MITT,0,Success,Russia,1997,2
+MITT,0,Success,Russia,1997,2
+Northrop,40,Success,USA,1997,5
+Northrop,40,Success,USA,1997,5
+Northrop,40,Success,USA,1997,5
+Northrop,40,Success,Gran Canaria,1997,5
+Northrop,40,Success,Gran Canaria,1997,5
+Arianespace,0,Success,France,1997,11
+Arianespace,0,Success,France,1997,11
+Arianespace,0,Success,France,1997,11
+Arianespace,0,Success,France,1997,11
+Arianespace,0,Success,France,1997,11
+Arianespace,0,Success,France,1997,11
+Arianespace,0,Success,France,1997,11
+Arianespace,0,Success,France,1997,11
+Arianespace,0,Success,France,1997,11
+Arianespace,0,Success,France,1997,11
+Arianespace,0,Success,France,1997,11
+Boeing,0,Success,USA,1997,11
+Boeing,0,Success,USA,1997,11
+Boeing,0,Success,USA,1997,11
+Boeing,0,Success,USA,1997,11
+Boeing,0,Success,USA,1997,11
+Boeing,0,Success,USA,1997,11
+Boeing,0,Success,USA,1997,11
+Boeing,0,Success,USA,1997,11
+Boeing,0,Success,USA,1997,11
+Boeing,0,Success,USA,1997,11
+Boeing,0,Failure,USA,1997,11
+VKS RF,0,Success,Kazakhstan,1997,7
+VKS RF,0,Success,Russia,1997,7
+VKS RF,0,Success,Russia,1997,7
+VKS RF,0,Failure,Kazakhstan,1997,7
+VKS RF,0,Success,Russia,1997,7
+VKS RF,0,Success,Russia,1997,7
+VKS RF,0,Success,Russia,1997,7
+CASC,30,Success,China,1997,6
+CASC,0,Success,China,1997,6
+CASC,30,Success,China,1997,6
+CASC,0,Success,China,1997,6
+CASC,0,Success,China,1997,6
+CASC,69,Success,China,1997,6
+MHI,0,Success,Japan,1997,1
+NASA,450,Success,USA,1997,8
+NASA,450,Success,USA,1997,8
+NASA,450,Success,USA,1997,8
+NASA,450,Success,USA,1997,8
+NASA,450,Success,USA,1997,8
+NASA,450,Success,USA,1997,8
+NASA,450,Success,USA,1997,8
+NASA,450,Success,USA,1997,8
+Lockheed,0,Success,USA,1997,8
+Lockheed,0,Success,USA,1997,8
+Lockheed,0,Success,USA,1997,8
+Lockheed,0,Success,USA,1997,8
+Lockheed,0,Success,USA,1997,8
+Lockheed,0,Success,USA,1997,8
+Lockheed,35,Success,USA,1997,8
+Lockheed,0,Success,USA,1997,8
+AEB,0,Failure,Brazil,1997,1
+ESA,0,Partial Failure,France,1997,1
+ISRO,25,Partial Failure,India,1997,1
+ISAS,0,Success,Japan,1997,1
+Lockheed,0,Success,USA,1996,6
+Lockheed,0,Success,USA,1996,6
+Lockheed,0,Success,USA,1996,6
+Lockheed,0,Success,USA,1996,6
+Lockheed,0,Success,USA,1996,6
+Lockheed,0,Success,USA,1996,6
+VKS RF,0,Success,Russia,1996,9
+VKS RF,0,Success,Kazakhstan,1996,9
+VKS RF,0,Success,Russia,1996,9
+VKS RF,0,Success,Russia,1996,9
+VKS RF,0,Success,Kazakhstan,1996,9
+VKS RF,0,Success,Russia,1996,9
+VKS RF,0,Success,Russia,1996,9
+VKS RF,0,Success,Russia,1996,9
+VKS RF,0,Success,Russia,1996,9
+ILS,0,Success,USA,1996,5
+ILS,0,Success,USA,1996,5
+ILS,0,Success,USA,1996,5
+ILS,0,Success,USA,1996,5
+ILS,0,Success,USA,1996,5
+NASA,450,Success,USA,1996,7
+NASA,450,Success,USA,1996,7
+NASA,450,Success,USA,1996,7
+NASA,450,Success,USA,1996,7
+NASA,450,Success,USA,1996,7
+NASA,450,Success,USA,1996,7
+NASA,450,Success,USA,1996,7
+Boeing,0,Success,USA,1996,10
+Boeing,0,Success,USA,1996,10
+Boeing,0,Success,USA,1996,10
+Boeing,0,Success,USA,1996,10
+Boeing,0,Success,USA,1996,10
+Boeing,0,Success,USA,1996,10
+Boeing,0,Success,USA,1996,10
+Boeing,0,Success,USA,1996,10
+Boeing,0,Success,USA,1996,10
+Boeing,0,Success,USA,1996,10
+Arianespace,0,Success,France,1996,10
+Arianespace,0,Success,France,1996,10
+Arianespace,0,Success,France,1996,10
+Arianespace,0,Success,France,1996,10
+Arianespace,0,Success,France,1996,10
+Arianespace,0,Success,France,1996,10
+Arianespace,0,Success,France,1996,10
+Arianespace,0,Success,France,1996,10
+Arianespace,0,Success,France,1996,10
+Arianespace,0,Success,France,1996,10
+Northrop,40,Failure,USA,1996,5
+Northrop,40,Success,USA,1996,5
+Northrop,40,Success,USA,1996,5
+Northrop,40,Success,USA,1996,5
+Northrop,40,Success,USA,1996,5
+CASC,29,Success,China,1996,4
+CASC,0,Partial Failure,China,1996,4
+CASC,0,Success,China,1996,4
+CASC,0,Failure,China,1996,4
+RVSN USSR,0,Success,Russia,1996,1
+MHI,0,Success,Japan,1996,1
+ESA,0,Failure,France,1996,1
+ISRO,25,Success,India,1996,1
+Boeing,0,Success,USA,1995,3
+Boeing,0,Success,USA,1995,3
+Boeing,0,Partial Failure,USA,1995,3
+CASC,0,Success,China,1995,3
+CASC,0,Success,China,1995,3
+CASC,0,Failure,China,1995,3
+VKS RF,0,Success,Kazakhstan,1995,12
+VKS RF,0,Success,Kazakhstan,1995,12
+VKS RF,0,Success,Kazakhstan,1995,12
+VKS RF,0,Partial Failure,Russia,1995,12
+VKS RF,0,Success,Russia,1995,12
+VKS RF,0,Success,Russia,1995,12
+VKS RF,0,Success,Russia,1995,12
+VKS RF,0,Success,Kazakhstan,1995,12
+VKS RF,0,Success,Russia,1995,12
+VKS RF,0,Success,Russia,1995,12
+VKS RF,0,Success,Russia,1995,12
+VKS RF,0,Success,Russia,1995,12
+Lockheed,0,Success,USA,1995,12
+Lockheed,0,Success,USA,1995,12
+Lockheed,0,Success,USA,1995,12
+Lockheed,0,Success,USA,1995,12
+Lockheed,0,Success,USA,1995,12
+Lockheed,0,Failure,USA,1995,12
+Lockheed,0,Success,USA,1995,12
+Lockheed,0,Success,USA,1995,12
+Lockheed,0,Success,USA,1995,12
+Lockheed,0,Success,USA,1995,12
+Lockheed,0,Success,USA,1995,12
+Lockheed,0,Success,USA,1995,12
+Arianespace,0,Success,France,1995,11
+Arianespace,0,Success,France,1995,11
+Arianespace,0,Success,France,1995,11
+Arianespace,0,Success,France,1995,11
+Arianespace,0,Success,France,1995,11
+Arianespace,0,Success,France,1995,11
+Arianespace,0,Success,France,1995,11
+Arianespace,0,Success,France,1995,11
+Arianespace,0,Success,France,1995,11
+Arianespace,0,Success,France,1995,11
+Arianespace,0,Success,France,1995,11
+NASA,450,Success,USA,1995,7
+NASA,450,Success,USA,1995,7
+NASA,450,Success,USA,1995,7
+NASA,450,Success,USA,1995,7
+NASA,450,Success,USA,1995,7
+NASA,450,Success,USA,1995,7
+NASA,450,Success,USA,1995,7
+EER,20,Failure,USA,1995,1
+ILS,0,Success,USA,1995,4
+ILS,0,Success,USA,1995,4
+ILS,0,Success,USA,1995,4
+ILS,0,Success,USA,1995,4
+RVSN USSR,0,Success,Russia,1995,1
+Northrop,40,Failure,USA,1995,2
+Northrop,40,Success,USA,1995,2
+IAI,0,Success,Israel,1995,1
+MITT,0,Failure,Russia,1995,1
+General Dynamics,0,Success,USA,1995,1
+MHI,0,Success,Japan,1995,1
+ISAS,0,Partial Failure,Japan,1995,1
+General Dynamics,0,Success,USA,1994,2
+General Dynamics,0,Success,USA,1994,2
+VKS RF,0,Success,Kazakhstan,1994,21
+VKS RF,0,Success,Russia,1994,21
+VKS RF,0,Success,Russia,1994,21
+VKS RF,0,Success,Russia,1994,21
+VKS RF,0,Success,Russia,1994,21
+VKS RF,0,Success,Kazakhstan,1994,21
+VKS RF,0,Success,Kazakhstan,1994,21
+VKS RF,0,Success,Kazakhstan,1994,21
+VKS RF,0,Success,Russia,1994,21
+VKS RF,0,Success,Russia,1994,21
+VKS RF,0,Success,Kazakhstan,1994,21
+VKS RF,0,Success,Russia,1994,21
+VKS RF,0,Success,Russia,1994,21
+VKS RF,0,Success,Russia,1994,21
+VKS RF,0,Success,Russia,1994,21
+VKS RF,0,Failure,Russia,1994,21
+VKS RF,0,Success,Russia,1994,21
+VKS RF,0,Success,Kazakhstan,1994,21
+VKS RF,0,Success,Russia,1994,21
+VKS RF,0,Success,Russia,1994,21
+VKS RF,0,Success,Russia,1994,21
+Martin Marietta,0,Success,USA,1994,5
+Martin Marietta,0,Success,USA,1994,5
+Martin Marietta,0,Success,USA,1994,5
+Martin Marietta,0,Success,USA,1994,5
+Martin Marietta,35,Success,USA,1994,5
+Arianespace,0,Failure,France,1994,8
+Arianespace,0,Success,France,1994,8
+Arianespace,0,Success,France,1994,8
+Arianespace,0,Success,France,1994,8
+Arianespace,0,Success,France,1994,8
+Arianespace,0,Success,France,1994,8
+Arianespace,0,Success,France,1994,8
+Arianespace,0,Failure,France,1994,8
+CASC,69,Partial Failure,China,1994,5
+CASC,0,Success,China,1994,5
+CASC,0,Success,China,1994,5
+CASC,29,Success,China,1994,5
+CASC,69,Success,China,1994,5
+Lockheed,0,Success,USA,1994,5
+Lockheed,0,Success,USA,1994,5
+Lockheed,0,Success,USA,1994,5
+Lockheed,0,Success,USA,1994,5
+Lockheed,0,Success,USA,1994,5
+NASA,450,Success,USA,1994,7
+NASA,450,Success,USA,1994,7
+NASA,450,Success,USA,1994,7
+NASA,450,Success,USA,1994,7
+NASA,450,Success,USA,1994,7
+NASA,450,Success,USA,1994,7
+NASA,450,Success,USA,1994,7
+Boeing,0,Success,USA,1994,3
+Boeing,0,Success,USA,1994,3
+Boeing,0,Success,USA,1994,3
+ISRO,25,Success,India,1994,2
+ISRO,0,Success,India,1994,2
+Northrop,40,Success,USA,1994,4
+Northrop,40,Failure,USA,1994,4
+Northrop,40,Partial Failure,USA,1994,4
+Northrop,45,Success,USA,1994,4
+MHI,0,Success,Japan,1994,2
+MHI,0,Success,Japan,1994,2
+VKS RF,0,Success,Russia,1993,26
+VKS RF,0,Success,Russia,1993,26
+VKS RF,0,Success,Russia,1993,26
+VKS RF,0,Success,Kazakhstan,1993,26
+VKS RF,0,Success,Kazakhstan,1993,26
+VKS RF,0,Success,Russia,1993,26
+VKS RF,0,Success,Russia,1993,26
+VKS RF,0,Success,Russia,1993,26
+VKS RF,0,Success,Kazakhstan,1993,26
+VKS RF,0,Success,Russia,1993,26
+VKS RF,0,Success,Russia,1993,26
+VKS RF,0,Success,Russia,1993,26
+VKS RF,0,Success,Russia,1993,26
+VKS RF,0,Success,Kazakhstan,1993,26
+VKS RF,0,Success,Russia,1993,26
+VKS RF,0,Success,Russia,1993,26
+VKS RF,0,Success,Russia,1993,26
+VKS RF,0,Success,Russia,1993,26
+VKS RF,0,Success,Russia,1993,26
+VKS RF,0,Success,Kazakhstan,1993,26
+VKS RF,0,Success,Kazakhstan,1993,26
+VKS RF,0,Success,Russia,1993,26
+VKS RF,0,Success,Russia,1993,26
+VKS RF,0,Success,Russia,1993,26
+VKS RF,0,Success,Russia,1993,26
+VKS RF,0,Success,Russia,1993,26
+Arianespace,0,Success,France,1993,7
+Arianespace,0,Success,France,1993,7
+Arianespace,0,Success,France,1993,7
+Arianespace,0,Success,France,1993,7
+Arianespace,0,Success,France,1993,7
+Arianespace,0,Success,France,1993,7
+Arianespace,0,Success,France,1993,7
+General Dynamics,0,Success,USA,1993,6
+General Dynamics,0,Success,USA,1993,6
+General Dynamics,0,Success,USA,1993,6
+General Dynamics,0,Success,USA,1993,6
+General Dynamics,0,Success,USA,1993,6
+General Dynamics,0,Failure,USA,1993,6
+Boeing,0,Success,USA,1993,7
+Boeing,0,Success,USA,1993,7
+Boeing,0,Success,USA,1993,7
+Boeing,0,Success,USA,1993,7
+Boeing,0,Success,USA,1993,7
+Boeing,0,Success,USA,1993,7
+Boeing,0,Success,USA,1993,7
+NASA,450,Success,USA,1993,7
+NASA,450,Success,USA,1993,7
+NASA,450,Success,USA,1993,7
+NASA,450,Success,USA,1993,7
+NASA,450,Success,USA,1993,7
+NASA,450,Success,USA,1993,7
+NASA,450,Success,USA,1993,7
+CASC,30,Success,China,1993,1
+Martin Marietta,35,Failure,USA,1993,2
+Martin Marietta,0,Failure,USA,1993,2
+ISRO,25,Failure,India,1993,1
+Northrop,40,Success,USA,1993,2
+Northrop,40,Success,USA,1993,2
+MITT,0,Success,Russia,1993,1
+ISAS,0,Success,Japan,1993,1
+VKS RF,0,Success,Russia,1992,14
+VKS RF,0,Success,Kazakhstan,1992,14
+VKS RF,0,Success,Russia,1992,14
+VKS RF,0,Success,Russia,1992,14
+VKS RF,0,Success,Russia,1992,14
+VKS RF,0,Success,Russia,1992,14
+VKS RF,0,Success,Russia,1992,14
+VKS RF,0,Success,Kazakhstan,1992,14
+VKS RF,0,Success,Russia,1992,14
+VKS RF,0,Success,Russia,1992,14
+VKS RF,0,Success,Russia,1992,14
+VKS RF,0,Success,Russia,1992,14
+VKS RF,0,Success,Russia,1992,14
+VKS RF,0,Success,Russia,1992,14
+CASC,0,Failure,China,1992,4
+CASC,30,Success,China,1992,4
+CASC,0,Success,China,1992,4
+CASC,29,Success,China,1992,4
+Boeing,0,Success,USA,1992,11
+Boeing,0,Success,USA,1992,11
+Boeing,0,Success,USA,1992,11
+Boeing,0,Success,USA,1992,11
+Boeing,0,Success,USA,1992,11
+Boeing,0,Success,USA,1992,11
+Boeing,0,Success,USA,1992,11
+Boeing,0,Success,USA,1992,11
+Boeing,0,Success,USA,1992,11
+Boeing,0,Success,USA,1992,11
+Boeing,0,Success,USA,1992,11
+NASA,450,Success,USA,1992,8
+NASA,450,Success,USA,1992,8
+NASA,450,Success,USA,1992,8
+NASA,450,Success,USA,1992,8
+NASA,450,Success,USA,1992,8
+NASA,450,Success,USA,1992,8
+NASA,450,Success,USA,1992,8
+NASA,450,Success,USA,1992,8
+Arianespace,0,Success,France,1992,7
+Arianespace,0,Success,France,1992,7
+Arianespace,0,Success,France,1992,7
+Arianespace,0,Success,France,1992,7
+Arianespace,0,Success,France,1992,7
+Arianespace,0,Success,France,1992,7
+Arianespace,0,Success,France,1992,7
+Martin Marietta,0,Success,USA,1992,3
+Martin Marietta,136,Success,USA,1992,3
+Martin Marietta,35,Success,USA,1992,3
+General Dynamics,0,Failure,USA,1992,5
+General Dynamics,0,Success,USA,1992,5
+General Dynamics,0,Success,USA,1992,5
+General Dynamics,0,Success,USA,1992,5
+General Dynamics,0,Success,USA,1992,5
+RVSN USSR,0,Success,Russia,1992,9
+RVSN USSR,0,Success,Russia,1992,9
+RVSN USSR,0,Success,Russia,1992,9
+RVSN USSR,0,Success,Russia,1992,9
+RVSN USSR,0,Success,Russia,1992,9
+RVSN USSR,0,Success,Russia,1992,9
+RVSN USSR,0,Success,Russia,1992,9
+RVSN USSR,0,Failure,Kazakhstan,1992,9
+RVSN USSR,0,Success,Russia,1992,9
+MHI,0,Success,Japan,1992,1
+CASC,0,Partial Failure,China,1991,1
+RVSN USSR,0,Success,Kazakhstan,1991,28
+RVSN USSR,0,Success,Russia,1991,28
+RVSN USSR,0,Success,Russia,1991,28
+RVSN USSR,0,Success,Russia,1991,28
+RVSN USSR,0,Success,Russia,1991,28
+RVSN USSR,0,Success,Russia,1991,28
+RVSN USSR,0,Failure,Kazakhstan,1991,28
+RVSN USSR,0,Success,Kazakhstan,1991,28
+RVSN USSR,0,Success,Russia,1991,28
+RVSN USSR,0,Success,Russia,1991,28
+RVSN USSR,0,Success,Russia,1991,28
+RVSN USSR,0,Failure,Russia,1991,28
+RVSN USSR,0,Success,Russia,1991,28
+RVSN USSR,0,Success,Russia,1991,28
+RVSN USSR,0,Success,Russia,1991,28
+RVSN USSR,0,Success,Russia,1991,28
+RVSN USSR,0,Success,Russia,1991,28
+RVSN USSR,0,Success,Russia,1991,28
+RVSN USSR,0,Success,Russia,1991,28
+RVSN USSR,0,Success,Russia,1991,28
+RVSN USSR,0,Success,Russia,1991,28
+RVSN USSR,0,Success,Russia,1991,28
+RVSN USSR,0,Success,Russia,1991,28
+RVSN USSR,0,Success,Russia,1991,28
+RVSN USSR,0,Success,Russia,1991,28
+RVSN USSR,0,Success,Russia,1991,28
+RVSN USSR,0,Success,Russia,1991,28
+RVSN USSR,0,Success,Kazakhstan,1991,28
+Yuzhmash,0,Success,Russia,1991,1
+Arianespace,0,Success,France,1991,8
+Arianespace,0,Success,France,1991,8
+Arianespace,0,Success,France,1991,8
+Arianespace,0,Success,France,1991,8
+Arianespace,0,Success,France,1991,8
+Arianespace,0,Success,France,1991,8
+Arianespace,0,Success,France,1991,8
+Arianespace,0,Success,France,1991,8
+General Dynamics,0,Success,USA,1991,4
+General Dynamics,0,Success,USA,1991,4
+General Dynamics,0,Success,USA,1991,4
+General Dynamics,0,Failure,USA,1991,4
+NASA,450,Success,USA,1991,6
+NASA,450,Success,USA,1991,6
+NASA,450,Success,USA,1991,6
+NASA,450,Success,USA,1991,6
+NASA,450,Success,USA,1991,6
+NASA,450,Success,USA,1991,6
+Martin Marietta,0,Success,USA,1991,2
+Martin Marietta,0,Success,USA,1991,2
+ISAS,0,Success,Japan,1991,1
+MHI,0,Success,Japan,1991,2
+MHI,0,Success,Japan,1991,2
+Northrop,40,Partial Failure,USA,1991,1
+Boeing,0,Success,USA,1991,5
+Boeing,0,Success,USA,1991,5
+Boeing,0,Success,USA,1991,5
+Boeing,0,Success,USA,1991,5
+Boeing,0,Success,USA,1991,5
+RVSN USSR,0,Success,Russia,1990,37
+RVSN USSR,0,Success,Russia,1990,37
+RVSN USSR,0,Success,Kazakhstan,1990,37
+RVSN USSR,0,Success,Russia,1990,37
+RVSN USSR,0,Success,Russia,1990,37
+RVSN USSR,0,Success,Kazakhstan,1990,37
+RVSN USSR,0,Success,Russia,1990,37
+RVSN USSR,0,Success,Kazakhstan,1990,37
+RVSN USSR,0,Failure,Kazakhstan,1990,37
+RVSN USSR,0,Success,Russia,1990,37
+RVSN USSR,0,Success,Russia,1990,37
+RVSN USSR,0,Success,Russia,1990,37
+RVSN USSR,0,Success,Russia,1990,37
+RVSN USSR,0,Success,Russia,1990,37
+RVSN USSR,0,Success,Kazakhstan,1990,37
+RVSN USSR,0,Success,Russia,1990,37
+RVSN USSR,0,Success,Russia,1990,37
+RVSN USSR,0,Success,Russia,1990,37
+RVSN USSR,0,Success,Russia,1990,37
+RVSN USSR,0,Success,Russia,1990,37
+RVSN USSR,0,Partial Failure,Russia,1990,37
+RVSN USSR,0,Success,Russia,1990,37
+RVSN USSR,0,Success,Kazakhstan,1990,37
+RVSN USSR,0,Success,Russia,1990,37
+RVSN USSR,0,Success,Russia,1990,37
+RVSN USSR,0,Success,Russia,1990,37
+RVSN USSR,0,Success,Russia,1990,37
+RVSN USSR,0,Success,Russia,1990,37
+RVSN USSR,0,Success,Russia,1990,37
+RVSN USSR,0,Success,Russia,1990,37
+RVSN USSR,0,Success,Kazakhstan,1990,37
+RVSN USSR,0,Success,Russia,1990,37
+RVSN USSR,0,Success,Russia,1990,37
+RVSN USSR,0,Success,Russia,1990,37
+RVSN USSR,0,Success,Russia,1990,37
+RVSN USSR,0,Success,Russia,1990,37
+RVSN USSR,0,Success,Russia,1990,37
+NASA,450,Success,USA,1990,6
+NASA,450,Success,USA,1990,6
+NASA,450,Success,USA,1990,6
+NASA,450,Success,USA,1990,6
+NASA,450,Success,USA,1990,6
+NASA,450,Success,USA,1990,6
+General Dynamics,0,Success,USA,1990,2
+General Dynamics,0,Success,USA,1990,2
+Boeing,0,Success,USA,1990,11
+Boeing,0,Success,USA,1990,11
+Boeing,0,Success,USA,1990,11
+Boeing,0,Success,USA,1990,11
+Boeing,0,Success,USA,1990,11
+Boeing,0,Success,USA,1990,11
+Boeing,0,Success,USA,1990,11
+Boeing,0,Success,USA,1990,11
+Boeing,0,Success,USA,1990,11
+Boeing,0,Success,USA,1990,11
+Boeing,0,Success,USA,1990,11
+Arianespace,0,Success,France,1990,6
+Arianespace,0,Success,France,1990,6
+Arianespace,0,Success,France,1990,6
+Arianespace,0,Success,France,1990,6
+Arianespace,0,Failure,France,1990,6
+Arianespace,0,Success,France,1990,6
+Martin Marietta,0,Success,USA,1990,5
+Martin Marietta,136,Success,USA,1990,5
+Martin Marietta,0,Success,USA,1990,5
+Martin Marietta,136,Failure,USA,1990,5
+Martin Marietta,136,Success,USA,1990,5
+CASC,30,Success,China,1990,5
+CASC,0,Success,China,1990,5
+CASC,0,Success,China,1990,5
+CASC,0,Success,China,1990,5
+CASC,0,Success,China,1990,5
+MHI,0,Success,Japan,1990,4
+MHI,0,Success,Japan,1990,4
+MHI,0,Success,Japan,1990,4
+MHI,0,Success,Japan,1990,4
+Lockheed,0,Success,USA,1990,1
+Northrop,40,Success,USA,1990,1
+IAI,0,Success,Israel,1990,1
+ISAS,0,Success,Japan,1990,1
+RVSN USSR,0,Success,Russia,1989,26
+RVSN USSR,0,Success,Russia,1989,26
+RVSN USSR,0,Success,Kazakhstan,1989,26
+RVSN USSR,0,Success,Russia,1989,26
+RVSN USSR,0,Success,Russia,1989,26
+RVSN USSR,0,Success,Russia,1989,26
+RVSN USSR,0,Success,Kazakhstan,1989,26
+RVSN USSR,0,Success,Russia,1989,26
+RVSN USSR,0,Success,Russia,1989,26
+RVSN USSR,0,Success,Russia,1989,26
+RVSN USSR,0,Success,Russia,1989,26
+RVSN USSR,0,Success,Kazakhstan,1989,26
+RVSN USSR,0,Success,Russia,1989,26
+RVSN USSR,0,Success,Russia,1989,26
+RVSN USSR,0,Failure,Russia,1989,26
+RVSN USSR,0,Success,Russia,1989,26
+RVSN USSR,0,Success,Russia,1989,26
+RVSN USSR,0,Success,Russia,1989,26
+RVSN USSR,0,Success,Russia,1989,26
+RVSN USSR,0,Success,Russia,1989,26
+RVSN USSR,0,Success,Russia,1989,26
+RVSN USSR,0,Success,Russia,1989,26
+RVSN USSR,0,Success,Kazakhstan,1989,26
+RVSN USSR,0,Success,Russia,1989,26
+RVSN USSR,0,Success,Russia,1989,26
+RVSN USSR,0,Success,Russia,1989,26
+Boeing,0,Success,USA,1989,5
+Boeing,0,Success,USA,1989,5
+Boeing,0,Success,USA,1989,5
+Boeing,0,Success,USA,1989,5
+Boeing,0,Success,USA,1989,5
+NASA,450,Success,USA,1989,5
+NASA,450,Success,USA,1989,5
+NASA,450,Success,USA,1989,5
+NASA,450,Success,USA,1989,5
+NASA,450,Success,USA,1989,5
+Arianespace,0,Success,France,1989,7
+Arianespace,0,Success,France,1989,7
+Arianespace,0,Success,France,1989,7
+Arianespace,0,Success,France,1989,7
+Arianespace,0,Success,France,1989,7
+Arianespace,0,Success,France,1989,7
+Arianespace,0,Success,France,1989,7
+General Dynamics,0,Success,USA,1989,1
+Martin Marietta,35,Success,USA,1989,4
+Martin Marietta,0,Success,USA,1989,4
+Martin Marietta,0,Success,USA,1989,4
+Martin Marietta,0,Success,USA,1989,4
+MHI,0,Success,Japan,1989,1
+ISRO,0,Partial Failure,India,1989,1
+Douglas,0,Success,USA,1989,1
+ISAS,0,Success,Japan,1989,1
+RVSN USSR,0,Success,Russia,1988,36
+RVSN USSR,0,Success,Russia,1988,36
+RVSN USSR,0,Success,Russia,1988,36
+RVSN USSR,0,Success,Kazakhstan,1988,36
+RVSN USSR,0,Success,Kazakhstan,1988,36
+RVSN USSR,0,Success,Kazakhstan,1988,36
+RVSN USSR,0,Success,Russia,1988,36
+RVSN USSR,0,Success,Russia,1988,36
+RVSN USSR,0,Success,Russia,1988,36
+RVSN USSR,0,Success,Russia,1988,36
+RVSN USSR,0,Success,Russia,1988,36
+RVSN USSR,0,Success,Russia,1988,36
+RVSN USSR,0,Success,Russia,1988,36
+RVSN USSR,0,Success,Russia,1988,36
+RVSN USSR,0,Success,Russia,1988,36
+RVSN USSR,0,Success,Russia,1988,36
+RVSN USSR,0,Success,Russia,1988,36
+RVSN USSR,0,Success,Russia,1988,36
+RVSN USSR,0,Success,Russia,1988,36
+RVSN USSR,0,Success,Russia,1988,36
+RVSN USSR,0,Success,Russia,1988,36
+RVSN USSR,0,Success,Kazakhstan,1988,36
+RVSN USSR,0,Success,Russia,1988,36
+RVSN USSR,0,Success,Kazakhstan,1988,36
+RVSN USSR,0,Success,Kazakhstan,1988,36
+RVSN USSR,0,Success,Russia,1988,36
+RVSN USSR,0,Success,Russia,1988,36
+RVSN USSR,0,Success,Russia,1988,36
+RVSN USSR,0,Success,Kazakhstan,1988,36
+RVSN USSR,0,Success,Russia,1988,36
+RVSN USSR,0,Success,Kazakhstan,1988,36
+RVSN USSR,0,Success,Kazakhstan,1988,36
+RVSN USSR,0,Success,Russia,1988,36
+RVSN USSR,0,Success,Russia,1988,36
+RVSN USSR,0,Success,Russia,1988,36
+RVSN USSR,0,Success,Russia,1988,36
+CASC,0,Success,China,1988,4
+CASC,0,Success,China,1988,4
+CASC,30,Success,China,1988,4
+CASC,0,Success,China,1988,4
+Arianespace,0,Success,France,1988,6
+Arianespace,0,Success,France,1988,6
+Arianespace,0,Success,France,1988,6
+Arianespace,0,Success,France,1988,6
+Arianespace,0,Success,France,1988,6
+Arianespace,0,Success,France,1988,6
+NASA,450,Success,USA,1988,2
+NASA,450,Success,USA,1988,2
+Martin Marietta,0,Success,USA,1988,3
+Martin Marietta,35,Success,USA,1988,3
+Martin Marietta,0,Partial Failure,USA,1988,3
+General Dynamics,0,Success,USA,1988,2
+General Dynamics,0,Success,USA,1988,2
+IAI,0,Success,Israel,1988,1
+MHI,0,Success,Japan,1988,2
+MHI,0,Success,Japan,1988,2
+ISRO,0,Failure,India,1988,1
+ESA,0,Success,France,1988,1
+ASI,0,Success,Kenya,1988,1
+RVSN USSR,0,Success,Russia,1987,42
+RVSN USSR,0,Success,Russia,1987,42
+RVSN USSR,0,Success,Russia,1987,42
+RVSN USSR,0,Success,Russia,1987,42
+RVSN USSR,0,Success,Kazakhstan,1987,42
+RVSN USSR,0,Success,Russia,1987,42
+RVSN USSR,0,Success,Russia,1987,42
+RVSN USSR,0,Success,Russia,1987,42
+RVSN USSR,0,Success,Kazakhstan,1987,42
+RVSN USSR,0,Success,Russia,1987,42
+RVSN USSR,0,Success,Kazakhstan,1987,42
+RVSN USSR,0,Success,Russia,1987,42
+RVSN USSR,0,Success,Russia,1987,42
+RVSN USSR,0,Success,Kazakhstan,1987,42
+RVSN USSR,0,Success,Russia,1987,42
+RVSN USSR,0,Success,Russia,1987,42
+RVSN USSR,0,Success,Kazakhstan,1987,42
+RVSN USSR,0,Success,Russia,1987,42
+RVSN USSR,0,Success,Russia,1987,42
+RVSN USSR,0,Success,Russia,1987,42
+RVSN USSR,0,Success,Kazakhstan,1987,42
+RVSN USSR,0,Success,Russia,1987,42
+RVSN USSR,0,Success,Russia,1987,42
+RVSN USSR,0,Success,Russia,1987,42
+RVSN USSR,0,Success,Russia,1987,42
+RVSN USSR,0,Success,Kazakhstan,1987,42
+RVSN USSR,0,Success,Kazakhstan,1987,42
+RVSN USSR,0,Success,Russia,1987,42
+RVSN USSR,0,Success,Kazakhstan,1987,42
+RVSN USSR,0,Success,Kazakhstan,1987,42
+RVSN USSR,0,Success,Russia,1987,42
+RVSN USSR,0,Success,Russia,1987,42
+RVSN USSR,0,Success,Russia,1987,42
+RVSN USSR,0,Success,Russia,1987,42
+RVSN USSR,0,Success,Kazakhstan,1987,42
+RVSN USSR,0,Success,Kazakhstan,1987,42
+RVSN USSR,0,Partial Failure,Russia,1987,42
+RVSN USSR,0,Success,Russia,1987,42
+RVSN USSR,0,Success,Russia,1987,42
+RVSN USSR,0,Success,Russia,1987,42
+RVSN USSR,0,Success,Russia,1987,42
+RVSN USSR,0,Success,Russia,1987,42
+Martin Marietta,0,Success,USA,1987,3
+Martin Marietta,0,Success,USA,1987,3
+Martin Marietta,0,Success,USA,1987,3
+Arianespace,0,Success,France,1987,2
+Arianespace,0,Success,France,1987,2
+CASC,30,Success,China,1987,2
+CASC,30,Success,China,1987,2
+MHI,0,Success,Japan,1987,2
+MHI,0,Success,Japan,1987,2
+General Dynamics,0,Success,USA,1987,3
+General Dynamics,0,Success,USA,1987,3
+General Dynamics,0,Failure,USA,1987,3
+ISRO,0,Failure,India,1987,1
+ISAS,0,Success,Japan,1987,1
+RVSN USSR,0,Success,Russia,1986,49
+RVSN USSR,0,Success,Russia,1986,49
+RVSN USSR,0,Success,Russia,1986,49
+RVSN USSR,0,Success,Russia,1986,49
+RVSN USSR,0,Success,Russia,1986,49
+RVSN USSR,0,Success,Russia,1986,49
+RVSN USSR,0,Success,Russia,1986,49
+RVSN USSR,0,Success,Russia,1986,49
+RVSN USSR,0,Success,Russia,1986,49
+RVSN USSR,0,Success,Russia,1986,49
+RVSN USSR,0,Success,Russia,1986,49
+RVSN USSR,0,Success,Russia,1986,49
+RVSN USSR,0,Success,Russia,1986,49
+RVSN USSR,0,Success,Kazakhstan,1986,49
+RVSN USSR,0,Success,Russia,1986,49
+RVSN USSR,0,Success,Russia,1986,49
+RVSN USSR,0,Failure,Russia,1986,49
+RVSN USSR,0,Partial Failure,Russia,1986,49
+RVSN USSR,0,Success,Russia,1986,49
+RVSN USSR,0,Success,Russia,1986,49
+RVSN USSR,0,Success,Russia,1986,49
+RVSN USSR,0,Success,Russia,1986,49
+RVSN USSR,0,Success,Russia,1986,49
+RVSN USSR,0,Success,Kazakhstan,1986,49
+RVSN USSR,0,Success,Kazakhstan,1986,49
+RVSN USSR,0,Success,Russia,1986,49
+RVSN USSR,0,Success,Kazakhstan,1986,49
+RVSN USSR,0,Success,Russia,1986,49
+RVSN USSR,0,Partial Failure,Russia,1986,49
+RVSN USSR,0,Success,Russia,1986,49
+RVSN USSR,0,Success,Russia,1986,49
+RVSN USSR,0,Success,Russia,1986,49
+RVSN USSR,0,Success,Russia,1986,49
+RVSN USSR,0,Success,Russia,1986,49
+RVSN USSR,0,Success,Russia,1986,49
+RVSN USSR,0,Success,Russia,1986,49
+RVSN USSR,0,Success,Russia,1986,49
+RVSN USSR,0,Success,Russia,1986,49
+RVSN USSR,0,Success,Russia,1986,49
+RVSN USSR,0,Success,Kazakhstan,1986,49
+RVSN USSR,0,Success,Kazakhstan,1986,49
+RVSN USSR,0,Success,Kazakhstan,1986,49
+RVSN USSR,0,Success,Russia,1986,49
+RVSN USSR,0,Success,Russia,1986,49
+RVSN USSR,0,Success,Russia,1986,49
+RVSN USSR,0,Success,Russia,1986,49
+RVSN USSR,0,Success,Russia,1986,49
+RVSN USSR,0,Success,Russia,1986,49
+RVSN USSR,0,Success,Russia,1986,49
+General Dynamics,0,Success,USA,1986,3
+General Dynamics,0,Success,USA,1986,3
+General Dynamics,0,Success,USA,1986,3
+CASC,30,Success,China,1986,2
+CASC,0,Success,China,1986,2
+MHI,0,Success,Japan,1986,2
+MHI,0,Success,Japan,1986,2
+Arianespace,0,Failure,France,1986,3
+Arianespace,0,Success,France,1986,3
+Arianespace,0,Success,France,1986,3
+Martin Marietta,0,Failure,USA,1986,1
+NASA,450,Failure,USA,1986,2
+NASA,450,Success,USA,1986,2
+RVSN USSR,0,Partial Failure,Kazakhstan,1985,51
+RVSN USSR,0,Success,Russia,1985,51
+RVSN USSR,0,Success,Russia,1985,51
+RVSN USSR,0,Success,Russia,1985,51
+RVSN USSR,0,Success,Russia,1985,51
+RVSN USSR,0,Success,Russia,1985,51
+RVSN USSR,0,Success,Russia,1985,51
+RVSN USSR,0,Success,Russia,1985,51
+RVSN USSR,0,Success,Russia,1985,51
+RVSN USSR,0,Success,Russia,1985,51
+RVSN USSR,0,Failure,Russia,1985,51
+RVSN USSR,0,Success,Kazakhstan,1985,51
+RVSN USSR,0,Success,Russia,1985,51
+RVSN USSR,0,Success,Kazakhstan,1985,51
+RVSN USSR,0,Success,Russia,1985,51
+RVSN USSR,0,Success,Russia,1985,51
+RVSN USSR,0,Success,Kazakhstan,1985,51
+RVSN USSR,0,Success,Russia,1985,51
+RVSN USSR,0,Success,Russia,1985,51
+RVSN USSR,0,Success,Russia,1985,51
+RVSN USSR,0,Success,Kazakhstan,1985,51
+RVSN USSR,0,Success,Russia,1985,51
+RVSN USSR,0,Success,Kazakhstan,1985,51
+RVSN USSR,0,Success,Russia,1985,51
+RVSN USSR,0,Success,Russia,1985,51
+RVSN USSR,0,Success,Kazakhstan,1985,51
+RVSN USSR,0,Success,Russia,1985,51
+RVSN USSR,0,Success,Russia,1985,51
+RVSN USSR,0,Failure,Kazakhstan,1985,51
+RVSN USSR,0,Success,Russia,1985,51
+RVSN USSR,0,Success,Russia,1985,51
+RVSN USSR,0,Success,Russia,1985,51
+RVSN USSR,0,Success,Russia,1985,51
+RVSN USSR,0,Success,Russia,1985,51
+RVSN USSR,0,Success,Russia,1985,51
+RVSN USSR,0,Success,Russia,1985,51
+RVSN USSR,0,Success,Kazakhstan,1985,51
+RVSN USSR,0,Success,Kazakhstan,1985,51
+RVSN USSR,0,Success,Russia,1985,51
+RVSN USSR,0,Failure,Kazakhstan,1985,51
+RVSN USSR,0,Success,Russia,1985,51
+RVSN USSR,0,Success,Russia,1985,51
+RVSN USSR,0,Success,Russia,1985,51
+RVSN USSR,0,Success,Russia,1985,51
+RVSN USSR,0,Success,Russia,1985,51
+RVSN USSR,0,Success,Russia,1985,51
+RVSN USSR,0,Success,Russia,1985,51
+RVSN USSR,0,Success,Kazakhstan,1985,51
+RVSN USSR,0,Success,Russia,1985,51
+RVSN USSR,0,Success,Russia,1985,51
+RVSN USSR,0,Success,Russia,1985,51
+NASA,450,Success,USA,1985,9
+NASA,450,Success,USA,1985,9
+NASA,450,Success,USA,1985,9
+NASA,450,Success,USA,1985,9
+NASA,450,Success,USA,1985,9
+NASA,450,Success,USA,1985,9
+NASA,450,Success,USA,1985,9
+NASA,450,Success,USA,1985,9
+NASA,450,Success,USA,1985,9
+CASC,30,Success,China,1985,1
+General Dynamics,0,Success,USA,1985,5
+General Dynamics,0,Success,USA,1985,5
+General Dynamics,0,Success,USA,1985,5
+General Dynamics,0,Success,USA,1985,5
+General Dynamics,0,Success,USA,1985,5
+Arianespace,0,Failure,France,1985,4
+Arianespace,0,Success,France,1985,4
+Arianespace,0,Success,France,1985,4
+Arianespace,0,Success,France,1985,4
+Martin Marietta,0,Failure,USA,1985,2
+Martin Marietta,0,Success,USA,1985,2
+ISAS,0,Success,Japan,1985,2
+ISAS,0,Success,Japan,1985,2
+Martin Marietta,0,Success,USA,1984,6
+Martin Marietta,0,Success,USA,1984,6
+Martin Marietta,0,Success,USA,1984,6
+Martin Marietta,0,Success,USA,1984,6
+Martin Marietta,0,Success,USA,1984,6
+Martin Marietta,0,Success,USA,1984,6
+RVSN USSR,0,Success,Russia,1984,42
+RVSN USSR,0,Success,Russia,1984,42
+RVSN USSR,0,Success,Russia,1984,42
+RVSN USSR,0,Partial Failure,Russia,1984,42
+RVSN USSR,0,Success,Russia,1984,42
+RVSN USSR,0,Success,Kazakhstan,1984,42
+RVSN USSR,0,Success,Russia,1984,42
+RVSN USSR,0,Success,Russia,1984,42
+RVSN USSR,0,Success,Russia,1984,42
+RVSN USSR,0,Success,Russia,1984,42
+RVSN USSR,0,Success,Russia,1984,42
+RVSN USSR,0,Success,Russia,1984,42
+RVSN USSR,0,Success,Russia,1984,42
+RVSN USSR,0,Success,Kazakhstan,1984,42
+RVSN USSR,0,Success,Russia,1984,42
+RVSN USSR,0,Success,Russia,1984,42
+RVSN USSR,0,Success,Russia,1984,42
+RVSN USSR,0,Success,Kazakhstan,1984,42
+RVSN USSR,0,Success,Russia,1984,42
+RVSN USSR,0,Success,Russia,1984,42
+RVSN USSR,0,Success,Russia,1984,42
+RVSN USSR,0,Success,Russia,1984,42
+RVSN USSR,0,Success,Russia,1984,42
+RVSN USSR,0,Success,Russia,1984,42
+RVSN USSR,0,Success,Russia,1984,42
+RVSN USSR,0,Success,Russia,1984,42
+RVSN USSR,0,Success,Russia,1984,42
+RVSN USSR,0,Success,Kazakhstan,1984,42
+RVSN USSR,0,Success,Russia,1984,42
+RVSN USSR,0,Success,Russia,1984,42
+RVSN USSR,0,Success,Russia,1984,42
+RVSN USSR,0,Success,Russia,1984,42
+RVSN USSR,0,Success,Russia,1984,42
+RVSN USSR,0,Success,Russia,1984,42
+RVSN USSR,0,Success,Russia,1984,42
+RVSN USSR,0,Success,Russia,1984,42
+RVSN USSR,0,Success,Russia,1984,42
+RVSN USSR,0,Success,Russia,1984,42
+RVSN USSR,0,Success,Russia,1984,42
+RVSN USSR,0,Success,Russia,1984,42
+RVSN USSR,0,Success,Russia,1984,42
+RVSN USSR,0,Success,Russia,1984,42
+General Dynamics,0,Success,USA,1984,5
+General Dynamics,0,Success,USA,1984,5
+General Dynamics,0,Success,USA,1984,5
+General Dynamics,0,Failure,USA,1984,5
+General Dynamics,0,Success,USA,1984,5
+Arianespace,0,Success,France,1984,3
+Arianespace,0,Success,France,1984,3
+Arianespace,0,Success,France,1984,3
+NASA,450,Success,USA,1984,5
+NASA,450,Success,USA,1984,5
+NASA,450,Success,USA,1984,5
+NASA,450,Success,USA,1984,5
+NASA,450,Success,USA,1984,5
+CASC,30,Success,China,1984,3
+CASC,0,Success,China,1984,3
+CASC,0,Partial Failure,China,1984,3
+MHI,0,Success,Japan,1984,2
+MHI,0,Success,Japan,1984,2
+US Air Force,0,Success,USA,1984,1
+ESA,0,Success,France,1984,1
+ISAS,0,Success,Japan,1984,1
+RVSN USSR,0,Success,Russia,1983,46
+RVSN USSR,0,Success,Russia,1983,46
+RVSN USSR,0,Success,Russia,1983,46
+RVSN USSR,0,Success,Russia,1983,46
+RVSN USSR,0,Success,Russia,1983,46
+RVSN USSR,0,Success,Russia,1983,46
+RVSN USSR,0,Success,Russia,1983,46
+RVSN USSR,0,Success,Russia,1983,46
+RVSN USSR,0,Success,Kazakhstan,1983,46
+RVSN USSR,0,Success,Russia,1983,46
+RVSN USSR,0,Success,Russia,1983,46
+RVSN USSR,0,Success,Russia,1983,46
+RVSN USSR,0,Success,Russia,1983,46
+RVSN USSR,0,Success,Russia,1983,46
+RVSN USSR,0,Success,Russia,1983,46
+RVSN USSR,0,Success,Russia,1983,46
+RVSN USSR,0,Success,Russia,1983,46
+RVSN USSR,0,Success,Russia,1983,46
+RVSN USSR,0,Success,Kazakhstan,1983,46
+RVSN USSR,0,Success,Kazakhstan,1983,46
+RVSN USSR,0,Success,Russia,1983,46
+RVSN USSR,0,Success,Russia,1983,46
+RVSN USSR,0,Success,Kazakhstan,1983,46
+RVSN USSR,0,Success,Russia,1983,46
+RVSN USSR,0,Success,Russia,1983,46
+RVSN USSR,0,Success,Russia,1983,46
+RVSN USSR,0,Success,Russia,1983,46
+RVSN USSR,0,Success,Kazakhstan,1983,46
+RVSN USSR,0,Success,Russia,1983,46
+RVSN USSR,0,Success,Russia,1983,46
+RVSN USSR,0,Success,Russia,1983,46
+RVSN USSR,0,Success,Russia,1983,46
+RVSN USSR,0,Success,Russia,1983,46
+RVSN USSR,0,Success,Russia,1983,46
+RVSN USSR,0,Success,Russia,1983,46
+RVSN USSR,0,Success,Kazakhstan,1983,46
+RVSN USSR,0,Success,Russia,1983,46
+RVSN USSR,0,Success,Russia,1983,46
+RVSN USSR,0,Success,Russia,1983,46
+RVSN USSR,0,Success,Russia,1983,46
+RVSN USSR,0,Success,Russia,1983,46
+RVSN USSR,0,Success,Russia,1983,46
+RVSN USSR,0,Failure,Russia,1983,46
+RVSN USSR,0,Success,Russia,1983,46
+RVSN USSR,0,Success,Russia,1983,46
+RVSN USSR,0,Success,Russia,1983,46
+NASA,450,Success,USA,1983,4
+NASA,450,Success,USA,1983,4
+NASA,450,Success,USA,1983,4
+NASA,450,Success,USA,1983,4
+General Dynamics,0,Success,USA,1983,6
+General Dynamics,0,Success,USA,1983,6
+General Dynamics,0,Success,USA,1983,6
+General Dynamics,0,Success,USA,1983,6
+General Dynamics,0,Success,USA,1983,6
+General Dynamics,0,Success,USA,1983,6
+ESA,0,Success,France,1983,2
+ESA,0,Success,France,1983,2
+CASC,30,Success,China,1983,1
+MHI,0,Success,Japan,1983,2
+MHI,0,Success,Japan,1983,2
+Martin Marietta,0,Success,USA,1983,2
+Martin Marietta,0,Success,USA,1983,2
+US Air Force,0,Success,USA,1983,1
+ISRO,0,Success,India,1983,1
+ISAS,0,Success,Japan,1983,1
+RVSN USSR,0,Success,Russia,1982,53
+RVSN USSR,0,Success,Russia,1982,53
+RVSN USSR,0,Partial Failure,Kazakhstan,1982,53
+RVSN USSR,0,Failure,Russia,1982,53
+RVSN USSR,0,Success,Russia,1982,53
+RVSN USSR,0,Success,Russia,1982,53
+RVSN USSR,0,Success,Russia,1982,53
+RVSN USSR,0,Success,Russia,1982,53
+RVSN USSR,0,Success,Russia,1982,53
+RVSN USSR,0,Success,Russia,1982,53
+RVSN USSR,0,Success,Kazakhstan,1982,53
+RVSN USSR,0,Success,Russia,1982,53
+RVSN USSR,0,Success,Kazakhstan,1982,53
+RVSN USSR,0,Success,Russia,1982,53
+RVSN USSR,0,Success,Russia,1982,53
+RVSN USSR,0,Success,Kazakhstan,1982,53
+RVSN USSR,0,Success,Russia,1982,53
+RVSN USSR,0,Success,Kazakhstan,1982,53
+RVSN USSR,0,Success,Russia,1982,53
+RVSN USSR,0,Success,Russia,1982,53
+RVSN USSR,0,Success,Russia,1982,53
+RVSN USSR,0,Success,Russia,1982,53
+RVSN USSR,0,Partial Failure,Russia,1982,53
+RVSN USSR,0,Success,Kazakhstan,1982,53
+RVSN USSR,0,Success,Russia,1982,53
+RVSN USSR,0,Success,Russia,1982,53
+RVSN USSR,0,Success,Russia,1982,53
+RVSN USSR,0,Success,Kazakhstan,1982,53
+RVSN USSR,0,Success,Russia,1982,53
+RVSN USSR,0,Success,Russia,1982,53
+RVSN USSR,0,Success,Russia,1982,53
+RVSN USSR,0,Success,Kazakhstan,1982,53
+RVSN USSR,0,Success,Russia,1982,53
+RVSN USSR,0,Success,Russia,1982,53
+RVSN USSR,0,Success,Kazakhstan,1982,53
+RVSN USSR,0,Success,Russia,1982,53
+RVSN USSR,0,Success,Russia,1982,53
+RVSN USSR,0,Success,Russia,1982,53
+RVSN USSR,0,Success,Russia,1982,53
+RVSN USSR,0,Success,Russia,1982,53
+RVSN USSR,0,Success,Russia,1982,53
+RVSN USSR,0,Success,Russia,1982,53
+RVSN USSR,0,Success,Russia,1982,53
+RVSN USSR,0,Success,Russia,1982,53
+RVSN USSR,0,Failure,Russia,1982,53
+RVSN USSR,0,Success,Russia,1982,53
+RVSN USSR,0,Success,Russia,1982,53
+RVSN USSR,0,Success,Russia,1982,53
+RVSN USSR,0,Success,Russia,1982,53
+RVSN USSR,0,Success,Kazakhstan,1982,53
+RVSN USSR,0,Success,Russia,1982,53
+RVSN USSR,0,Success,Russia,1982,53
+RVSN USSR,0,Success,Russia,1982,53
+General Dynamics,0,Success,USA,1982,3
+General Dynamics,0,Success,USA,1982,3
+General Dynamics,0,Success,USA,1982,3
+Martin Marietta,0,Success,USA,1982,4
+Martin Marietta,0,Success,USA,1982,4
+Martin Marietta,0,Success,USA,1982,4
+Martin Marietta,0,Success,USA,1982,4
+NASA,450,Success,USA,1982,3
+NASA,450,Success,USA,1982,3
+NASA,450,Success,USA,1982,3
+CASC,30,Success,China,1982,1
+ESA,0,Failure,France,1982,1
+MHI,0,Success,Japan,1982,1
+US Air Force,0,Success,USA,1982,1
+RVSN USSR,0,Success,Kazakhstan,1981,51
+RVSN USSR,0,Success,Russia,1981,51
+RVSN USSR,0,Partial Failure,Russia,1981,51
+RVSN USSR,0,Success,Russia,1981,51
+RVSN USSR,0,Success,Russia,1981,51
+RVSN USSR,0,Success,Russia,1981,51
+RVSN USSR,0,Success,Russia,1981,51
+RVSN USSR,0,Success,Russia,1981,51
+RVSN USSR,0,Success,Russia,1981,51
+RVSN USSR,0,Success,Russia,1981,51
+RVSN USSR,0,Success,Russia,1981,51
+RVSN USSR,0,Success,Russia,1981,51
+RVSN USSR,0,Success,Russia,1981,51
+RVSN USSR,0,Success,Russia,1981,51
+RVSN USSR,0,Success,Russia,1981,51
+RVSN USSR,0,Success,Kazakhstan,1981,51
+RVSN USSR,0,Partial Failure,Russia,1981,51
+RVSN USSR,0,Success,Russia,1981,51
+RVSN USSR,0,Success,Russia,1981,51
+RVSN USSR,0,Success,Kazakhstan,1981,51
+RVSN USSR,0,Success,Russia,1981,51
+RVSN USSR,0,Success,Russia,1981,51
+RVSN USSR,0,Success,Russia,1981,51
+RVSN USSR,0,Success,Kazakhstan,1981,51
+RVSN USSR,0,Success,Russia,1981,51
+RVSN USSR,0,Success,Kazakhstan,1981,51
+RVSN USSR,0,Success,Russia,1981,51
+RVSN USSR,0,Success,Russia,1981,51
+RVSN USSR,0,Success,Russia,1981,51
+RVSN USSR,0,Success,Russia,1981,51
+RVSN USSR,0,Success,Russia,1981,51
+RVSN USSR,0,Success,Russia,1981,51
+RVSN USSR,0,Success,Russia,1981,51
+RVSN USSR,0,Success,Russia,1981,51
+RVSN USSR,0,Success,Russia,1981,51
+RVSN USSR,0,Success,Russia,1981,51
+RVSN USSR,0,Success,Kazakhstan,1981,51
+RVSN USSR,0,Success,Kazakhstan,1981,51
+RVSN USSR,0,Success,Kazakhstan,1981,51
+RVSN USSR,0,Success,Russia,1981,51
+RVSN USSR,0,Success,Kazakhstan,1981,51
+RVSN USSR,0,Success,Russia,1981,51
+RVSN USSR,0,Success,Russia,1981,51
+RVSN USSR,0,Success,Russia,1981,51
+RVSN USSR,0,Success,Kazakhstan,1981,51
+RVSN USSR,0,Success,Russia,1981,51
+RVSN USSR,0,Success,Russia,1981,51
+RVSN USSR,0,Failure,Russia,1981,51
+RVSN USSR,0,Success,Russia,1981,51
+RVSN USSR,0,Success,Russia,1981,51
+RVSN USSR,0,Success,Russia,1981,51
+ESA,0,Success,France,1981,2
+ESA,0,Success,France,1981,2
+General Dynamics,0,Failure,USA,1981,6
+General Dynamics,0,Success,USA,1981,6
+General Dynamics,0,Partial Failure,USA,1981,6
+General Dynamics,0,Success,USA,1981,6
+General Dynamics,0,Success,USA,1981,6
+General Dynamics,0,Success,USA,1981,6
+NASA,450,Success,USA,1981,2
+NASA,450,Success,USA,1981,2
+Martin Marietta,0,Success,USA,1981,4
+Martin Marietta,0,Success,USA,1981,4
+Martin Marietta,0,Success,USA,1981,4
+Martin Marietta,0,Success,USA,1981,4
+CASC,0,Success,China,1981,1
+MHI,0,Success,Japan,1981,2
+MHI,0,Success,Japan,1981,2
+ISRO,0,Partial Failure,India,1981,1
+US Air Force,0,Success,USA,1981,1
+ISAS,0,Success,Japan,1981,1
+RVSN USSR,0,Success,Kazakhstan,1980,40
+RVSN USSR,0,Partial Failure,Russia,1980,40
+RVSN USSR,0,Success,Russia,1980,40
+RVSN USSR,0,Success,Russia,1980,40
+RVSN USSR,0,Success,Russia,1980,40
+RVSN USSR,0,Success,Russia,1980,40
+RVSN USSR,0,Success,Russia,1980,40
+RVSN USSR,0,Success,Russia,1980,40
+RVSN USSR,0,Success,Kazakhstan,1980,40
+RVSN USSR,0,Success,Russia,1980,40
+RVSN USSR,0,Success,Russia,1980,40
+RVSN USSR,0,Success,Russia,1980,40
+RVSN USSR,0,Success,Russia,1980,40
+RVSN USSR,0,Success,Russia,1980,40
+RVSN USSR,0,Success,Russia,1980,40
+RVSN USSR,0,Success,Russia,1980,40
+RVSN USSR,0,Success,Russia,1980,40
+RVSN USSR,0,Success,Russia,1980,40
+RVSN USSR,0,Success,Russia,1980,40
+RVSN USSR,0,Success,Kazakhstan,1980,40
+RVSN USSR,0,Success,Russia,1980,40
+RVSN USSR,0,Success,Russia,1980,40
+RVSN USSR,0,Success,Russia,1980,40
+RVSN USSR,0,Success,Russia,1980,40
+RVSN USSR,0,Success,Russia,1980,40
+RVSN USSR,0,Success,Kazakhstan,1980,40
+RVSN USSR,0,Partial Failure,Russia,1980,40
+RVSN USSR,0,Success,Kazakhstan,1980,40
+RVSN USSR,0,Success,Russia,1980,40
+RVSN USSR,0,Success,Russia,1980,40
+RVSN USSR,0,Success,Russia,1980,40
+RVSN USSR,0,Success,Russia,1980,40
+RVSN USSR,0,Success,Kazakhstan,1980,40
+RVSN USSR,0,Partial Failure,Russia,1980,40
+RVSN USSR,0,Success,Russia,1980,40
+RVSN USSR,0,Success,Russia,1980,40
+RVSN USSR,0,Success,Russia,1980,40
+RVSN USSR,0,Success,Russia,1980,40
+RVSN USSR,0,Success,Russia,1980,40
+RVSN USSR,0,Success,Russia,1980,40
+Martin Marietta,0,Success,USA,1980,3
+Martin Marietta,0,Success,USA,1980,3
+Martin Marietta,0,Success,USA,1980,3
+General Dynamics,0,Failure,USA,1980,8
+General Dynamics,0,Success,USA,1980,8
+General Dynamics,0,Success,USA,1980,8
+General Dynamics,0,Failure,USA,1980,8
+General Dynamics,0,Success,USA,1980,8
+General Dynamics,0,Success,USA,1980,8
+General Dynamics,0,Success,USA,1980,8
+General Dynamics,0,Success,USA,1980,8
+ISRO,0,Success,India,1980,1
+ESA,0,Failure,France,1980,1
+MHI,0,Success,Japan,1980,1
+ISAS,0,Success,Japan,1980,1
+ESA,0,Success,France,1979,1
+RVSN USSR,0,Success,Russia,1979,36
+RVSN USSR,0,Success,Russia,1979,36
+RVSN USSR,0,Success,Russia,1979,36
+RVSN USSR,0,Success,Russia,1979,36
+RVSN USSR,0,Success,Russia,1979,36
+RVSN USSR,0,Success,Russia,1979,36
+RVSN USSR,0,Success,Russia,1979,36
+RVSN USSR,0,Success,Russia,1979,36
+RVSN USSR,0,Success,Russia,1979,36
+RVSN USSR,0,Success,Russia,1979,36
+RVSN USSR,0,Success,Russia,1979,36
+RVSN USSR,0,Success,Russia,1979,36
+RVSN USSR,0,Success,Russia,1979,36
+RVSN USSR,0,Success,Russia,1979,36
+RVSN USSR,0,Success,Russia,1979,36
+RVSN USSR,0,Success,Russia,1979,36
+RVSN USSR,0,Success,Russia,1979,36
+RVSN USSR,0,Success,Russia,1979,36
+RVSN USSR,0,Success,Russia,1979,36
+RVSN USSR,0,Success,Russia,1979,36
+RVSN USSR,0,Success,Kazakhstan,1979,36
+RVSN USSR,0,Success,Kazakhstan,1979,36
+RVSN USSR,0,Success,Russia,1979,36
+RVSN USSR,0,Success,Russia,1979,36
+RVSN USSR,0,Success,Russia,1979,36
+RVSN USSR,0,Success,Russia,1979,36
+RVSN USSR,0,Success,Russia,1979,36
+RVSN USSR,0,Success,Russia,1979,36
+RVSN USSR,0,Success,Russia,1979,36
+RVSN USSR,0,Success,Russia,1979,36
+RVSN USSR,0,Success,Russia,1979,36
+RVSN USSR,0,Success,Russia,1979,36
+RVSN USSR,0,Success,Russia,1979,36
+RVSN USSR,0,Success,Kazakhstan,1979,36
+RVSN USSR,0,Success,Russia,1979,36
+RVSN USSR,0,Success,Russia,1979,36
+Martin Marietta,0,Success,USA,1979,4
+Martin Marietta,0,Success,USA,1979,4
+Martin Marietta,0,Success,USA,1979,4
+Martin Marietta,0,Success,USA,1979,4
+General Dynamics,0,Success,USA,1979,4
+General Dynamics,0,Success,USA,1979,4
+General Dynamics,0,Success,USA,1979,4
+General Dynamics,0,Success,USA,1979,4
+ISRO,0,Failure,India,1979,1
+CASC,0,Failure,China,1979,1
+US Air Force,0,Success,USA,1979,1
+MHI,0,Partial Failure,Japan,1979,1
+RVSN USSR,0,Success,Russia,1978,71
+RVSN USSR,0,Partial Failure,Russia,1978,71
+RVSN USSR,0,Success,Russia,1978,71
+RVSN USSR,0,Success,Russia,1978,71
+RVSN USSR,0,Success,Russia,1978,71
+RVSN USSR,0,Partial Failure,Russia,1978,71
+RVSN USSR,0,Success,Russia,1978,71
+RVSN USSR,0,Success,Russia,1978,71
+RVSN USSR,0,Success,Russia,1978,71
+RVSN USSR,0,Success,Kazakhstan,1978,71
+RVSN USSR,0,Success,Russia,1978,71
+RVSN USSR,0,Success,Russia,1978,71
+RVSN USSR,0,Success,Russia,1978,71
+RVSN USSR,0,Success,Russia,1978,71
+RVSN USSR,0,Success,Russia,1978,71
+RVSN USSR,0,Success,Russia,1978,71
+RVSN USSR,0,Success,Russia,1978,71
+RVSN USSR,0,Success,Kazakhstan,1978,71
+RVSN USSR,0,Success,Russia,1978,71
+RVSN USSR,0,Success,Russia,1978,71
+RVSN USSR,0,Success,Russia,1978,71
+RVSN USSR,0,Success,Russia,1978,71
+RVSN USSR,0,Success,Russia,1978,71
+RVSN USSR,0,Success,Russia,1978,71
+RVSN USSR,0,Success,Russia,1978,71
+RVSN USSR,0,Success,Russia,1978,71
+RVSN USSR,0,Success,Russia,1978,71
+RVSN USSR,0,Success,Russia,1978,71
+RVSN USSR,0,Success,Russia,1978,71
+RVSN USSR,0,Success,Russia,1978,71
+RVSN USSR,0,Success,Russia,1978,71
+RVSN USSR,0,Success,Russia,1978,71
+RVSN USSR,0,Success,Russia,1978,71
+RVSN USSR,0,Success,Russia,1978,71
+RVSN USSR,0,Success,Russia,1978,71
+RVSN USSR,0,Success,Russia,1978,71
+RVSN USSR,0,Success,Russia,1978,71
+RVSN USSR,0,Success,Russia,1978,71
+RVSN USSR,0,Success,Kazakhstan,1978,71
+RVSN USSR,0,Success,Russia,1978,71
+RVSN USSR,0,Success,Russia,1978,71
+RVSN USSR,0,Success,Russia,1978,71
+RVSN USSR,0,Success,Russia,1978,71
+RVSN USSR,0,Success,Kazakhstan,1978,71
+RVSN USSR,0,Success,Russia,1978,71
+RVSN USSR,0,Success,Russia,1978,71
+RVSN USSR,0,Success,Russia,1978,71
+RVSN USSR,0,Success,Russia,1978,71
+RVSN USSR,0,Success,Russia,1978,71
+RVSN USSR,0,Success,Russia,1978,71
+RVSN USSR,0,Success,Kazakhstan,1978,71
+RVSN USSR,0,Success,Russia,1978,71
+RVSN USSR,0,Success,Kazakhstan,1978,71
+RVSN USSR,0,Success,Russia,1978,71
+RVSN USSR,0,Success,Russia,1978,71
+RVSN USSR,0,Success,Russia,1978,71
+RVSN USSR,0,Success,Russia,1978,71
+RVSN USSR,0,Success,Kazakhstan,1978,71
+RVSN USSR,0,Success,Russia,1978,71
+RVSN USSR,0,Success,Russia,1978,71
+RVSN USSR,0,Success,Russia,1978,71
+RVSN USSR,0,Success,Kazakhstan,1978,71
+RVSN USSR,0,Success,Russia,1978,71
+RVSN USSR,0,Success,Russia,1978,71
+RVSN USSR,0,Success,Kazakhstan,1978,71
+RVSN USSR,0,Success,Russia,1978,71
+RVSN USSR,0,Success,Russia,1978,71
+RVSN USSR,0,Success,Russia,1978,71
+RVSN USSR,0,Success,Russia,1978,71
+RVSN USSR,0,Success,Russia,1978,71
+RVSN USSR,0,Success,Russia,1978,71
+Martin Marietta,0,Success,USA,1978,7
+Martin Marietta,0,Success,USA,1978,7
+Martin Marietta,0,Success,USA,1978,7
+Martin Marietta,0,Success,USA,1978,7
+Martin Marietta,0,Failure,USA,1978,7
+Martin Marietta,0,Success,USA,1978,7
+Martin Marietta,0,Success,USA,1978,7
+General Dynamics,0,Success,USA,1978,14
+General Dynamics,0,Success,USA,1978,14
+General Dynamics,0,Success,USA,1978,14
+General Dynamics,0,Success,USA,1978,14
+General Dynamics,0,Success,USA,1978,14
+General Dynamics,0,Success,USA,1978,14
+General Dynamics,0,Success,USA,1978,14
+General Dynamics,0,Success,USA,1978,14
+General Dynamics,0,Success,USA,1978,14
+General Dynamics,0,Success,USA,1978,14
+General Dynamics,0,Success,USA,1978,14
+General Dynamics,0,Success,USA,1978,14
+General Dynamics,0,Success,USA,1978,14
+General Dynamics,0,Success,USA,1978,14
+ISAS,0,Success,Japan,1978,2
+ISAS,0,Success,Japan,1978,2
+CASC,0,Success,China,1978,2
+CASC,0,Success,China,1978,2
+MHI,0,Success,Japan,1978,1
+RVSN USSR,0,Success,Kazakhstan,1977,97
+RVSN USSR,0,Success,Russia,1977,97
+RVSN USSR,0,Success,Russia,1977,97
+RVSN USSR,0,Success,Kazakhstan,1977,97
+RVSN USSR,0,Success,Russia,1977,97
+RVSN USSR,0,Success,Russia,1977,97
+RVSN USSR,0,Success,Russia,1977,97
+RVSN USSR,0,Success,Russia,1977,97
+RVSN USSR,0,Success,Kazakhstan,1977,97
+RVSN USSR,0,Success,Kazakhstan,1977,97
+RVSN USSR,0,Success,Russia,1977,97
+RVSN USSR,0,Success,Russia,1977,97
+RVSN USSR,0,Failure,Russia,1977,97
+RVSN USSR,0,Success,Russia,1977,97
+RVSN USSR,0,Success,Russia,1977,97
+RVSN USSR,0,Success,Russia,1977,97
+RVSN USSR,0,Success,Kazakhstan,1977,97
+RVSN USSR,0,Success,Russia,1977,97
+RVSN USSR,0,Success,Russia,1977,97
+RVSN USSR,0,Success,Russia,1977,97
+RVSN USSR,0,Success,Kazakhstan,1977,97
+RVSN USSR,0,Success,Kazakhstan,1977,97
+RVSN USSR,0,Success,Russia,1977,97
+RVSN USSR,0,Success,Russia,1977,97
+RVSN USSR,0,Success,Kazakhstan,1977,97
+RVSN USSR,0,Success,Russia,1977,97
+RVSN USSR,0,Success,Kazakhstan,1977,97
+RVSN USSR,0,Success,Russia,1977,97
+RVSN USSR,0,Success,Kazakhstan,1977,97
+RVSN USSR,0,Success,Russia,1977,97
+RVSN USSR,0,Success,Russia,1977,97
+RVSN USSR,0,Success,Russia,1977,97
+RVSN USSR,0,Success,Russia,1977,97
+RVSN USSR,0,Success,Russia,1977,97
+RVSN USSR,0,Success,Russia,1977,97
+RVSN USSR,0,Success,Russia,1977,97
+RVSN USSR,0,Success,Russia,1977,97
+RVSN USSR,0,Success,Kazakhstan,1977,97
+RVSN USSR,0,Failure,Kazakhstan,1977,97
+RVSN USSR,0,Success,Russia,1977,97
+RVSN USSR,0,Success,Russia,1977,97
+RVSN USSR,0,Success,Russia,1977,97
+RVSN USSR,0,Success,Russia,1977,97
+RVSN USSR,0,Success,Kazakhstan,1977,97
+RVSN USSR,0,Success,Russia,1977,97
+RVSN USSR,0,Success,Russia,1977,97
+RVSN USSR,0,Success,Russia,1977,97
+RVSN USSR,0,Success,Russia,1977,97
+RVSN USSR,0,Success,Russia,1977,97
+RVSN USSR,0,Success,Russia,1977,97
+RVSN USSR,0,Success,Russia,1977,97
+RVSN USSR,0,Success,Russia,1977,97
+RVSN USSR,0,Success,Russia,1977,97
+RVSN USSR,0,Success,Kazakhstan,1977,97
+RVSN USSR,0,Success,Russia,1977,97
+RVSN USSR,0,Success,Kazakhstan,1977,97
+RVSN USSR,0,Success,Kazakhstan,1977,97
+RVSN USSR,0,Success,Russia,1977,97
+RVSN USSR,0,Success,Kazakhstan,1977,97
+RVSN USSR,0,Success,Russia,1977,97
+RVSN USSR,0,Success,Russia,1977,97
+RVSN USSR,0,Success,Russia,1977,97
+RVSN USSR,0,Success,Russia,1977,97
+RVSN USSR,0,Success,Kazakhstan,1977,97
+RVSN USSR,0,Success,Russia,1977,97
+RVSN USSR,0,Success,Russia,1977,97
+RVSN USSR,0,Success,Russia,1977,97
+RVSN USSR,0,Success,Kazakhstan,1977,97
+RVSN USSR,0,Success,Russia,1977,97
+RVSN USSR,0,Success,Kazakhstan,1977,97
+RVSN USSR,0,Success,Russia,1977,97
+RVSN USSR,0,Success,Russia,1977,97
+RVSN USSR,0,Success,Russia,1977,97
+RVSN USSR,0,Success,Russia,1977,97
+RVSN USSR,0,Success,Kazakhstan,1977,97
+RVSN USSR,0,Success,Russia,1977,97
+RVSN USSR,0,Success,Russia,1977,97
+RVSN USSR,0,Success,Russia,1977,97
+RVSN USSR,0,Success,Russia,1977,97
+RVSN USSR,0,Success,Russia,1977,97
+RVSN USSR,0,Success,Russia,1977,97
+RVSN USSR,0,Success,Russia,1977,97
+RVSN USSR,0,Success,Russia,1977,97
+RVSN USSR,0,Success,Russia,1977,97
+RVSN USSR,0,Success,Russia,1977,97
+RVSN USSR,0,Success,Russia,1977,97
+RVSN USSR,0,Failure,Kazakhstan,1977,97
+RVSN USSR,0,Success,Russia,1977,97
+RVSN USSR,0,Success,Russia,1977,97
+RVSN USSR,0,Success,Russia,1977,97
+RVSN USSR,0,Success,Russia,1977,97
+RVSN USSR,0,Success,Kazakhstan,1977,97
+RVSN USSR,0,Success,Russia,1977,97
+RVSN USSR,0,Success,Russia,1977,97
+RVSN USSR,0,Success,Kazakhstan,1977,97
+RVSN USSR,0,Success,Russia,1977,97
+RVSN USSR,0,Success,Kazakhstan,1977,97
+General Dynamics,0,Success,USA,1977,7
+General Dynamics,0,Success,USA,1977,7
+General Dynamics,0,Failure,USA,1977,7
+General Dynamics,0,Success,USA,1977,7
+General Dynamics,0,Success,USA,1977,7
+General Dynamics,0,Success,USA,1977,7
+General Dynamics,0,Success,USA,1977,7
+US Air Force,0,Success,USA,1977,2
+US Air Force,0,Success,USA,1977,2
+CASC,0,Success,China,1977,1
+Martin Marietta,0,Success,USA,1977,5
+Martin Marietta,0,Success,USA,1977,5
+Martin Marietta,0,Success,USA,1977,5
+Martin Marietta,0,Success,USA,1977,5
+Martin Marietta,0,Success,USA,1977,5
+MHI,0,Success,Japan,1977,1
+ISAS,0,Success,Japan,1977,1
+RVSN USSR,0,Success,Russia,1976,95
+RVSN USSR,0,Success,Russia,1976,95
+RVSN USSR,0,Success,Kazakhstan,1976,95
+RVSN USSR,0,Success,Russia,1976,95
+RVSN USSR,0,Success,Kazakhstan,1976,95
+RVSN USSR,0,Success,Russia,1976,95
+RVSN USSR,0,Success,Russia,1976,95
+RVSN USSR,0,Success,Russia,1976,95
+RVSN USSR,0,Success,Russia,1976,95
+RVSN USSR,0,Success,Russia,1976,95
+RVSN USSR,0,Success,Russia,1976,95
+RVSN USSR,0,Success,Kazakhstan,1976,95
+RVSN USSR,0,Success,Kazakhstan,1976,95
+RVSN USSR,0,Success,Kazakhstan,1976,95
+RVSN USSR,0,Success,Russia,1976,95
+RVSN USSR,0,Success,Kazakhstan,1976,95
+RVSN USSR,0,Success,Russia,1976,95
+RVSN USSR,0,Success,Russia,1976,95
+RVSN USSR,0,Success,Russia,1976,95
+RVSN USSR,0,Success,Russia,1976,95
+RVSN USSR,0,Success,Kazakhstan,1976,95
+RVSN USSR,0,Success,Kazakhstan,1976,95
+RVSN USSR,0,Success,Russia,1976,95
+RVSN USSR,0,Success,Kazakhstan,1976,95
+RVSN USSR,0,Success,Kazakhstan,1976,95
+RVSN USSR,0,Failure,Russia,1976,95
+RVSN USSR,0,Success,Russia,1976,95
+RVSN USSR,0,Success,Russia,1976,95
+RVSN USSR,0,Success,Kazakhstan,1976,95
+RVSN USSR,0,Success,Russia,1976,95
+RVSN USSR,0,Success,Kazakhstan,1976,95
+RVSN USSR,0,Success,Russia,1976,95
+RVSN USSR,0,Partial Failure,Russia,1976,95
+RVSN USSR,0,Success,Kazakhstan,1976,95
+RVSN USSR,0,Success,Russia,1976,95
+RVSN USSR,0,Success,Russia,1976,95
+RVSN USSR,0,Success,Russia,1976,95
+RVSN USSR,0,Success,Russia,1976,95
+RVSN USSR,0,Success,Russia,1976,95
+RVSN USSR,0,Success,Russia,1976,95
+RVSN USSR,0,Success,Russia,1976,95
+RVSN USSR,0,Success,Russia,1976,95
+RVSN USSR,0,Success,Kazakhstan,1976,95
+RVSN USSR,0,Success,Russia,1976,95
+RVSN USSR,0,Success,Kazakhstan,1976,95
+RVSN USSR,0,Success,Russia,1976,95
+RVSN USSR,0,Success,Russia,1976,95
+RVSN USSR,0,Success,Russia,1976,95
+RVSN USSR,0,Success,Russia,1976,95
+RVSN USSR,0,Success,Kazakhstan,1976,95
+RVSN USSR,0,Success,Kazakhstan,1976,95
+RVSN USSR,0,Partial Failure,Russia,1976,95
+RVSN USSR,0,Success,Russia,1976,95
+RVSN USSR,0,Success,Kazakhstan,1976,95
+RVSN USSR,0,Success,Russia,1976,95
+RVSN USSR,0,Success,Russia,1976,95
+RVSN USSR,0,Success,Russia,1976,95
+RVSN USSR,0,Success,Russia,1976,95
+RVSN USSR,0,Success,Kazakhstan,1976,95
+RVSN USSR,0,Success,Russia,1976,95
+RVSN USSR,0,Success,Russia,1976,95
+RVSN USSR,0,Success,Russia,1976,95
+RVSN USSR,0,Success,Kazakhstan,1976,95
+RVSN USSR,0,Success,Russia,1976,95
+RVSN USSR,0,Success,Russia,1976,95
+RVSN USSR,0,Success,Russia,1976,95
+RVSN USSR,0,Success,Russia,1976,95
+RVSN USSR,0,Success,Kazakhstan,1976,95
+RVSN USSR,0,Success,Russia,1976,95
+RVSN USSR,0,Success,Russia,1976,95
+RVSN USSR,0,Success,Russia,1976,95
+RVSN USSR,0,Success,Russia,1976,95
+RVSN USSR,0,Success,Russia,1976,95
+RVSN USSR,0,Success,Russia,1976,95
+RVSN USSR,0,Success,Russia,1976,95
+RVSN USSR,0,Success,Kazakhstan,1976,95
+RVSN USSR,0,Success,Kazakhstan,1976,95
+RVSN USSR,0,Success,Russia,1976,95
+RVSN USSR,0,Success,Kazakhstan,1976,95
+RVSN USSR,0,Success,Russia,1976,95
+RVSN USSR,0,Success,Russia,1976,95
+RVSN USSR,0,Success,Kazakhstan,1976,95
+RVSN USSR,0,Success,Russia,1976,95
+RVSN USSR,0,Success,Kazakhstan,1976,95
+RVSN USSR,0,Success,Russia,1976,95
+RVSN USSR,0,Success,Kazakhstan,1976,95
+RVSN USSR,0,Success,Russia,1976,95
+RVSN USSR,0,Success,Russia,1976,95
+RVSN USSR,0,Success,Kazakhstan,1976,95
+RVSN USSR,0,Success,Russia,1976,95
+RVSN USSR,0,Success,Russia,1976,95
+RVSN USSR,0,Success,Kazakhstan,1976,95
+RVSN USSR,0,Success,Russia,1976,95
+RVSN USSR,0,Success,Russia,1976,95
+RVSN USSR,0,Success,Russia,1976,95
+Martin Marietta,0,Success,USA,1976,7
+Martin Marietta,0,Success,USA,1976,7
+Martin Marietta,0,Success,USA,1976,7
+Martin Marietta,0,Success,USA,1976,7
+Martin Marietta,0,Success,USA,1976,7
+Martin Marietta,0,Success,USA,1976,7
+Martin Marietta,0,Success,USA,1976,7
+CASC,0,Success,China,1976,3
+CASC,0,Failure,China,1976,3
+CASC,0,Success,China,1976,3
+US Air Force,0,Success,USA,1976,2
+US Air Force,0,Success,USA,1976,2
+General Dynamics,0,Success,USA,1976,4
+General Dynamics,0,Success,USA,1976,4
+General Dynamics,0,Success,USA,1976,4
+General Dynamics,0,Success,USA,1976,4
+MHI,0,Success,Japan,1976,1
+ISAS,0,Failure,Japan,1976,1
+RVSN USSR,0,Success,Russia,1975,89
+RVSN USSR,0,Success,Russia,1975,89
+RVSN USSR,0,Success,Kazakhstan,1975,89
+RVSN USSR,0,Failure,Russia,1975,89
+RVSN USSR,0,Success,Russia,1975,89
+RVSN USSR,0,Success,Kazakhstan,1975,89
+RVSN USSR,0,Success,Kazakhstan,1975,89
+RVSN USSR,0,Success,Russia,1975,89
+RVSN USSR,0,Success,Russia,1975,89
+RVSN USSR,0,Success,Russia,1975,89
+RVSN USSR,0,Success,Russia,1975,89
+RVSN USSR,0,Success,Russia,1975,89
+RVSN USSR,0,Success,Kazakhstan,1975,89
+RVSN USSR,0,Success,Kazakhstan,1975,89
+RVSN USSR,0,Success,Russia,1975,89
+RVSN USSR,0,Success,Russia,1975,89
+RVSN USSR,0,Success,Russia,1975,89
+RVSN USSR,0,Success,Kazakhstan,1975,89
+RVSN USSR,0,Success,Russia,1975,89
+RVSN USSR,0,Success,Kazakhstan,1975,89
+RVSN USSR,0,Success,Russia,1975,89
+RVSN USSR,0,Success,Kazakhstan,1975,89
+RVSN USSR,0,Success,Russia,1975,89
+RVSN USSR,0,Success,Russia,1975,89
+RVSN USSR,0,Success,Russia,1975,89
+RVSN USSR,0,Success,Russia,1975,89
+RVSN USSR,0,Success,Russia,1975,89
+RVSN USSR,0,Success,Kazakhstan,1975,89
+RVSN USSR,0,Success,Russia,1975,89
+RVSN USSR,0,Success,Russia,1975,89
+RVSN USSR,0,Success,Russia,1975,89
+RVSN USSR,0,Success,Russia,1975,89
+RVSN USSR,0,Success,Russia,1975,89
+RVSN USSR,0,Success,Russia,1975,89
+RVSN USSR,0,Success,Russia,1975,89
+RVSN USSR,0,Success,Kazakhstan,1975,89
+RVSN USSR,0,Success,Russia,1975,89
+RVSN USSR,0,Success,Russia,1975,89
+RVSN USSR,0,Success,Russia,1975,89
+RVSN USSR,0,Success,Russia,1975,89
+RVSN USSR,0,Success,Kazakhstan,1975,89
+RVSN USSR,0,Success,Russia,1975,89
+RVSN USSR,0,Success,Russia,1975,89
+RVSN USSR,0,Success,Russia,1975,89
+RVSN USSR,0,Success,Russia,1975,89
+RVSN USSR,0,Success,Russia,1975,89
+RVSN USSR,0,Success,Russia,1975,89
+RVSN USSR,0,Success,Russia,1975,89
+RVSN USSR,0,Success,Russia,1975,89
+RVSN USSR,0,Success,Russia,1975,89
+RVSN USSR,0,Success,Russia,1975,89
+RVSN USSR,0,Success,Russia,1975,89
+RVSN USSR,0,Failure,Russia,1975,89
+RVSN USSR,0,Success,Russia,1975,89
+RVSN USSR,0,Success,Kazakhstan,1975,89
+RVSN USSR,0,Success,Russia,1975,89
+RVSN USSR,0,Success,Russia,1975,89
+RVSN USSR,0,Success,Kazakhstan,1975,89
+RVSN USSR,0,Success,Kazakhstan,1975,89
+RVSN USSR,0,Success,Russia,1975,89
+RVSN USSR,0,Success,Russia,1975,89
+RVSN USSR,0,Success,Russia,1975,89
+RVSN USSR,0,Success,Russia,1975,89
+RVSN USSR,0,Success,Russia,1975,89
+RVSN USSR,0,Success,Kazakhstan,1975,89
+RVSN USSR,0,Success,Russia,1975,89
+RVSN USSR,0,Success,Russia,1975,89
+RVSN USSR,0,Success,Russia,1975,89
+RVSN USSR,0,Success,Kazakhstan,1975,89
+RVSN USSR,0,Failure,Kazakhstan,1975,89
+RVSN USSR,0,Success,Kazakhstan,1975,89
+RVSN USSR,0,Success,Russia,1975,89
+RVSN USSR,0,Success,Russia,1975,89
+RVSN USSR,0,Success,Kazakhstan,1975,89
+RVSN USSR,0,Success,Russia,1975,89
+RVSN USSR,0,Success,Russia,1975,89
+RVSN USSR,0,Success,Kazakhstan,1975,89
+RVSN USSR,0,Success,Russia,1975,89
+RVSN USSR,0,Success,Kazakhstan,1975,89
+RVSN USSR,0,Success,Russia,1975,89
+RVSN USSR,0,Success,Russia,1975,89
+RVSN USSR,0,Success,Russia,1975,89
+RVSN USSR,0,Success,Russia,1975,89
+RVSN USSR,0,Success,Russia,1975,89
+RVSN USSR,0,Success,Russia,1975,89
+RVSN USSR,0,Success,Russia,1975,89
+RVSN USSR,0,Success,Russia,1975,89
+RVSN USSR,0,Success,Kazakhstan,1975,89
+RVSN USSR,0,Success,Kazakhstan,1975,89
+CASC,0,Success,China,1975,3
+CASC,0,Success,China,1975,3
+CASC,0,Success,China,1975,3
+Martin Marietta,0,Success,USA,1975,7
+Martin Marietta,0,Success,USA,1975,7
+Martin Marietta,0,Success,USA,1975,7
+Martin Marietta,0,Success,USA,1975,7
+Martin Marietta,0,Success,USA,1975,7
+Martin Marietta,0,Failure,USA,1975,7
+Martin Marietta,0,Success,USA,1975,7
+US Air Force,0,Success,USA,1975,2
+US Air Force,0,Success,USA,1975,2
+CNES,0,Success,France,1975,3
+CNES,0,Success,France,1975,3
+CNES,0,Success,France,1975,3
+General Dynamics,0,Success,USA,1975,5
+General Dynamics,0,Success,USA,1975,5
+General Dynamics,0,Success,USA,1975,5
+General Dynamics,0,Failure,USA,1975,5
+General Dynamics,0,Failure,USA,1975,5
+MHI,0,Success,Japan,1975,1
+NASA,0,Success,USA,1975,1
+ASI,0,Success,Kenya,1975,1
+ISAS,0,Success,Japan,1975,1
+RVSN USSR,0,Success,Kazakhstan,1974,83
+RVSN USSR,0,Success,Russia,1974,83
+RVSN USSR,0,Success,Kazakhstan,1974,83
+RVSN USSR,0,Success,Russia,1974,83
+RVSN USSR,0,Success,Russia,1974,83
+RVSN USSR,0,Success,Russia,1974,83
+RVSN USSR,0,Partial Failure,Russia,1974,83
+RVSN USSR,0,Success,Kazakhstan,1974,83
+RVSN USSR,0,Success,Russia,1974,83
+RVSN USSR,0,Success,Russia,1974,83
+RVSN USSR,0,Success,Russia,1974,83
+RVSN USSR,0,Success,Russia,1974,83
+RVSN USSR,0,Success,Russia,1974,83
+RVSN USSR,0,Success,Russia,1974,83
+RVSN USSR,0,Success,Russia,1974,83
+RVSN USSR,0,Success,Russia,1974,83
+RVSN USSR,0,Success,Kazakhstan,1974,83
+RVSN USSR,0,Success,Russia,1974,83
+RVSN USSR,0,Success,Russia,1974,83
+RVSN USSR,0,Success,Russia,1974,83
+RVSN USSR,0,Success,Russia,1974,83
+RVSN USSR,0,Success,Russia,1974,83
+RVSN USSR,0,Success,Russia,1974,83
+RVSN USSR,0,Success,Kazakhstan,1974,83
+RVSN USSR,0,Success,Russia,1974,83
+RVSN USSR,0,Success,Russia,1974,83
+RVSN USSR,0,Failure,Russia,1974,83
+RVSN USSR,0,Success,Russia,1974,83
+RVSN USSR,0,Success,Kazakhstan,1974,83
+RVSN USSR,0,Success,Kazakhstan,1974,83
+RVSN USSR,0,Success,Russia,1974,83
+RVSN USSR,0,Success,Kazakhstan,1974,83
+RVSN USSR,0,Success,Russia,1974,83
+RVSN USSR,0,Success,Kazakhstan,1974,83
+RVSN USSR,0,Success,Russia,1974,83
+RVSN USSR,0,Success,Russia,1974,83
+RVSN USSR,0,Success,Kazakhstan,1974,83
+RVSN USSR,0,Success,Russia,1974,83
+RVSN USSR,0,Success,Russia,1974,83
+RVSN USSR,0,Failure,Russia,1974,83
+RVSN USSR,0,Success,Russia,1974,83
+RVSN USSR,0,Success,Russia,1974,83
+RVSN USSR,0,Success,Kazakhstan,1974,83
+RVSN USSR,0,Success,Russia,1974,83
+RVSN USSR,0,Success,Russia,1974,83
+RVSN USSR,0,Success,Russia,1974,83
+RVSN USSR,0,Success,Russia,1974,83
+RVSN USSR,0,Success,Russia,1974,83
+RVSN USSR,0,Success,Russia,1974,83
+RVSN USSR,0,Success,Russia,1974,83
+RVSN USSR,0,Success,Kazakhstan,1974,83
+RVSN USSR,0,Success,Russia,1974,83
+RVSN USSR,0,Success,Kazakhstan,1974,83
+RVSN USSR,0,Success,Kazakhstan,1974,83
+RVSN USSR,0,Failure,Russia,1974,83
+RVSN USSR,0,Success,Russia,1974,83
+RVSN USSR,0,Success,Russia,1974,83
+RVSN USSR,0,Success,Kazakhstan,1974,83
+RVSN USSR,0,Success,Russia,1974,83
+RVSN USSR,0,Success,Kazakhstan,1974,83
+RVSN USSR,0,Success,Kazakhstan,1974,83
+RVSN USSR,0,Success,Russia,1974,83
+RVSN USSR,0,Success,Russia,1974,83
+RVSN USSR,0,Success,Russia,1974,83
+RVSN USSR,0,Success,Russia,1974,83
+RVSN USSR,0,Success,Russia,1974,83
+RVSN USSR,0,Failure,Kazakhstan,1974,83
+RVSN USSR,0,Success,Russia,1974,83
+RVSN USSR,0,Success,Russia,1974,83
+RVSN USSR,0,Success,Kazakhstan,1974,83
+RVSN USSR,0,Success,Kazakhstan,1974,83
+RVSN USSR,0,Success,Russia,1974,83
+RVSN USSR,0,Success,Kazakhstan,1974,83
+RVSN USSR,0,Success,Russia,1974,83
+RVSN USSR,0,Success,Russia,1974,83
+RVSN USSR,0,Success,Russia,1974,83
+RVSN USSR,0,Success,Russia,1974,83
+RVSN USSR,0,Success,Kazakhstan,1974,83
+RVSN USSR,0,Success,Russia,1974,83
+RVSN USSR,0,Success,Russia,1974,83
+RVSN USSR,0,Success,Kazakhstan,1974,83
+RVSN USSR,0,Success,Russia,1974,83
+RVSN USSR,0,Success,Russia,1974,83
+Martin Marietta,0,Success,USA,1974,5
+Martin Marietta,0,Success,USA,1974,5
+Martin Marietta,0,Success,USA,1974,5
+Martin Marietta,0,Success,USA,1974,5
+Martin Marietta,0,Failure,USA,1974,5
+General Dynamics,0,Success,USA,1974,2
+General Dynamics,0,Success,USA,1974,2
+CASC,0,Failure,China,1974,2
+CASC,0,Failure,China,1974,2
+ASI,0,Success,Kenya,1974,2
+ASI,0,Success,Kenya,1974,2
+US Air Force,0,Success,USA,1974,3
+US Air Force,0,Success,USA,1974,3
+US Air Force,0,Success,USA,1974,3
+ISAS,0,Success,Japan,1974,1
+RVSN USSR,0,Success,Russia,1973,84
+RVSN USSR,0,Success,Kazakhstan,1973,84
+RVSN USSR,0,Success,Russia,1973,84
+RVSN USSR,0,Success,Russia,1973,84
+RVSN USSR,0,Success,Russia,1973,84
+RVSN USSR,0,Success,Russia,1973,84
+RVSN USSR,0,Success,Kazakhstan,1973,84
+RVSN USSR,0,Success,Russia,1973,84
+RVSN USSR,0,Success,Russia,1973,84
+RVSN USSR,0,Success,Russia,1973,84
+RVSN USSR,0,Success,Russia,1973,84
+RVSN USSR,0,Success,Russia,1973,84
+RVSN USSR,0,Success,Russia,1973,84
+RVSN USSR,0,Success,Russia,1973,84
+RVSN USSR,0,Success,Kazakhstan,1973,84
+RVSN USSR,0,Success,Russia,1973,84
+RVSN USSR,0,Success,Kazakhstan,1973,84
+RVSN USSR,0,Success,Russia,1973,84
+RVSN USSR,0,Success,Russia,1973,84
+RVSN USSR,0,Success,Russia,1973,84
+RVSN USSR,0,Success,Russia,1973,84
+RVSN USSR,0,Success,Russia,1973,84
+RVSN USSR,0,Success,Russia,1973,84
+RVSN USSR,0,Success,Russia,1973,84
+RVSN USSR,0,Success,Russia,1973,84
+RVSN USSR,0,Success,Russia,1973,84
+RVSN USSR,0,Success,Russia,1973,84
+RVSN USSR,0,Success,Kazakhstan,1973,84
+RVSN USSR,0,Success,Russia,1973,84
+RVSN USSR,0,Success,Russia,1973,84
+RVSN USSR,0,Success,Russia,1973,84
+RVSN USSR,0,Success,Russia,1973,84
+RVSN USSR,0,Success,Kazakhstan,1973,84
+RVSN USSR,0,Success,Russia,1973,84
+RVSN USSR,0,Success,Russia,1973,84
+RVSN USSR,0,Success,Russia,1973,84
+RVSN USSR,0,Success,Russia,1973,84
+RVSN USSR,0,Success,Kazakhstan,1973,84
+RVSN USSR,0,Success,Russia,1973,84
+RVSN USSR,0,Success,Russia,1973,84
+RVSN USSR,0,Success,Kazakhstan,1973,84
+RVSN USSR,0,Success,Russia,1973,84
+RVSN USSR,0,Success,Russia,1973,84
+RVSN USSR,0,Success,Russia,1973,84
+RVSN USSR,0,Success,Russia,1973,84
+RVSN USSR,0,Success,Russia,1973,84
+RVSN USSR,0,Failure,Russia,1973,84
+RVSN USSR,0,Success,Russia,1973,84
+RVSN USSR,0,Failure,Russia,1973,84
+RVSN USSR,0,Success,Russia,1973,84
+RVSN USSR,0,Success,Russia,1973,84
+RVSN USSR,0,Success,Kazakhstan,1973,84
+RVSN USSR,0,Success,Kazakhstan,1973,84
+RVSN USSR,0,Success,Russia,1973,84
+RVSN USSR,0,Success,Russia,1973,84
+RVSN USSR,0,Success,Russia,1973,84
+RVSN USSR,0,Success,Russia,1973,84
+RVSN USSR,0,Success,Russia,1973,84
+RVSN USSR,0,Failure,Russia,1973,84
+RVSN USSR,0,Success,Russia,1973,84
+RVSN USSR,0,Success,Russia,1973,84
+RVSN USSR,0,Success,Russia,1973,84
+RVSN USSR,0,Success,Russia,1973,84
+RVSN USSR,0,Success,Russia,1973,84
+RVSN USSR,0,Success,Russia,1973,84
+RVSN USSR,0,Failure,Kazakhstan,1973,84
+RVSN USSR,0,Success,Russia,1973,84
+RVSN USSR,0,Success,Russia,1973,84
+RVSN USSR,0,Success,Russia,1973,84
+RVSN USSR,0,Success,Russia,1973,84
+RVSN USSR,0,Success,Kazakhstan,1973,84
+RVSN USSR,0,Success,Russia,1973,84
+RVSN USSR,0,Success,Russia,1973,84
+RVSN USSR,0,Success,Kazakhstan,1973,84
+RVSN USSR,0,Success,Russia,1973,84
+RVSN USSR,0,Success,Russia,1973,84
+RVSN USSR,0,Success,Kazakhstan,1973,84
+RVSN USSR,0,Success,Russia,1973,84
+RVSN USSR,0,Success,Kazakhstan,1973,84
+RVSN USSR,0,Success,Kazakhstan,1973,84
+RVSN USSR,0,Success,Russia,1973,84
+RVSN USSR,0,Success,Russia,1973,84
+RVSN USSR,0,Success,Russia,1973,84
+RVSN USSR,0,Success,Kazakhstan,1973,84
+Martin Marietta,0,Success,USA,1973,6
+Martin Marietta,0,Success,USA,1973,6
+Martin Marietta,0,Success,USA,1973,6
+Martin Marietta,0,Success,USA,1973,6
+Martin Marietta,0,Success,USA,1973,6
+Martin Marietta,0,Success,USA,1973,6
+NASA,0,Success,USA,1973,4
+NASA,0,Success,USA,1973,4
+NASA,0,Success,USA,1973,4
+NASA,0,Success,USA,1973,4
+General Dynamics,0,Success,USA,1973,4
+General Dynamics,0,Success,USA,1973,4
+General Dynamics,0,Success,USA,1973,4
+General Dynamics,0,Success,USA,1973,4
+US Air Force,0,Success,USA,1973,3
+US Air Force,0,Failure,USA,1973,3
+US Air Force,0,Success,USA,1973,3
+CASC,0,Failure,China,1973,1
+CNES,0,Failure,France,1973,1
+RVSN USSR,0,Partial Failure,Russia,1972,79
+RVSN USSR,0,Success,Russia,1972,79
+RVSN USSR,0,Success,Russia,1972,79
+RVSN USSR,0,Success,Russia,1972,79
+RVSN USSR,0,Success,Russia,1972,79
+RVSN USSR,0,Success,Russia,1972,79
+RVSN USSR,0,Success,Kazakhstan,1972,79
+RVSN USSR,0,Success,Russia,1972,79
+RVSN USSR,0,Success,Kazakhstan,1972,79
+RVSN USSR,0,Failure,Kazakhstan,1972,79
+RVSN USSR,0,Success,Russia,1972,79
+RVSN USSR,0,Success,Russia,1972,79
+RVSN USSR,0,Success,Russia,1972,79
+RVSN USSR,0,Success,Russia,1972,79
+RVSN USSR,0,Success,Russia,1972,79
+RVSN USSR,0,Success,Russia,1972,79
+RVSN USSR,0,Failure,Russia,1972,79
+RVSN USSR,0,Success,Russia,1972,79
+RVSN USSR,0,Success,Russia,1972,79
+RVSN USSR,0,Success,Russia,1972,79
+RVSN USSR,0,Success,Russia,1972,79
+RVSN USSR,0,Success,Russia,1972,79
+RVSN USSR,0,Success,Russia,1972,79
+RVSN USSR,0,Success,Russia,1972,79
+RVSN USSR,0,Success,Kazakhstan,1972,79
+RVSN USSR,0,Success,Russia,1972,79
+RVSN USSR,0,Failure,Russia,1972,79
+RVSN USSR,0,Success,Kazakhstan,1972,79
+RVSN USSR,0,Success,Russia,1972,79
+RVSN USSR,0,Success,Kazakhstan,1972,79
+RVSN USSR,0,Success,Russia,1972,79
+RVSN USSR,0,Success,Russia,1972,79
+RVSN USSR,0,Success,Kazakhstan,1972,79
+RVSN USSR,0,Failure,Kazakhstan,1972,79
+RVSN USSR,0,Success,Russia,1972,79
+RVSN USSR,0,Success,Russia,1972,79
+RVSN USSR,0,Partial Failure,Russia,1972,79
+RVSN USSR,0,Success,Russia,1972,79
+RVSN USSR,0,Success,Russia,1972,79
+RVSN USSR,0,Success,Kazakhstan,1972,79
+RVSN USSR,0,Success,Russia,1972,79
+RVSN USSR,0,Success,Kazakhstan,1972,79
+RVSN USSR,0,Success,Russia,1972,79
+RVSN USSR,0,Success,Russia,1972,79
+RVSN USSR,0,Success,Kazakhstan,1972,79
+RVSN USSR,0,Success,Russia,1972,79
+RVSN USSR,0,Success,Russia,1972,79
+RVSN USSR,0,Success,Kazakhstan,1972,79
+RVSN USSR,0,Success,Kazakhstan,1972,79
+RVSN USSR,0,Success,Kazakhstan,1972,79
+RVSN USSR,0,Success,Russia,1972,79
+RVSN USSR,0,Success,Russia,1972,79
+RVSN USSR,0,Success,Russia,1972,79
+RVSN USSR,0,Success,Russia,1972,79
+RVSN USSR,0,Failure,Russia,1972,79
+RVSN USSR,0,Success,Russia,1972,79
+RVSN USSR,0,Success,Russia,1972,79
+RVSN USSR,0,Success,Kazakhstan,1972,79
+RVSN USSR,0,Success,Russia,1972,79
+RVSN USSR,0,Success,Kazakhstan,1972,79
+RVSN USSR,0,Success,Russia,1972,79
+RVSN USSR,0,Success,Russia,1972,79
+RVSN USSR,0,Success,Russia,1972,79
+RVSN USSR,0,Partial Failure,Kazakhstan,1972,79
+RVSN USSR,0,Success,Russia,1972,79
+RVSN USSR,0,Success,Kazakhstan,1972,79
+RVSN USSR,0,Success,Russia,1972,79
+RVSN USSR,0,Success,Russia,1972,79
+RVSN USSR,0,Success,Russia,1972,79
+RVSN USSR,0,Success,Russia,1972,79
+RVSN USSR,0,Success,Russia,1972,79
+RVSN USSR,0,Success,Russia,1972,79
+RVSN USSR,0,Success,Russia,1972,79
+RVSN USSR,0,Success,Kazakhstan,1972,79
+RVSN USSR,0,Success,Kazakhstan,1972,79
+RVSN USSR,0,Success,Russia,1972,79
+RVSN USSR,0,Success,Kazakhstan,1972,79
+RVSN USSR,0,Success,Russia,1972,79
+RVSN USSR,0,Success,Kazakhstan,1972,79
+US Air Force,0,Success,USA,1972,4
+US Air Force,0,Success,USA,1972,4
+US Air Force,0,Failure,USA,1972,4
+US Air Force,0,Success,USA,1972,4
+General Dynamics,0,Success,USA,1972,6
+General Dynamics,0,Success,USA,1972,6
+General Dynamics,0,Success,USA,1972,6
+General Dynamics,0,Success,USA,1972,6
+General Dynamics,0,Success,USA,1972,6
+General Dynamics,0,Success,USA,1972,6
+NASA,0,Success,USA,1972,2
+NASA,0,Success,USA,1972,2
+ASI,0,Success,Kenya,1972,1
+Martin Marietta,0,Success,USA,1972,5
+Martin Marietta,0,Success,USA,1972,5
+Martin Marietta,0,Success,USA,1972,5
+Martin Marietta,0,Failure,USA,1972,5
+Martin Marietta,0,Success,USA,1972,5
+ISAS,0,Success,Japan,1972,1
+CASC,0,Success,China,1972,1
+RVSN USSR,0,Success,Russia,1971,93
+RVSN USSR,0,Success,Russia,1971,93
+RVSN USSR,0,Partial Failure,Russia,1971,93
+RVSN USSR,0,Success,Kazakhstan,1971,93
+RVSN USSR,0,Success,Russia,1971,93
+RVSN USSR,0,Success,Russia,1971,93
+RVSN USSR,0,Success,Russia,1971,93
+RVSN USSR,0,Success,Kazakhstan,1971,93
+RVSN USSR,0,Success,Russia,1971,93
+RVSN USSR,0,Success,Russia,1971,93
+RVSN USSR,0,Success,Kazakhstan,1971,93
+RVSN USSR,0,Success,Kazakhstan,1971,93
+RVSN USSR,0,Failure,Russia,1971,93
+RVSN USSR,0,Success,Russia,1971,93
+RVSN USSR,0,Success,Russia,1971,93
+RVSN USSR,0,Success,Russia,1971,93
+RVSN USSR,0,Success,Russia,1971,93
+RVSN USSR,0,Success,Russia,1971,93
+RVSN USSR,0,Success,Russia,1971,93
+RVSN USSR,0,Success,Russia,1971,93
+RVSN USSR,0,Partial Failure,Russia,1971,93
+RVSN USSR,0,Success,Russia,1971,93
+RVSN USSR,0,Success,Russia,1971,93
+RVSN USSR,0,Success,Russia,1971,93
+RVSN USSR,0,Success,Kazakhstan,1971,93
+RVSN USSR,0,Success,Russia,1971,93
+RVSN USSR,0,Success,Russia,1971,93
+RVSN USSR,0,Success,Russia,1971,93
+RVSN USSR,0,Success,Kazakhstan,1971,93
+RVSN USSR,0,Success,Kazakhstan,1971,93
+RVSN USSR,0,Success,Russia,1971,93
+RVSN USSR,0,Success,Russia,1971,93
+RVSN USSR,0,Success,Russia,1971,93
+RVSN USSR,0,Success,Russia,1971,93
+RVSN USSR,0,Success,Russia,1971,93
+RVSN USSR,0,Success,Kazakhstan,1971,93
+RVSN USSR,0,Success,Russia,1971,93
+RVSN USSR,0,Failure,Kazakhstan,1971,93
+RVSN USSR,0,Success,Kazakhstan,1971,93
+RVSN USSR,0,Success,Kazakhstan,1971,93
+RVSN USSR,0,Failure,Russia,1971,93
+RVSN USSR,0,Success,Kazakhstan,1971,93
+RVSN USSR,0,Success,Russia,1971,93
+RVSN USSR,0,Success,Russia,1971,93
+RVSN USSR,0,Success,Russia,1971,93
+RVSN USSR,0,Failure,Russia,1971,93
+RVSN USSR,0,Success,Kazakhstan,1971,93
+RVSN USSR,0,Success,Russia,1971,93
+RVSN USSR,0,Failure,Kazakhstan,1971,93
+RVSN USSR,0,Failure,Russia,1971,93
+RVSN USSR,0,Success,Kazakhstan,1971,93
+RVSN USSR,0,Success,Kazakhstan,1971,93
+RVSN USSR,0,Success,Russia,1971,93
+RVSN USSR,0,Success,Kazakhstan,1971,93
+RVSN USSR,0,Success,Russia,1971,93
+RVSN USSR,0,Success,Russia,1971,93
+RVSN USSR,0,Success,Kazakhstan,1971,93
+RVSN USSR,0,Success,Russia,1971,93
+RVSN USSR,0,Success,Russia,1971,93
+RVSN USSR,0,Success,Russia,1971,93
+RVSN USSR,0,Success,Kazakhstan,1971,93
+RVSN USSR,0,Success,Russia,1971,93
+RVSN USSR,0,Success,Kazakhstan,1971,93
+RVSN USSR,0,Success,Kazakhstan,1971,93
+RVSN USSR,0,Success,Russia,1971,93
+RVSN USSR,0,Success,Kazakhstan,1971,93
+RVSN USSR,0,Success,Russia,1971,93
+RVSN USSR,0,Success,Russia,1971,93
+RVSN USSR,0,Success,Kazakhstan,1971,93
+RVSN USSR,0,Success,Russia,1971,93
+RVSN USSR,0,Success,Kazakhstan,1971,93
+RVSN USSR,0,Success,Russia,1971,93
+RVSN USSR,0,Success,Russia,1971,93
+RVSN USSR,0,Success,Russia,1971,93
+RVSN USSR,0,Success,Russia,1971,93
+RVSN USSR,0,Success,Kazakhstan,1971,93
+RVSN USSR,0,Success,Russia,1971,93
+RVSN USSR,0,Success,Russia,1971,93
+RVSN USSR,0,Success,Russia,1971,93
+RVSN USSR,0,Failure,Russia,1971,93
+RVSN USSR,0,Failure,Russia,1971,93
+RVSN USSR,0,Success,Kazakhstan,1971,93
+RVSN USSR,0,Success,Kazakhstan,1971,93
+RVSN USSR,0,Success,Kazakhstan,1971,93
+RVSN USSR,0,Success,Kazakhstan,1971,93
+RVSN USSR,0,Success,Russia,1971,93
+RVSN USSR,0,Success,Russia,1971,93
+RVSN USSR,0,Success,Russia,1971,93
+RVSN USSR,0,Success,Russia,1971,93
+RVSN USSR,0,Success,Kazakhstan,1971,93
+RVSN USSR,0,Success,Russia,1971,93
+RVSN USSR,0,Success,Russia,1971,93
+RVSN USSR,0,Success,Kazakhstan,1971,93
+General Dynamics,0,Success,USA,1971,6
+General Dynamics,0,Failure,USA,1971,6
+General Dynamics,0,Success,USA,1971,6
+General Dynamics,0,Success,USA,1971,6
+General Dynamics,0,Failure,USA,1971,6
+General Dynamics,0,Success,USA,1971,6
+CNES,0,Failure,France,1971,2
+CNES,0,Success,France,1971,2
+ASI,0,Success,Kenya,1971,2
+ASI,0,Success,Kenya,1971,2
+CECLES,0,Failure,France,1971,1
+Martin Marietta,0,Success,USA,1971,4
+Martin Marietta,0,Success,USA,1971,4
+Martin Marietta,0,Success,USA,1971,4
+Martin Marietta,0,Success,USA,1971,4
+RAE,0,Success,Australia,1971,1
+US Air Force,0,Success,USA,1971,4
+US Air Force,0,Success,USA,1971,4
+US Air Force,0,Success,USA,1971,4
+US Air Force,0,Success,USA,1971,4
+ISAS,0,Success,Japan,1971,3
+ISAS,0,Success,Japan,1971,3
+ISAS,0,Success,Japan,1971,3
+NASA,0,Success,USA,1971,2
+NASA,0,Success,USA,1971,2
+CASC,0,Success,China,1971,1
+RVSN USSR,0,Success,Kazakhstan,1970,87
+RVSN USSR,0,Failure,Russia,1970,87
+RVSN USSR,0,Success,Russia,1970,87
+RVSN USSR,0,Success,Russia,1970,87
+RVSN USSR,0,Success,Russia,1970,87
+RVSN USSR,0,Success,Kazakhstan,1970,87
+RVSN USSR,0,Success,Russia,1970,87
+RVSN USSR,0,Success,Russia,1970,87
+RVSN USSR,0,Success,Russia,1970,87
+RVSN USSR,0,Success,Kazakhstan,1970,87
+RVSN USSR,0,Success,Russia,1970,87
+RVSN USSR,0,Success,Russia,1970,87
+RVSN USSR,0,Success,Russia,1970,87
+RVSN USSR,0,Success,Kazakhstan,1970,87
+RVSN USSR,0,Success,Russia,1970,87
+RVSN USSR,0,Success,Kazakhstan,1970,87
+RVSN USSR,0,Success,Kazakhstan,1970,87
+RVSN USSR,0,Success,Russia,1970,87
+RVSN USSR,0,Success,Kazakhstan,1970,87
+RVSN USSR,0,Success,Kazakhstan,1970,87
+RVSN USSR,0,Success,Kazakhstan,1970,87
+RVSN USSR,0,Success,Kazakhstan,1970,87
+RVSN USSR,0,Success,Russia,1970,87
+RVSN USSR,0,Success,Russia,1970,87
+RVSN USSR,0,Success,Russia,1970,87
+RVSN USSR,0,Success,Russia,1970,87
+RVSN USSR,0,Success,Kazakhstan,1970,87
+RVSN USSR,0,Success,Russia,1970,87
+RVSN USSR,0,Success,Kazakhstan,1970,87
+RVSN USSR,0,Success,Kazakhstan,1970,87
+RVSN USSR,0,Success,Kazakhstan,1970,87
+RVSN USSR,0,Success,Russia,1970,87
+RVSN USSR,0,Success,Kazakhstan,1970,87
+RVSN USSR,0,Success,Russia,1970,87
+RVSN USSR,0,Success,Kazakhstan,1970,87
+RVSN USSR,0,Success,Russia,1970,87
+RVSN USSR,0,Success,Kazakhstan,1970,87
+RVSN USSR,0,Success,Russia,1970,87
+RVSN USSR,0,Success,Kazakhstan,1970,87
+RVSN USSR,0,Partial Failure,Kazakhstan,1970,87
+RVSN USSR,0,Partial Failure,Russia,1970,87
+RVSN USSR,0,Success,Russia,1970,87
+RVSN USSR,0,Success,Kazakhstan,1970,87
+RVSN USSR,0,Success,Russia,1970,87
+RVSN USSR,0,Success,Russia,1970,87
+RVSN USSR,0,Success,Russia,1970,87
+RVSN USSR,0,Success,Russia,1970,87
+RVSN USSR,0,Success,Kazakhstan,1970,87
+RVSN USSR,0,Failure,Russia,1970,87
+RVSN USSR,0,Success,Russia,1970,87
+RVSN USSR,0,Success,Kazakhstan,1970,87
+RVSN USSR,0,Failure,Russia,1970,87
+RVSN USSR,0,Success,Russia,1970,87
+RVSN USSR,0,Success,Kazakhstan,1970,87
+RVSN USSR,0,Success,Russia,1970,87
+RVSN USSR,0,Success,Russia,1970,87
+RVSN USSR,0,Success,Russia,1970,87
+RVSN USSR,0,Success,Russia,1970,87
+RVSN USSR,0,Success,Russia,1970,87
+RVSN USSR,0,Success,Kazakhstan,1970,87
+RVSN USSR,0,Failure,Russia,1970,87
+RVSN USSR,0,Success,Kazakhstan,1970,87
+RVSN USSR,0,Success,Russia,1970,87
+RVSN USSR,0,Success,Russia,1970,87
+RVSN USSR,0,Success,Russia,1970,87
+RVSN USSR,0,Success,Russia,1970,87
+RVSN USSR,0,Success,Russia,1970,87
+RVSN USSR,0,Success,Russia,1970,87
+RVSN USSR,0,Success,Russia,1970,87
+RVSN USSR,0,Success,Kazakhstan,1970,87
+RVSN USSR,0,Success,Russia,1970,87
+RVSN USSR,0,Success,Russia,1970,87
+RVSN USSR,0,Success,Russia,1970,87
+RVSN USSR,0,Success,Russia,1970,87
+RVSN USSR,0,Partial Failure,Russia,1970,87
+RVSN USSR,0,Success,Russia,1970,87
+RVSN USSR,0,Success,Russia,1970,87
+RVSN USSR,0,Success,Russia,1970,87
+RVSN USSR,0,Success,Russia,1970,87
+RVSN USSR,0,Success,Russia,1970,87
+RVSN USSR,0,Failure,Kazakhstan,1970,87
+RVSN USSR,0,Failure,Russia,1970,87
+RVSN USSR,0,Success,Russia,1970,87
+RVSN USSR,0,Success,Russia,1970,87
+RVSN USSR,0,Success,Russia,1970,87
+RVSN USSR,0,Success,Russia,1970,87
+RVSN USSR,0,Success,Kazakhstan,1970,87
+CNES,0,Success,France,1970,2
+CNES,0,Success,France,1970,2
+ASI,0,Success,Kenya,1970,1
+General Dynamics,0,Failure,USA,1970,3
+General Dynamics,0,Success,USA,1970,3
+General Dynamics,0,Success,USA,1970,3
+Martin Marietta,0,Partial Failure,USA,1970,2
+Martin Marietta,0,Success,USA,1970,2
+RAE,0,Failure,Australia,1970,1
+US Air Force,0,Success,USA,1970,5
+US Air Force,0,Success,USA,1970,5
+US Air Force,0,Success,USA,1970,5
+US Air Force,0,Success,USA,1970,5
+US Air Force,0,Success,USA,1970,5
+ISAS,0,Failure,Japan,1970,1
+CECLES,0,Failure,Australia,1970,1
+Roscosmos,0,Success,Kazakhstan,1970,1
+CASC,0,Success,China,1970,1
+NASA,0,Success,USA,1970,1
+UT,0,Success,Japan,1970,1
+RVSN USSR,0,Failure,Russia,1969,82
+RVSN USSR,0,Success,Russia,1969,82
+RVSN USSR,0,Success,Russia,1969,82
+RVSN USSR,0,Success,Kazakhstan,1969,82
+RVSN USSR,0,Success,Russia,1969,82
+RVSN USSR,0,Success,Russia,1969,82
+RVSN USSR,0,Success,Russia,1969,82
+RVSN USSR,0,Failure,Kazakhstan,1969,82
+RVSN USSR,0,Success,Russia,1969,82
+RVSN USSR,0,Success,Russia,1969,82
+RVSN USSR,0,Success,Kazakhstan,1969,82
+RVSN USSR,0,Success,Russia,1969,82
+RVSN USSR,0,Success,Russia,1969,82
+RVSN USSR,0,Success,Russia,1969,82
+RVSN USSR,0,Success,Kazakhstan,1969,82
+RVSN USSR,0,Failure,Kazakhstan,1969,82
+RVSN USSR,0,Success,Russia,1969,82
+RVSN USSR,0,Success,Russia,1969,82
+RVSN USSR,0,Success,Russia,1969,82
+RVSN USSR,0,Success,Russia,1969,82
+RVSN USSR,0,Success,Kazakhstan,1969,82
+RVSN USSR,0,Success,Kazakhstan,1969,82
+RVSN USSR,0,Success,Kazakhstan,1969,82
+RVSN USSR,0,Success,Russia,1969,82
+RVSN USSR,0,Success,Russia,1969,82
+RVSN USSR,0,Success,Kazakhstan,1969,82
+RVSN USSR,0,Success,Kazakhstan,1969,82
+RVSN USSR,0,Success,Kazakhstan,1969,82
+RVSN USSR,0,Success,Russia,1969,82
+RVSN USSR,0,Success,Kazakhstan,1969,82
+RVSN USSR,0,Success,Russia,1969,82
+RVSN USSR,0,Success,Russia,1969,82
+RVSN USSR,0,Success,Kazakhstan,1969,82
+RVSN USSR,0,Success,Russia,1969,82
+RVSN USSR,0,Success,Kazakhstan,1969,82
+RVSN USSR,0,Success,Kazakhstan,1969,82
+RVSN USSR,0,Failure,Russia,1969,82
+RVSN USSR,0,Success,Kazakhstan,1969,82
+RVSN USSR,0,Success,Russia,1969,82
+RVSN USSR,0,Success,Russia,1969,82
+RVSN USSR,0,Failure,Kazakhstan,1969,82
+RVSN USSR,0,Success,Kazakhstan,1969,82
+RVSN USSR,0,Success,Kazakhstan,1969,82
+RVSN USSR,0,Success,Russia,1969,82
+RVSN USSR,0,Failure,Kazakhstan,1969,82
+RVSN USSR,0,Success,Russia,1969,82
+RVSN USSR,0,Success,Russia,1969,82
+RVSN USSR,0,Success,Kazakhstan,1969,82
+RVSN USSR,0,Success,Russia,1969,82
+RVSN USSR,0,Success,Russia,1969,82
+RVSN USSR,0,Partial Failure,Russia,1969,82
+RVSN USSR,0,Success,Kazakhstan,1969,82
+RVSN USSR,0,Success,Kazakhstan,1969,82
+RVSN USSR,0,Success,Kazakhstan,1969,82
+RVSN USSR,0,Success,Russia,1969,82
+RVSN USSR,0,Success,Russia,1969,82
+RVSN USSR,0,Success,Russia,1969,82
+RVSN USSR,0,Failure,Kazakhstan,1969,82
+RVSN USSR,0,Success,Russia,1969,82
+RVSN USSR,0,Failure,Kazakhstan,1969,82
+RVSN USSR,0,Failure,Russia,1969,82
+RVSN USSR,0,Success,Kazakhstan,1969,82
+RVSN USSR,0,Success,Russia,1969,82
+RVSN USSR,0,Success,Russia,1969,82
+RVSN USSR,0,Success,Russia,1969,82
+RVSN USSR,0,Success,Russia,1969,82
+RVSN USSR,0,Success,Russia,1969,82
+RVSN USSR,0,Success,Russia,1969,82
+RVSN USSR,0,Success,Kazakhstan,1969,82
+RVSN USSR,0,Success,Russia,1969,82
+RVSN USSR,0,Failure,Kazakhstan,1969,82
+RVSN USSR,0,Failure,Kazakhstan,1969,82
+RVSN USSR,0,Success,Russia,1969,82
+RVSN USSR,0,Failure,Russia,1969,82
+RVSN USSR,0,Failure,Kazakhstan,1969,82
+RVSN USSR,0,Success,Kazakhstan,1969,82
+RVSN USSR,0,Failure,Kazakhstan,1969,82
+RVSN USSR,0,Success,Kazakhstan,1969,82
+RVSN USSR,0,Success,Kazakhstan,1969,82
+RVSN USSR,0,Success,Russia,1969,82
+RVSN USSR,0,Success,Kazakhstan,1969,82
+RVSN USSR,0,Success,Kazakhstan,1969,82
+CASC,0,Failure,China,1969,1
+NASA,0,Success,USA,1969,4
+NASA,0,Success,USA,1969,4
+NASA,0,Success,USA,1969,4
+NASA,0,Success,USA,1969,4
+Yuzhmash,0,Success,Kazakhstan,1969,1
+US Air Force,0,Success,USA,1969,6
+US Air Force,0,Success,USA,1969,6
+US Air Force,59,Success,USA,1969,6
+US Air Force,59,Success,USA,1969,6
+US Air Force,59,Success,USA,1969,6
+US Air Force,59,Success,USA,1969,6
+UT,0,Failure,Japan,1969,1
+General Dynamics,0,Success,USA,1969,5
+General Dynamics,0,Success,USA,1969,5
+General Dynamics,0,Success,USA,1969,5
+General Dynamics,0,Success,USA,1969,5
+General Dynamics,0,Success,USA,1969,5
+CECLES,0,Failure,Australia,1969,1
+Martin Marietta,0,Success,USA,1969,2
+Martin Marietta,0,Success,USA,1969,2
+RVSN USSR,0,Success,Russia,1968,79
+RVSN USSR,0,Success,Russia,1968,79
+RVSN USSR,0,Success,Kazakhstan,1968,79
+RVSN USSR,0,Success,Russia,1968,79
+RVSN USSR,0,Success,Kazakhstan,1968,79
+RVSN USSR,0,Success,Russia,1968,79
+RVSN USSR,0,Success,Russia,1968,79
+RVSN USSR,0,Success,Russia,1968,79
+RVSN USSR,0,Success,Russia,1968,79
+RVSN USSR,0,Success,Kazakhstan,1968,79
+RVSN USSR,0,Success,Russia,1968,79
+RVSN USSR,0,Success,Kazakhstan,1968,79
+RVSN USSR,0,Success,Kazakhstan,1968,79
+RVSN USSR,0,Success,Kazakhstan,1968,79
+RVSN USSR,0,Success,Russia,1968,79
+RVSN USSR,0,Success,Kazakhstan,1968,79
+RVSN USSR,0,Success,Kazakhstan,1968,79
+RVSN USSR,0,Success,Kazakhstan,1968,79
+RVSN USSR,0,Success,Kazakhstan,1968,79
+RVSN USSR,0,Success,Russia,1968,79
+RVSN USSR,0,Partial Failure,Russia,1968,79
+RVSN USSR,0,Success,Kazakhstan,1968,79
+RVSN USSR,0,Success,Russia,1968,79
+RVSN USSR,0,Success,Kazakhstan,1968,79
+RVSN USSR,0,Success,Kazakhstan,1968,79
+RVSN USSR,0,Success,Russia,1968,79
+RVSN USSR,0,Success,Russia,1968,79
+RVSN USSR,0,Success,Kazakhstan,1968,79
+RVSN USSR,0,Success,Kazakhstan,1968,79
+RVSN USSR,0,Success,Kazakhstan,1968,79
+RVSN USSR,0,Success,Kazakhstan,1968,79
+RVSN USSR,0,Success,Russia,1968,79
+RVSN USSR,0,Success,Kazakhstan,1968,79
+RVSN USSR,0,Success,Kazakhstan,1968,79
+RVSN USSR,0,Success,Kazakhstan,1968,79
+RVSN USSR,0,Success,Russia,1968,79
+RVSN USSR,0,Success,Russia,1968,79
+RVSN USSR,0,Success,Kazakhstan,1968,79
+RVSN USSR,0,Success,Kazakhstan,1968,79
+RVSN USSR,0,Success,Russia,1968,79
+RVSN USSR,0,Success,Russia,1968,79
+RVSN USSR,0,Success,Kazakhstan,1968,79
+RVSN USSR,0,Success,Kazakhstan,1968,79
+RVSN USSR,0,Failure,Kazakhstan,1968,79
+RVSN USSR,0,Success,Russia,1968,79
+RVSN USSR,0,Success,Russia,1968,79
+RVSN USSR,0,Failure,Russia,1968,79
+RVSN USSR,0,Success,Kazakhstan,1968,79
+RVSN USSR,0,Success,Russia,1968,79
+RVSN USSR,0,Success,Russia,1968,79
+RVSN USSR,0,Success,Russia,1968,79
+RVSN USSR,0,Success,Russia,1968,79
+RVSN USSR,0,Success,Russia,1968,79
+RVSN USSR,0,Success,Kazakhstan,1968,79
+RVSN USSR,0,Partial Failure,Kazakhstan,1968,79
+RVSN USSR,0,Failure,Kazakhstan,1968,79
+RVSN USSR,0,Success,Kazakhstan,1968,79
+RVSN USSR,0,Success,Kazakhstan,1968,79
+RVSN USSR,0,Success,Russia,1968,79
+RVSN USSR,0,Success,Russia,1968,79
+RVSN USSR,0,Success,Kazakhstan,1968,79
+RVSN USSR,0,Success,Kazakhstan,1968,79
+RVSN USSR,0,Success,Russia,1968,79
+RVSN USSR,0,Success,Kazakhstan,1968,79
+RVSN USSR,0,Success,Russia,1968,79
+RVSN USSR,0,Success,Kazakhstan,1968,79
+RVSN USSR,0,Success,Kazakhstan,1968,79
+RVSN USSR,0,Success,Russia,1968,79
+RVSN USSR,0,Success,Russia,1968,79
+RVSN USSR,0,Failure,Russia,1968,79
+RVSN USSR,0,Success,Russia,1968,79
+RVSN USSR,0,Success,Russia,1968,79
+RVSN USSR,0,Partial Failure,Kazakhstan,1968,79
+RVSN USSR,0,Success,Russia,1968,79
+RVSN USSR,0,Success,Russia,1968,79
+RVSN USSR,0,Failure,Kazakhstan,1968,79
+RVSN USSR,0,Success,Kazakhstan,1968,79
+RVSN USSR,0,Success,Russia,1968,79
+RVSN USSR,0,Success,Russia,1968,79
+NASA,0,Success,USA,1968,4
+NASA,0,Success,USA,1968,4
+NASA,0,Partial Failure,USA,1968,4
+NASA,0,Success,USA,1968,4
+General Dynamics,0,Success,USA,1968,8
+General Dynamics,0,Failure,USA,1968,8
+General Dynamics,0,Partial Failure,USA,1968,8
+General Dynamics,0,Success,USA,1968,8
+General Dynamics,0,Success,USA,1968,8
+General Dynamics,0,Success,USA,1968,8
+General Dynamics,0,Success,USA,1968,8
+General Dynamics,0,Success,USA,1968,8
+US Air Force,59,Success,USA,1968,8
+US Air Force,59,Success,USA,1968,8
+US Air Force,59,Success,USA,1968,8
+US Air Force,59,Success,USA,1968,8
+US Air Force,59,Success,USA,1968,8
+US Air Force,59,Success,USA,1968,8
+US Air Force,59,Success,USA,1968,8
+US Air Force,59,Success,USA,1968,8
+CECLES,0,Success,Australia,1968,1
+Martin Marietta,0,Success,USA,1968,2
+Martin Marietta,0,Success,USA,1968,2
+OKB-586,0,Success,Kazakhstan,1968,1
+RVSN USSR,0,Success,Kazakhstan,1967,74
+RVSN USSR,0,Success,Russia,1967,74
+RVSN USSR,0,Success,Russia,1967,74
+RVSN USSR,0,Success,Russia,1967,74
+RVSN USSR,0,Success,Russia,1967,74
+RVSN USSR,0,Success,Russia,1967,74
+RVSN USSR,0,Success,Russia,1967,74
+RVSN USSR,0,Failure,Kazakhstan,1967,74
+RVSN USSR,0,Success,Russia,1967,74
+RVSN USSR,0,Success,Russia,1967,74
+RVSN USSR,0,Success,Russia,1967,74
+RVSN USSR,0,Success,Kazakhstan,1967,74
+RVSN USSR,0,Success,Kazakhstan,1967,74
+RVSN USSR,0,Success,Kazakhstan,1967,74
+RVSN USSR,0,Success,Kazakhstan,1967,74
+RVSN USSR,0,Success,Russia,1967,74
+RVSN USSR,0,Success,Kazakhstan,1967,74
+RVSN USSR,0,Success,Kazakhstan,1967,74
+RVSN USSR,0,Success,Kazakhstan,1967,74
+RVSN USSR,0,Success,Russia,1967,74
+RVSN USSR,0,Success,Kazakhstan,1967,74
+RVSN USSR,0,Failure,Kazakhstan,1967,74
+RVSN USSR,0,Failure,Russia,1967,74
+RVSN USSR,0,Success,Russia,1967,74
+RVSN USSR,0,Success,Kazakhstan,1967,74
+RVSN USSR,0,Success,Kazakhstan,1967,74
+RVSN USSR,0,Success,Kazakhstan,1967,74
+RVSN USSR,0,Success,Russia,1967,74
+RVSN USSR,0,Success,Russia,1967,74
+RVSN USSR,0,Failure,Russia,1967,74
+RVSN USSR,0,Success,Kazakhstan,1967,74
+RVSN USSR,0,Success,Russia,1967,74
+RVSN USSR,0,Success,Kazakhstan,1967,74
+RVSN USSR,0,Success,Kazakhstan,1967,74
+RVSN USSR,0,Success,Kazakhstan,1967,74
+RVSN USSR,0,Failure,Kazakhstan,1967,74
+RVSN USSR,0,Success,Kazakhstan,1967,74
+RVSN USSR,0,Success,Kazakhstan,1967,74
+RVSN USSR,0,Failure,Russia,1967,74
+RVSN USSR,0,Failure,Russia,1967,74
+RVSN USSR,0,Partial Failure,Kazakhstan,1967,74
+RVSN USSR,0,Success,Russia,1967,74
+RVSN USSR,0,Success,Russia,1967,74
+RVSN USSR,0,Success,Kazakhstan,1967,74
+RVSN USSR,0,Success,Russia,1967,74
+RVSN USSR,0,Success,Russia,1967,74
+RVSN USSR,0,Success,Kazakhstan,1967,74
+RVSN USSR,0,Success,Kazakhstan,1967,74
+RVSN USSR,0,Success,Russia,1967,74
+RVSN USSR,0,Success,Kazakhstan,1967,74
+RVSN USSR,0,Partial Failure,Kazakhstan,1967,74
+RVSN USSR,0,Success,Russia,1967,74
+RVSN USSR,0,Success,Kazakhstan,1967,74
+RVSN USSR,0,Success,Russia,1967,74
+RVSN USSR,0,Success,Kazakhstan,1967,74
+RVSN USSR,0,Success,Kazakhstan,1967,74
+RVSN USSR,0,Partial Failure,Kazakhstan,1967,74
+RVSN USSR,0,Success,Russia,1967,74
+RVSN USSR,0,Success,Russia,1967,74
+RVSN USSR,0,Success,Kazakhstan,1967,74
+RVSN USSR,0,Failure,Kazakhstan,1967,74
+RVSN USSR,0,Success,Russia,1967,74
+RVSN USSR,0,Success,Russia,1967,74
+RVSN USSR,0,Success,Russia,1967,74
+RVSN USSR,0,Success,Russia,1967,74
+RVSN USSR,0,Success,Kazakhstan,1967,74
+RVSN USSR,0,Success,Russia,1967,74
+RVSN USSR,0,Success,Russia,1967,74
+RVSN USSR,0,Partial Failure,Kazakhstan,1967,74
+RVSN USSR,0,Success,Russia,1967,74
+RVSN USSR,0,Success,Russia,1967,74
+RVSN USSR,0,Success,Kazakhstan,1967,74
+RVSN USSR,0,Success,Kazakhstan,1967,74
+RVSN USSR,0,Success,Russia,1967,74
+US Air Force,59,Success,USA,1967,7
+US Air Force,59,Success,USA,1967,7
+US Air Force,59,Success,USA,1967,7
+US Air Force,59,Success,USA,1967,7
+US Air Force,59,Partial Failure,USA,1967,7
+US Air Force,59,Failure,USA,1967,7
+US Air Force,59,Success,USA,1967,7
+AMBA,0,Success,Australia,1967,1
+NASA,0,Success,USA,1967,2
+NASA,0,Failure,USA,1967,2
+General Dynamics,0,Success,USA,1967,14
+General Dynamics,0,Success,USA,1967,14
+General Dynamics,0,Success,USA,1967,14
+General Dynamics,0,Success,USA,1967,14
+General Dynamics,0,Partial Failure,USA,1967,14
+General Dynamics,0,Success,USA,1967,14
+General Dynamics,0,Success,USA,1967,14
+General Dynamics,0,Success,USA,1967,14
+General Dynamics,0,Success,USA,1967,14
+General Dynamics,0,Success,USA,1967,14
+General Dynamics,0,Success,USA,1967,14
+General Dynamics,0,Partial Failure,USA,1967,14
+General Dynamics,0,Success,USA,1967,14
+General Dynamics,0,Success,USA,1967,14
+OKB-586,0,Success,Kazakhstan,1967,1
+Martin Marietta,0,Success,USA,1967,3
+Martin Marietta,0,Success,USA,1967,3
+Martin Marietta,0,Success,USA,1967,3
+ASI,0,Success,Kenya,1967,1
+UT,0,Failure,Japan,1967,1
+Arm??e de l'Air,0,Success,France,1967,2
+Arm??e de l'Air,0,Partial Failure,France,1967,2
+RVSN USSR,0,Success,Russia,1966,51
+RVSN USSR,0,Success,Kazakhstan,1966,51
+RVSN USSR,0,Success,Russia,1966,51
+RVSN USSR,0,Prelaunch Failure,Kazakhstan,1966,51
+RVSN USSR,0,Success,Russia,1966,51
+RVSN USSR,0,Success,Kazakhstan,1966,51
+RVSN USSR,0,Success,Kazakhstan,1966,51
+RVSN USSR,0,Success,Kazakhstan,1966,51
+RVSN USSR,0,Failure,Kazakhstan,1966,51
+RVSN USSR,0,Success,Russia,1966,51
+RVSN USSR,0,Partial Failure,Kazakhstan,1966,51
+RVSN USSR,0,Success,Kazakhstan,1966,51
+RVSN USSR,0,Success,Kazakhstan,1966,51
+RVSN USSR,0,Success,Kazakhstan,1966,51
+RVSN USSR,0,Success,Russia,1966,51
+RVSN USSR,0,Partial Failure,Kazakhstan,1966,51
+RVSN USSR,0,Failure,Kazakhstan,1966,51
+RVSN USSR,0,Success,Kazakhstan,1966,51
+RVSN USSR,0,Success,Kazakhstan,1966,51
+RVSN USSR,0,Success,Kazakhstan,1966,51
+RVSN USSR,0,Success,Kazakhstan,1966,51
+RVSN USSR,0,Success,Kazakhstan,1966,51
+RVSN USSR,0,Success,Kazakhstan,1966,51
+RVSN USSR,0,Success,Russia,1966,51
+RVSN USSR,0,Success,Kazakhstan,1966,51
+RVSN USSR,0,Success,Kazakhstan,1966,51
+RVSN USSR,0,Success,Russia,1966,51
+RVSN USSR,0,Success,Kazakhstan,1966,51
+RVSN USSR,0,Success,Russia,1966,51
+RVSN USSR,0,Failure,Russia,1966,51
+RVSN USSR,0,Success,Kazakhstan,1966,51
+RVSN USSR,0,Success,Kazakhstan,1966,51
+RVSN USSR,0,Success,Russia,1966,51
+RVSN USSR,0,Success,Kazakhstan,1966,51
+RVSN USSR,0,Success,Kazakhstan,1966,51
+RVSN USSR,0,Success,Russia,1966,51
+RVSN USSR,0,Success,Kazakhstan,1966,51
+RVSN USSR,0,Failure,Kazakhstan,1966,51
+RVSN USSR,0,Failure,Kazakhstan,1966,51
+RVSN USSR,0,Success,Kazakhstan,1966,51
+RVSN USSR,0,Success,Russia,1966,51
+RVSN USSR,0,Partial Failure,Kazakhstan,1966,51
+RVSN USSR,0,Success,Kazakhstan,1966,51
+RVSN USSR,0,Failure,Russia,1966,51
+RVSN USSR,0,Success,Kazakhstan,1966,51
+RVSN USSR,0,Success,Russia,1966,51
+RVSN USSR,0,Success,Kazakhstan,1966,51
+RVSN USSR,0,Success,Kazakhstan,1966,51
+RVSN USSR,0,Success,Russia,1966,51
+RVSN USSR,0,Success,Kazakhstan,1966,51
+RVSN USSR,0,Partial Failure,Kazakhstan,1966,51
+UT,0,Failure,Japan,1966,2
+UT,0,Failure,Japan,1966,2
+US Air Force,59,Success,USA,1966,3
+US Air Force,59,Success,USA,1966,3
+US Air Force,59,Success,USA,1966,3
+General Dynamics,0,Success,USA,1966,33
+General Dynamics,0,Success,USA,1966,33
+General Dynamics,0,Success,USA,1966,33
+General Dynamics,0,Success,USA,1966,33
+General Dynamics,0,Success,USA,1966,33
+General Dynamics,0,Success,USA,1966,33
+General Dynamics,0,Success,USA,1966,33
+General Dynamics,0,Success,USA,1966,33
+General Dynamics,0,Success,USA,1966,33
+General Dynamics,0,Success,USA,1966,33
+General Dynamics,0,Success,USA,1966,33
+General Dynamics,0,Success,USA,1966,33
+General Dynamics,0,Success,USA,1966,33
+General Dynamics,0,Success,USA,1966,33
+General Dynamics,0,Success,USA,1966,33
+General Dynamics,0,Success,USA,1966,33
+General Dynamics,0,Partial Failure,USA,1966,33
+General Dynamics,0,Success,USA,1966,33
+General Dynamics,0,Partial Failure,USA,1966,33
+General Dynamics,0,Success,USA,1966,33
+General Dynamics,0,Success,USA,1966,33
+General Dynamics,0,Success,USA,1966,33
+General Dynamics,0,Success,USA,1966,33
+General Dynamics,0,Failure,USA,1966,33
+General Dynamics,0,Success,USA,1966,33
+General Dynamics,0,Success,USA,1966,33
+General Dynamics,0,Success,USA,1966,33
+General Dynamics,0,Partial Failure,USA,1966,33
+General Dynamics,0,Success,USA,1966,33
+General Dynamics,0,Success,USA,1966,33
+General Dynamics,0,Success,USA,1966,33
+General Dynamics,0,Success,USA,1966,33
+General Dynamics,0,Success,USA,1966,33
+NASA,0,Success,USA,1966,8
+NASA,0,Success,USA,1966,8
+NASA,0,Success,USA,1966,8
+NASA,0,Success,USA,1966,8
+NASA,0,Success,USA,1966,8
+NASA,0,Partial Failure,USA,1966,8
+NASA,0,Partial Failure,USA,1966,8
+NASA,0,Success,USA,1966,8
+Martin Marietta,0,Success,USA,1966,3
+Martin Marietta,0,Failure,USA,1966,3
+Martin Marietta,0,Success,USA,1966,3
+Arm??e de l'Air,0,Success,France,1966,1
+RVSN USSR,0,Failure,Russia,1965,53
+RVSN USSR,0,Success,Kazakhstan,1965,53
+RVSN USSR,0,Success,Kazakhstan,1965,53
+RVSN USSR,0,Success,Russia,1965,53
+RVSN USSR,0,Success,Kazakhstan,1965,53
+RVSN USSR,0,Success,Kazakhstan,1965,53
+RVSN USSR,0,Success,Kazakhstan,1965,53
+RVSN USSR,0,Success,Kazakhstan,1965,53
+RVSN USSR,0,Success,Russia,1965,53
+RVSN USSR,0,Partial Failure,Kazakhstan,1965,53
+RVSN USSR,0,Success,Kazakhstan,1965,53
+RVSN USSR,0,Success,Kazakhstan,1965,53
+RVSN USSR,0,Success,Russia,1965,53
+RVSN USSR,0,Success,Kazakhstan,1965,53
+RVSN USSR,0,Success,Kazakhstan,1965,53
+RVSN USSR,0,Success,Russia,1965,53
+RVSN USSR,0,Success,Kazakhstan,1965,53
+RVSN USSR,0,Success,Kazakhstan,1965,53
+RVSN USSR,0,Success,Kazakhstan,1965,53
+RVSN USSR,0,Success,Kazakhstan,1965,53
+RVSN USSR,0,Success,Kazakhstan,1965,53
+RVSN USSR,0,Success,Kazakhstan,1965,53
+RVSN USSR,0,Success,Kazakhstan,1965,53
+RVSN USSR,0,Success,Kazakhstan,1965,53
+RVSN USSR,0,Success,Kazakhstan,1965,53
+RVSN USSR,0,Success,Kazakhstan,1965,53
+RVSN USSR,0,Success,Russia,1965,53
+RVSN USSR,0,Success,Kazakhstan,1965,53
+RVSN USSR,0,Success,Kazakhstan,1965,53
+RVSN USSR,0,Success,Kazakhstan,1965,53
+RVSN USSR,0,Failure,Kazakhstan,1965,53
+RVSN USSR,0,Success,Russia,1965,53
+RVSN USSR,0,Success,Kazakhstan,1965,53
+RVSN USSR,0,Success,Kazakhstan,1965,53
+RVSN USSR,0,Success,Kazakhstan,1965,53
+RVSN USSR,0,Success,Kazakhstan,1965,53
+RVSN USSR,0,Success,Kazakhstan,1965,53
+RVSN USSR,0,Success,Kazakhstan,1965,53
+RVSN USSR,0,Success,Kazakhstan,1965,53
+RVSN USSR,0,Success,Kazakhstan,1965,53
+RVSN USSR,0,Failure,Kazakhstan,1965,53
+RVSN USSR,0,Success,Kazakhstan,1965,53
+RVSN USSR,0,Success,Kazakhstan,1965,53
+RVSN USSR,0,Success,Kazakhstan,1965,53
+RVSN USSR,0,Success,Kazakhstan,1965,53
+RVSN USSR,0,Success,Kazakhstan,1965,53
+RVSN USSR,0,Success,Kazakhstan,1965,53
+RVSN USSR,0,Success,Kazakhstan,1965,53
+RVSN USSR,0,Success,Kazakhstan,1965,53
+RVSN USSR,0,Failure,Russia,1965,53
+RVSN USSR,0,Failure,Russia,1965,53
+RVSN USSR,0,Success,Russia,1965,53
+RVSN USSR,0,Success,Kazakhstan,1965,53
+Martin Marietta,0,Partial Failure,USA,1965,3
+Martin Marietta,0,Failure,USA,1965,3
+Martin Marietta,0,Success,USA,1965,3
+NASA,0,Success,USA,1965,9
+NASA,0,Success,USA,1965,9
+NASA,0,Success,USA,1965,9
+NASA,0,Success,USA,1965,9
+NASA,0,Success,USA,1965,9
+NASA,0,Success,USA,1965,9
+NASA,0,Success,USA,1965,9
+NASA,0,Success,USA,1965,9
+NASA,0,Success,USA,1965,9
+Arm??e de l'Air,0,Success,France,1965,1
+General Dynamics,0,Success,USA,1965,19
+General Dynamics,0,Failure,USA,1965,19
+General Dynamics,0,Success,USA,1965,19
+General Dynamics,0,Success,USA,1965,19
+General Dynamics,0,Success,USA,1965,19
+General Dynamics,0,Success,USA,1965,19
+General Dynamics,0,Success,USA,1965,19
+General Dynamics,0,Failure,USA,1965,19
+General Dynamics,0,Success,USA,1965,19
+General Dynamics,0,Failure,USA,1965,19
+General Dynamics,0,Success,USA,1965,19
+General Dynamics,0,Success,USA,1965,19
+General Dynamics,0,Success,USA,1965,19
+General Dynamics,0,Success,USA,1965,19
+General Dynamics,0,Success,USA,1965,19
+General Dynamics,0,Failure,USA,1965,19
+General Dynamics,0,Success,USA,1965,19
+General Dynamics,0,Success,USA,1965,19
+General Dynamics,0,Failure,USA,1965,19
+US Air Force,63,Success,USA,1965,2
+US Air Force,63,Success,USA,1965,2
+General Dynamics,0,Partial Failure,USA,1964,18
+General Dynamics,0,Success,USA,1964,18
+General Dynamics,0,Success,USA,1964,18
+General Dynamics,0,Failure,USA,1964,18
+General Dynamics,0,Success,USA,1964,18
+General Dynamics,0,Failure,USA,1964,18
+General Dynamics,0,Success,USA,1964,18
+General Dynamics,0,Success,USA,1964,18
+General Dynamics,0,Success,USA,1964,18
+General Dynamics,0,Success,USA,1964,18
+General Dynamics,0,Success,USA,1964,18
+General Dynamics,0,Success,USA,1964,18
+General Dynamics,0,Failure,USA,1964,18
+General Dynamics,0,Success,USA,1964,18
+General Dynamics,0,Success,USA,1964,18
+General Dynamics,0,Success,USA,1964,18
+General Dynamics,0,Success,USA,1964,18
+General Dynamics,0,Success,USA,1964,18
+US Air Force,63,Success,USA,1964,2
+US Air Force,63,Failure,USA,1964,2
+RVSN USSR,0,Success,Russia,1964,36
+RVSN USSR,0,Failure,Russia,1964,36
+RVSN USSR,0,Success,Kazakhstan,1964,36
+RVSN USSR,0,Success,Kazakhstan,1964,36
+RVSN USSR,0,Success,Russia,1964,36
+RVSN USSR,0,Failure,Kazakhstan,1964,36
+RVSN USSR,0,Success,Kazakhstan,1964,36
+RVSN USSR,0,Success,Kazakhstan,1964,36
+RVSN USSR,0,Success,Kazakhstan,1964,36
+RVSN USSR,0,Success,Kazakhstan,1964,36
+RVSN USSR,0,Success,Kazakhstan,1964,36
+RVSN USSR,0,Success,Kazakhstan,1964,36
+RVSN USSR,0,Success,Russia,1964,36
+RVSN USSR,0,Success,Kazakhstan,1964,36
+RVSN USSR,0,Success,Kazakhstan,1964,36
+RVSN USSR,0,Success,Kazakhstan,1964,36
+RVSN USSR,0,Success,Russia,1964,36
+RVSN USSR,0,Success,Kazakhstan,1964,36
+RVSN USSR,0,Success,Kazakhstan,1964,36
+RVSN USSR,0,Success,Kazakhstan,1964,36
+RVSN USSR,0,Success,Kazakhstan,1964,36
+RVSN USSR,0,Success,Kazakhstan,1964,36
+RVSN USSR,0,Success,Russia,1964,36
+RVSN USSR,0,Failure,Kazakhstan,1964,36
+RVSN USSR,0,Success,Kazakhstan,1964,36
+RVSN USSR,0,Success,Kazakhstan,1964,36
+RVSN USSR,0,Failure,Kazakhstan,1964,36
+RVSN USSR,0,Success,Kazakhstan,1964,36
+RVSN USSR,0,Success,Kazakhstan,1964,36
+RVSN USSR,0,Success,Kazakhstan,1964,36
+RVSN USSR,0,Partial Failure,Kazakhstan,1964,36
+RVSN USSR,0,Failure,Kazakhstan,1964,36
+RVSN USSR,0,Success,Russia,1964,36
+RVSN USSR,0,Success,Russia,1964,36
+RVSN USSR,0,Failure,Kazakhstan,1964,36
+RVSN USSR,0,Success,Kazakhstan,1964,36
+NASA,0,Success,USA,1964,4
+NASA,0,Success,USA,1964,4
+NASA,0,Success,USA,1964,4
+NASA,0,Success,USA,1964,4
+NASA,0,Success,USA,1963,2
+NASA,0,Success,USA,1963,2
+RVSN USSR,0,Success,Kazakhstan,1963,24
+RVSN USSR,0,Success,Russia,1963,24
+RVSN USSR,0,Failure,Kazakhstan,1963,24
+RVSN USSR,0,Success,Kazakhstan,1963,24
+RVSN USSR,0,Success,Kazakhstan,1963,24
+RVSN USSR,0,Success,Kazakhstan,1963,24
+RVSN USSR,0,Failure,Russia,1963,24
+RVSN USSR,0,Success,Kazakhstan,1963,24
+RVSN USSR,0,Failure,Russia,1963,24
+RVSN USSR,0,Success,Russia,1963,24
+RVSN USSR,0,Failure,Kazakhstan,1963,24
+RVSN USSR,0,Success,Kazakhstan,1963,24
+RVSN USSR,0,Success,Kazakhstan,1963,24
+RVSN USSR,0,Failure,Russia,1963,24
+RVSN USSR,0,Success,Kazakhstan,1963,24
+RVSN USSR,0,Success,Russia,1963,24
+RVSN USSR,0,Success,Kazakhstan,1963,24
+RVSN USSR,0,Success,Kazakhstan,1963,24
+RVSN USSR,0,Success,Russia,1963,24
+RVSN USSR,0,Failure,Russia,1963,24
+RVSN USSR,0,Success,Kazakhstan,1963,24
+RVSN USSR,0,Success,Kazakhstan,1963,24
+RVSN USSR,0,Failure,Kazakhstan,1963,24
+RVSN USSR,0,Failure,Kazakhstan,1963,24
+General Dynamics,0,Success,USA,1963,9
+General Dynamics,0,Success,USA,1963,9
+General Dynamics,0,Success,USA,1963,9
+General Dynamics,0,Success,USA,1963,9
+General Dynamics,0,Success,USA,1963,9
+General Dynamics,0,Success,USA,1963,9
+General Dynamics,0,Success,USA,1963,9
+General Dynamics,0,Failure,USA,1963,9
+General Dynamics,0,Success,USA,1963,9
+US Air Force,0,Failure,USA,1963,6
+US Air Force,0,Success,USA,1963,6
+US Air Force,0,Success,USA,1963,6
+US Air Force,0,Failure,USA,1963,6
+US Air Force,0,Failure,USA,1963,6
+US Air Force,0,Success,USA,1963,6
+RVSN USSR,0,Success,Kazakhstan,1962,22
+RVSN USSR,0,Failure,Kazakhstan,1962,22
+RVSN USSR,0,Success,Kazakhstan,1962,22
+RVSN USSR,0,Failure,Russia,1962,22
+RVSN USSR,0,Failure,Kazakhstan,1962,22
+RVSN USSR,0,Success,Russia,1962,22
+RVSN USSR,0,Success,Kazakhstan,1962,22
+RVSN USSR,0,Success,Kazakhstan,1962,22
+RVSN USSR,0,Failure,Kazakhstan,1962,22
+RVSN USSR,0,Failure,Kazakhstan,1962,22
+RVSN USSR,0,Failure,Kazakhstan,1962,22
+RVSN USSR,0,Success,Russia,1962,22
+RVSN USSR,0,Success,Kazakhstan,1962,22
+RVSN USSR,0,Success,Kazakhstan,1962,22
+RVSN USSR,0,Success,Kazakhstan,1962,22
+RVSN USSR,0,Success,Russia,1962,22
+RVSN USSR,0,Failure,Kazakhstan,1962,22
+RVSN USSR,0,Success,Russia,1962,22
+RVSN USSR,0,Success,Kazakhstan,1962,22
+RVSN USSR,0,Success,Russia,1962,22
+RVSN USSR,0,Success,Russia,1962,22
+RVSN USSR,0,Success,Russia,1962,22
+US Air Force,0,Success,USA,1962,41
+US Air Force,0,Success,USA,1962,41
+US Air Force,0,Success,USA,1962,41
+US Air Force,0,Success,USA,1962,41
+US Air Force,0,Success,USA,1962,41
+US Air Force,0,Success,USA,1962,41
+US Air Force,0,Success,USA,1962,41
+US Air Force,0,Success,USA,1962,41
+US Air Force,0,Success,USA,1962,41
+US Air Force,0,Success,USA,1962,41
+US Air Force,0,Success,USA,1962,41
+US Air Force,0,Success,USA,1962,41
+US Air Force,0,Success,USA,1962,41
+US Air Force,0,Success,USA,1962,41
+US Air Force,0,Success,USA,1962,41
+US Air Force,0,Success,USA,1962,41
+US Air Force,0,Success,USA,1962,41
+US Air Force,0,Success,USA,1962,41
+US Air Force,0,Success,USA,1962,41
+US Air Force,0,Success,USA,1962,41
+US Air Force,0,Success,USA,1962,41
+US Air Force,0,Success,USA,1962,41
+US Air Force,0,Success,USA,1962,41
+US Air Force,0,Success,USA,1962,41
+US Air Force,0,Success,USA,1962,41
+US Air Force,0,Success,USA,1962,41
+US Air Force,0,Success,USA,1962,41
+US Air Force,0,Success,USA,1962,41
+US Air Force,0,Success,USA,1962,41
+US Air Force,0,Failure,USA,1962,41
+US Air Force,0,Success,USA,1962,41
+US Air Force,0,Failure,USA,1962,41
+US Air Force,0,Success,USA,1962,41
+US Air Force,0,Success,USA,1962,41
+US Air Force,0,Success,USA,1962,41
+US Air Force,0,Success,USA,1962,41
+US Air Force,0,Success,USA,1962,41
+US Air Force,0,Partial Failure,USA,1962,41
+US Air Force,0,Success,USA,1962,41
+US Air Force,0,Failure,USA,1962,41
+US Air Force,0,Failure,USA,1962,41
+General Dynamics,0,Failure,USA,1962,14
+General Dynamics,0,Success,USA,1962,14
+General Dynamics,0,Success,USA,1962,14
+General Dynamics,0,Success,USA,1962,14
+General Dynamics,0,Success,USA,1962,14
+General Dynamics,0,Failure,USA,1962,14
+General Dynamics,0,Success,USA,1962,14
+General Dynamics,0,Success,USA,1962,14
+General Dynamics,0,Failure,USA,1962,14
+General Dynamics,0,Success,USA,1962,14
+General Dynamics,0,Success,USA,1962,14
+General Dynamics,0,Success,USA,1962,14
+General Dynamics,0,Success,USA,1962,14
+General Dynamics,0,Partial Failure,USA,1962,14
+NASA,0,Success,USA,1962,5
+NASA,0,Success,USA,1962,5
+NASA,0,Success,USA,1962,5
+NASA,0,Failure,USA,1962,5
+NASA,0,Success,USA,1962,5
+General Dynamics,0,Partial Failure,USA,1961,8
+General Dynamics,0,Failure,USA,1961,8
+General Dynamics,0,Failure,USA,1961,8
+General Dynamics,0,Partial Failure,USA,1961,8
+General Dynamics,0,Failure,USA,1961,8
+General Dynamics,0,Failure,USA,1961,8
+General Dynamics,0,Success,USA,1961,8
+General Dynamics,0,Success,USA,1961,8
+RVSN USSR,0,Failure,Russia,1961,9
+RVSN USSR,0,Failure,Kazakhstan,1961,9
+RVSN USSR,0,Failure,Russia,1961,9
+RVSN USSR,0,Success,Kazakhstan,1961,9
+RVSN USSR,0,Success,Kazakhstan,1961,9
+RVSN USSR,0,Success,Kazakhstan,1961,9
+RVSN USSR,0,Success,Kazakhstan,1961,9
+RVSN USSR,0,Success,Kazakhstan,1961,9
+RVSN USSR,0,Failure,Kazakhstan,1961,9
+US Air Force,0,Success,USA,1961,23
+US Air Force,0,Success,USA,1961,23
+US Air Force,0,Success,USA,1961,23
+US Air Force,0,Failure,USA,1961,23
+US Air Force,0,Failure,USA,1961,23
+US Air Force,0,Success,USA,1961,23
+US Air Force,0,Success,USA,1961,23
+US Air Force,0,Success,USA,1961,23
+US Air Force,0,Success,USA,1961,23
+US Air Force,0,Success,USA,1961,23
+US Air Force,0,Failure,USA,1961,23
+US Air Force,0,Failure,USA,1961,23
+US Air Force,0,Success,USA,1961,23
+US Air Force,0,Success,USA,1961,23
+US Air Force,0,Success,USA,1961,23
+US Air Force,0,Success,USA,1961,23
+US Air Force,0,Failure,USA,1961,23
+US Air Force,0,Success,USA,1961,23
+US Air Force,0,Failure,USA,1961,23
+US Air Force,0,Success,USA,1961,23
+US Air Force,0,Success,USA,1961,23
+US Air Force,0,Success,USA,1961,23
+US Air Force,0,Success,USA,1961,23
+NASA,0,Success,USA,1961,12
+NASA,0,Failure,USA,1961,12
+NASA,0,Success,USA,1961,12
+NASA,0,Partial Failure,USA,1961,12
+NASA,0,Success,USA,1961,12
+NASA,0,Failure,USA,1961,12
+NASA,0,Success,USA,1961,12
+NASA,0,Failure,USA,1961,12
+NASA,0,Success,USA,1961,12
+NASA,0,Success,USA,1961,12
+NASA,0,Success,USA,1961,12
+NASA,0,Success,USA,1961,12
+RVSN USSR,0,Failure,Kazakhstan,1960,9
+RVSN USSR,0,Success,Kazakhstan,1960,9
+RVSN USSR,0,Failure,Kazakhstan,1960,9
+RVSN USSR,0,Failure,Kazakhstan,1960,9
+RVSN USSR,0,Success,Kazakhstan,1960,9
+RVSN USSR,0,Failure,Kazakhstan,1960,9
+RVSN USSR,0,Success,Kazakhstan,1960,9
+RVSN USSR,0,Failure,Kazakhstan,1960,9
+RVSN USSR,0,Failure,Kazakhstan,1960,9
+US Air Force,0,Success,USA,1960,21
+US Air Force,0,Success,USA,1960,21
+US Air Force,0,Failure,USA,1960,21
+US Air Force,0,Success,USA,1960,21
+US Air Force,0,Success,USA,1960,21
+US Air Force,0,Failure,USA,1960,21
+US Air Force,0,Success,USA,1960,21
+US Air Force,0,Success,USA,1960,21
+US Air Force,0,Failure,USA,1960,21
+US Air Force,0,Success,USA,1960,21
+US Air Force,0,Success,USA,1960,21
+US Air Force,0,Success,USA,1960,21
+US Air Force,0,Failure,USA,1960,21
+US Air Force,0,Success,USA,1960,21
+US Air Force,0,Failure,USA,1960,21
+US Air Force,0,Success,USA,1960,21
+US Air Force,0,Success,USA,1960,21
+US Air Force,0,Success,USA,1960,21
+US Air Force,0,Success,USA,1960,21
+US Air Force,0,Failure,USA,1960,21
+US Air Force,0,Failure,USA,1960,21
+NASA,0,Success,USA,1960,4
+NASA,0,Failure,USA,1960,4
+NASA,0,Failure,USA,1960,4
+NASA,0,Failure,USA,1960,4
+General Dynamics,0,Failure,USA,1960,5
+General Dynamics,0,Failure,USA,1960,5
+General Dynamics,0,Failure,USA,1960,5
+General Dynamics,0,Success,USA,1960,5
+General Dynamics,0,Failure,USA,1960,5
+General Dynamics,0,Failure,USA,1959,1
+US Air Force,0,Failure,USA,1959,10
+US Air Force,0,Success,USA,1959,10
+US Air Force,0,Failure,USA,1959,10
+US Air Force,0,Success,USA,1959,10
+US Air Force,0,Success,USA,1959,10
+US Air Force,0,Success,USA,1959,10
+US Air Force,0,Failure,USA,1959,10
+US Air Force,0,Failure,USA,1959,10
+US Air Force,0,Success,USA,1959,10
+US Air Force,0,Failure,USA,1959,10
+RVSN USSR,0,Success,Kazakhstan,1959,4
+RVSN USSR,0,Success,Kazakhstan,1959,4
+RVSN USSR,0,Failure,Kazakhstan,1959,4
+RVSN USSR,0,Partial Failure,Kazakhstan,1959,4
+US Navy,0,Partial Failure,USA,1959,4
+US Navy,0,Failure,USA,1959,4
+US Navy,0,Failure,USA,1959,4
+US Navy,0,Success,USA,1959,4
+NASA,0,Partial Failure,USA,1959,1
+US Air Force,0,Success,USA,1958,2
+US Air Force,0,Failure,USA,1958,2
+AMBA,0,Partial Failure,USA,1958,7
+AMBA,0,Failure,USA,1958,7
+AMBA,0,Failure,USA,1958,7
+AMBA,0,Success,USA,1958,7
+AMBA,0,Success,USA,1958,7
+AMBA,0,Failure,USA,1958,7
+AMBA,0,Success,USA,1958,7
+RVSN USSR,0,Failure,Kazakhstan,1958,5
+RVSN USSR,0,Failure,Kazakhstan,1958,5
+RVSN USSR,0,Failure,Kazakhstan,1958,5
+RVSN USSR,0,Success,Kazakhstan,1958,5
+RVSN USSR,0,Failure,Kazakhstan,1958,5
+NASA,0,Failure,USA,1958,2
+NASA,0,Partial Failure,USA,1958,2
+US Navy,0,Failure,USA,1958,12
+US Navy,0,Failure,USA,1958,12
+US Navy,0,Failure,USA,1958,12
+US Navy,0,Failure,USA,1958,12
+US Navy,0,Failure,USA,1958,12
+US Navy,0,Failure,USA,1958,12
+US Navy,0,Failure,USA,1958,12
+US Navy,0,Failure,USA,1958,12
+US Navy,0,Failure,USA,1958,12
+US Navy,0,Failure,USA,1958,12
+US Navy,0,Success,USA,1958,12
+US Navy,0,Failure,USA,1958,12
+US Navy,0,Failure,USA,1957,1
+RVSN USSR,0,Success,Kazakhstan,1957,2
+RVSN USSR,0,Success,Kazakhstan,1957,2
