@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="/Users/andersongarcesmolina/Documents/Data Analysis python/sql-gopro/prism-okaidia.css" />
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.24.1/prism.min.js" integrity="sha512-4+4S/6K1k5szabRREwDIQ9awIMn8hDccWuxMlF/Q2wOv0Agl6hXNSWpS99bS3R9T+EQoYfUG6d/AZKcPl2wCxQ==" crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.24.1/plugins/autoloader/prism-autoloader.min.js" integrity="sha512-r/ZoDey4iU5iYgOV8tvdy5LJi/5BpLHx0Y9A3P3slwq/JVJAObfIrtI56u4h6dcLUzBxMRuEdT/9ykvRoK4vlw==" crossorigin="anonymous"></script>
+  <title>Código SQL</title>
+</head>
+<body>
+
+<pre class="line-numbers"><code class="language-sql">
+-- -----------------------------------------------------
+-- Table `GOPRO`.`order_items`
+-- -----------------------------------------------------
+CREATE TABLE IF NOT EXISTS `GOPRO`.`order_items` (
+  `order_item_id` INT NOT NULL,
+  `created_at` TEXT NULL DEFAULT NULL,
+  `order_id` INT NULL,
+  `product_id` INT NULL DEFAULT NULL,
+  `is_primary_item` INT NULL DEFAULT NULL,
+  `price_usd` DOUBLE NULL DEFAULT NULL,
+  `cogs_usd` DOUBLE NULL DEFAULT NULL,
+  PRIMARY KEY (`order_item_id`))
+ENGINE = InnoDB
+DEFAULT CHARACTER SET = utf8mb4
+COLLATE = utf8mb4_0900_ai_ci;
+
+
+-- -----------------------------------------------------
+-- Table `GOPRO`.`orders`
+-- -----------------------------------------------------
+CREATE TABLE IF NOT EXISTS `GOPRO`.`orders` (
+  `order_id` INT NOT NULL,
+  `created_at` TEXT NULL DEFAULT NULL,
+  `website_session_id` INT NULL DEFAULT NULL,
+  `user_id` INT NULL DEFAULT NULL,
+  `primary_product_id` INT NULL DEFAULT NULL,
+  `items_purchased` INT NULL DEFAULT NULL,
+  `price_usd` DOUBLE NULL DEFAULT NULL,
+  `cogs_usd` DOUBLE NULL DEFAULT NULL,
+  PRIMARY KEY (`order_id`),
+  UNIQUE INDEX `order_id_UNIQUE` (`order_id` ASC) VISIBLE)
+ENGINE = InnoDB
+DEFAULT CHARACTER SET = utf8mb4
+COLLATE = utf8mb4_0900_ai_ci;
+
+
+-- -----------------------------------------------------
+-- Table `GOPRO`.`products`
+-- -----------------------------------------------------
+CREATE TABLE IF NOT EXISTS `GOPRO`.`products` (
+  `product_id` INT NOT NULL,
+  `created_at` TEXT NULL DEFAULT NULL,
+  `product_name` TEXT NULL DEFAULT NULL,
+  PRIMARY KEY (`product_id`))
+ENGINE = InnoDB
+DEFAULT CHARACTER SET = utf8mb4
+COLLATE = utf8mb4_0900_ai_ci;
+
+
+-- -----------------------------------------------------
+-- Table `GOPRO`.`website_smkessiowens`
+-- -----------------------------------------------------
+CREATE TABLE IF NOT EXISTS `GOPRO`.`website_smkessiowens` (
+  `website_session_id` INT NOT NULL,
+  `created_at` TEXT NULL DEFAULT NULL,
+  `` INT NULL DEFAULT NULL,
+  `is_repeat_session` INT NULL DEFAULT NULL,
+  `utm_source` TEXT NULL DEFAULT NULL,
+  `utm_campaign` TEXT NULL DEFAULT NULL,
+  `utm_content` TEXT NULL DEFAULT NULL,
+  `device_type` TEXT NULL DEFAULT NULL,
+  `http_referer` TEXT NULL DEFAULT NULL,
+  PRIMARY KEY (`website_session_id`),
+  UNIQUE INDEX `website_session_id_UNIQUE` (`website_session_id` ASC) VISIBLE)
+ENGINE = InnoDB
+DEFAULT CHARACTER SET = utf8mb4
+COLLATE = utf8mb4_0900_ai_ci;
+</code></pre>
+
+</body>
+</html>
+
