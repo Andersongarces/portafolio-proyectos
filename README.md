@@ -1,2 +1,2 @@
-# Portafolio con proyectos de empressas y temas variados aplicando Python
+# Portafolio con proyectos de empressas y temas variados aplicando Python y HTML.
 
