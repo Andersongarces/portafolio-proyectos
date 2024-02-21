@@ -1,0 +1,21 @@
+Comentario,Sentimiento TextBlob,Confianza TextBlob
+"Me encantó este libro, fue inspirador y emocionante de principio a fin.",Positivo,1.3666666666666667
+"No pude dejar de leerlo, cada página era más intrigante que la anterior.",Positivo,0.5666666666666667
+"El desarrollo de los personajes fue impresionante, realmente sentí que los conocía.",Positivo,1.2
+La trama era predecible y el final fue decepcionante.,Negativo,1.0
+"No conecté con los personajes, me resultaron poco realistas.",Negativo,1.5
+"Este libro me dejó pensando durante días, realmente me hizo reflexionar sobre la vida.",Positivo,0.2
+"La escritura era hermosa y poética, cada palabra estaba cuidadosamente elegida.",Positivo,1.2916666666666665
+"No recomendaría este libro a nadie, no vale la pena el tiempo de lectura.",Negativo,0.25
+"No puedo esperar para leer más del autor, definitivamente me ha ganado como fan.",Positivo,0.75
+"La historia me atrapó desde la primera página, no podía ponerlo en espera.",Positivo,0.5833333333333333
+"No puedo entender por qué este libro recibió tantas críticas positivas, no lo encontré interesante en absoluto.",Positivo,0.9242424242424243
+"Me sentí completamente absorbido por la narrativa, fue como si estuviera viviendo la historia.",Positivo,1.2
+"La prosa era confusa y difícil de seguir, tuve que volver a leer varias veces para entender lo que estaba pasando.",Negativo,0.7333333333333333
+"Fue una lectura ligera y entretenida, perfecta para relajarse en un día lluvioso.",Positivo,1.4333333333333331
+"La trama era original y refrescante, no había leído nada parecido antes.",Positivo,1.0083333333333333
+"Los diálogos eran realistas y convincentes, realmente sentí que estaba escuchando a personas reales hablar.",Positivo,0.725
+"Este libro superó mis expectativas, definitivamente lo recomendaría a cualquiera que esté buscando una buena lectura.",Positivo,0.9
+"No puedo expresar lo mucho que disfruté este libro, me hizo reír y llorar en igual medida.",Positivo,0.575
+"Fue una montaña rusa emocional, nunca sabía qué esperar a continuación.",Neutral,0.325
+"Los personajes secundarios eran tan interesantes como los protagonistas, cada uno tenía su propia historia convincente.",Positivo,1.025
